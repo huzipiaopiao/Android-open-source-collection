@@ -4,19 +4,29 @@
 # 视频类:
 - Bilibili [ijkplayer](https://github.com/Bilibili/ijkplayer)
 - google [ExoPlayer](https://github.com/google/ExoPlayer)
-- [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer) 视频播放，支持一行代码将系统的播放器换成Ijkplayer Exoplayer Vitamio等
+- yixia [VitamioBundleStudio](https://github.com/yixia/VitamioBundleStudio) Vitamio [官网首页](https://www.vitamio.org/)
+- lipangit [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer) 视频播放，支持一行代码将系统的播放器换成Ijkplayer Exoplayer Vitamio等
 - daniulive [SmarterStreaming](https://github.com/daniulive/SmarterStreaming) 直播类，当然包含视频播放
-- [GiraffePlayer2](https://github.com/tcking/GiraffePlayer2) 基于ijkplayer
+- [GiraffePlayer2](https://github.com/tcking/GiraffePlayer2) 基于ijkplayer，这个挺好用的
 - [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) 帮助控制Android MediaPlayer的，会更加方便
+## demo类：
+- iknow4 [Android-Video-Trimmer](https://github.com/iknow4/Android-Video-Trimmer) 视频裁剪功能的demo
+- maimingliang [WxRecoderVideo](https://github.com/maimingliang/WxRecoderVideo) 基于VCamera，仿微信录制短视频,demo
 
 # MVP框架:
 - [mosby](https://github.com/sockeqwe/mosby)
+
+# 更强的RecyclerView
+- CymChad [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) 更方便的recyclerView
+
+# 条目Item侧滑效果:
+- anzaizai [EasySwipeMenuLayout](https://github.com/anzaizai/EasySwipeMenuLayout) 左右均可添加侧拉按钮
 
 # 主题类:
 - Bilibili [MagicaSakura](https://github.com/Bilibili/MagicaSakura) 方便切换主题
 
 # 图片选择器:
-- 知乎  [Matisse](https://github.com/zhihu/Matisse)
+- 知乎  [Matisse](https://github.com/zhihu/Matisse)
 bate版有选择视频的功能，有没有录制视频的功能还没去研究，图片选择挺好用的。
 - Bilibili [boxing](https://github.com/Bilibili/boxing)
 - [PictureSelector](https://github.com/LuckSiege/PictureSelector)
@@ -28,7 +38,14 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - [PhotoPicker](https://github.com/donglua/PhotoPicker) 
 用的是glide4.0以上版本
 - [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
-廖子尧的库，可以试用下，但是没有选视频的功能
+廖子尧的库，可以试用下，但是没有选视频的功能，且已经停止维护了
+
+# 图片压缩:
+- Curzibn [Luban](https://github.com/Curzibn/Luban) 图片压缩，微信压缩后的图片逆向推算出来的压缩算法
 
 # 适配类:
 - 鸿阳大神 [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) 很遗憾的，停止更新了
+
+# 开源的整体项目:
+- fanturbo [Kanzhibo](https://github.com/fanturbo/Kanzhibo) 聚集了斗鱼，熊猫，全民，虎牙和战旗5个平台的直播小助手
+
