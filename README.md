@@ -3,6 +3,12 @@
 
 # 网络类:
 - amitshekhariitbhu [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) 网络请求类
+- facebook [stetho](https://github.com/facebook/stetho) 可以通过浏览器，配合Okhttp的拦截器查看网络请求（抓包），并且可以查看app的DB和Sp的内容
+- loopj [android-async-http](https://github.com/loopj/android-async-http) 基于回调的异步Android Http客户端，构建在Apache的Httpclient库之上。(好像很久没有更新了)
+
+# 网络辅助类：
+- ihsanbal [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor)okhttp的log拦截器
+- facebook [stetho](https://github.com/facebook/stetho) 可以通过浏览器，查看app的DB和Sp的内容 ，并且有配合Okhttp的拦截器，可以查看网络请求（抓包）
 
 # 视频类:
 - Bilibili [ijkplayer](https://github.com/Bilibili/ijkplayer)
@@ -10,14 +16,18 @@
 - yixia [VitamioBundleStudio](https://github.com/yixia/VitamioBundleStudio) Vitamio [官网首页](https://www.vitamio.org/)
 - lipangit [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer) 视频播放，支持一行代码将系统的播放器换成Ijkplayer Exoplayer Vitamio等
 - daniulive [SmarterStreaming](https://github.com/daniulive/SmarterStreaming) 直播类，当然包含视频播放
-- [GiraffePlayer2](https://github.com/tcking/GiraffePlayer2) 基于ijkplayer，这个挺好用的
-- [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) 帮助控制Android MediaPlayer的，会更加方便
+- tcking [GiraffePlayer2](https://github.com/tcking/GiraffePlayer2) 基于ijkplayer，这个挺好用的
+- danylovolokh [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) 帮助控制Android MediaPlayer的，会更加方便
 ## demo类：
 - iknow4 [Android-Video-Trimmer](https://github.com/iknow4/Android-Video-Trimmer) 视频裁剪功能的demo
 - maimingliang [WxRecoderVideo](https://github.com/maimingliang/WxRecoderVideo) 基于VCamera，仿微信录制短视频,demo
 
 # MVP框架:
-- [mosby](https://github.com/sockeqwe/mosby)
+- sockeqwe [mosby](https://github.com/sockeqwe/mosby) [官网](http://hannesdorfmann.com/android/mosby)
+- konmik [nucleus](https://github.com/konmik/nucleus)
+- square [mortar](https://github.com/square/mortar)
+## demo类:
+- ljqloveyou123 [perfect-mvp](https://github.com/ljqloveyou123/perfect-mvp) mvp的demo，也可以直接拿来用
 
 # 滚动布局
 - CymChad [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) 更方便的recyclerView
@@ -36,16 +46,21 @@
 - 知乎  [Matisse](https://github.com/zhihu/Matisse)
 bate版有选择视频的功能，有没有录制视频的功能还没去研究，图片选择挺好用的。
 - Bilibili [boxing](https://github.com/Bilibili/boxing)
-- [PictureSelector](https://github.com/LuckSiege/PictureSelector)
+- LuckSiege [PictureSelector](https://github.com/LuckSiege/PictureSelector)
 支持从相册或拍照选择图片或视频、音频，支持动态权限获取、裁剪(单图or多图裁剪)、压缩、主题自定义配置等功能、适配android 6.0+系统的开源图片选择框架，用的是glide4.0以上版本，会与项目起冲突，具体还没有使用。
-- [RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)
+- FinalTeam [RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)
 Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
-- [TakePhoto](https://github.com/crazycodeboy/TakePhoto)
+- crazycodeboy [TakePhoto](https://github.com/crazycodeboy/TakePhoto)
 在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库。（没有选视频的功能）
-- [PhotoPicker](https://github.com/donglua/PhotoPicker) 
+- donglua [PhotoPicker](https://github.com/donglua/PhotoPicker) 
 用的是glide4.0以上版本
-- [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
+- jeasonlzy [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
 廖子尧的库，可以试用下，但是没有选视频的功能，且已经停止维护了
+
+# 动画效果
+- airbnb [lottie-android](https://github.com/airbnb/lottie-android) 在Android和iOS，Web和React Native上使用After Effects动画
+- facebook [rebound](https://github.com/facebook/rebound) 弹簧效果（没有仔细用过，不清楚还有没有其他效果）
+- facebook [shimmer-android](https://github.com/facebook/shimmer-android) 一闪一闪的效果
 
 # 图片压缩:
 - Curzibn [Luban](https://github.com/Curzibn/Luban) 图片压缩，微信压缩后的图片逆向推算出来的压缩算法
@@ -56,8 +71,14 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 更改字体:
 - chrisjenx [Calligraphy](https://github.com/chrisjenx/Calligraphy) 自定义字体的库
 
+# 表情类:
+- w446108264 [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) 开源表情键盘解决方案
+
+# 键盘类:
+- w446108264 [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) 开源表情键盘解决方案
+
 # 开发辅助工具类:
-- facebook [stetho](https://github.com/facebook/stetho) 可以通过浏览器，查看app的DB和Sp的内容 （AS3.0好像已经可以在工具内看DB了）
+- facebook [stetho](https://github.com/facebook/stetho) 可以通过浏览器，查看app的DB和Sp的内容 ，并且有配合Okhttp的拦截器，可以查看网络请求（抓包）
 - amitshekhariitbhu [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) 可以通过浏览器，查看app的DB和Sp的内容，挺好用的（AS3.0好像已经可以在工具内看DB了）
 
 # 开源的整体项目:
