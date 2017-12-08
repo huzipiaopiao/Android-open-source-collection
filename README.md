@@ -57,6 +57,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - jeasonlzy [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
 廖子尧的库，可以试用下，但是没有选视频的功能，且已经停止维护了
 
+# 数据库:
+- LitePalFramework [LitePal](https://github.com/LitePalFramework/LitePal)
+
 # 动画效果
 - airbnb [lottie-android](https://github.com/airbnb/lottie-android) 在Android和iOS，Web和React Native上使用After Effects动画
 - facebook [rebound](https://github.com/facebook/rebound) 弹簧效果（没有仔细用过，不清楚还有没有其他效果）
