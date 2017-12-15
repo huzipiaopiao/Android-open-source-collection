@@ -35,6 +35,7 @@
 
 # 条目Item侧滑效果:
 - anzaizai [EasySwipeMenuLayout](https://github.com/anzaizai/EasySwipeMenuLayout) 左右均可添加侧拉按钮
+- mcxtzhang [SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout) 史上最简单侧滑菜单，0耦合，支持任意ViewGroup。一步集成侧滑(删除)菜单，高仿QQ、IOS。
 
 # 下载辅助
 - MindorksOpenSource [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader)
@@ -44,7 +45,7 @@
 
 # 图片选择器:
 - 知乎  [Matisse](https://github.com/zhihu/Matisse)
-bate版有选择视频的功能，有没有录制视频的功能还没去研究，图片选择挺好用的。
+bate版有选择视频的功能，有没有录制视频的功能还没去研究，图片选择挺好用的。 
 - Bilibili [boxing](https://github.com/Bilibili/boxing)
 - LuckSiege [PictureSelector](https://github.com/LuckSiege/PictureSelector)
 支持从相册或拍照选择图片或视频、音频，支持动态权限获取、裁剪(单图or多图裁剪)、压缩、主题自定义配置等功能、适配android 6.0+系统的开源图片选择框架，用的是glide4.0以上版本，会与项目起冲突，具体还没有使用。
@@ -56,6 +57,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 用的是glide4.0以上版本
 - jeasonlzy [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
 廖子尧的库，可以试用下，但是没有选视频的功能，且已经停止维护了
+- guoxiaoxing [phoenix](https://github.com/guoxiaoxing/phoenix) Android平台上图片/视频选择，编辑和压缩的一站式解决方案。使用后发现有个问题就是对焦不准
 
 # 数据库:
 - LitePalFramework [LitePal](https://github.com/LitePalFramework/LitePal)
@@ -67,6 +69,15 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 图片压缩:
 - Curzibn [Luban](https://github.com/Curzibn/Luban) 图片压缩，微信压缩后的图片逆向推算出来的压缩算法
+
+# ImageView相关：
+- hdodenhof [CircleImageView](https://github.com/hdodenhof/CircleImageView) 圆形的ImageView
+- vinc3m1 [RoundedImageView](https://github.com/vinc3m1/RoundedImageView) 支持圆角，椭圆和圆ImageView。
+
+# 图片显示相关：
+- bumptech [glide](https://github.com/bumptech/glide) 官方推荐加载图片库
+- wasabeef [glide-transformations](https://github.com/wasabeef/glide-transformations) 为Glide提供各种图像转换的Android转换库。
+- sephiroth74 [ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom) ImageView，具有缩放和平移功能
 
 # 适配类:
 - 鸿阳大神 [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) 很遗憾的，停止更新了
@@ -83,10 +94,17 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 开发辅助工具类:
 - facebook [stetho](https://github.com/facebook/stetho) 可以通过浏览器，查看app的DB和Sp的内容 ，并且有配合Okhttp的拦截器，可以查看网络请求（抓包）
 - amitshekhariitbhu [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) 可以通过浏览器，查看app的DB和Sp的内容，挺好用的（AS3.0好像已经可以在工具内看DB了）
+- uber [NullAway](https://github.com/uber/NullAway) 一个有助于消除Java代码中的NullPointerException（NPE）的工具，具有较低的构建时间开销
 
 # 开源的整体项目:
 - fanturbo [Kanzhibo](https://github.com/fanturbo/Kanzhibo) 聚集了斗鱼，熊猫，全民，虎牙和战旗5个平台的直播小助手
 - MindorksOpenSource [android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) 这个库包含一个详细的示例应用程序，它使用Dagger2，GreenDao，RxJava2，FastAndroidNetworking和PlaceholderView实现MVP体系结构
+- Horrarndoo [YiZhi](https://github.com/Horrarndoo/YiZhi)   MVP+RxJava2+Retrofit2+Glide+Rxbus，主要实现日报、新闻、干货、影视等资讯，个人项目
 
 # Demo类:
 - amitshekhariitbhu [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) Rxjava2的demo
+
+# 刷题题库总结([LeetCode](https://leetcode.com/)和[LintCode ](http://www.lintcode.com/zh-cn/#))：
+- awangdev [LintCode](https://github.com/awangdev/LintCode)
+- Blankj [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
+- scottszb1987 [LeetCodeInCSharp](https://github.com/scottszb1987/LeetCodeInCSharp) 
