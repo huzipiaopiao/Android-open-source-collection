@@ -18,6 +18,7 @@
 - daniulive [SmarterStreaming](https://github.com/daniulive/SmarterStreaming) 直播类，当然包含视频播放
 - tcking [GiraffePlayer2](https://github.com/tcking/GiraffePlayer2) 基于ijkplayer，这个挺好用的
 - danylovolokh [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) 帮助控制Android MediaPlayer的，会更加方便
+- huyongli [huyongli](https://github.com/huyongli/TigerVideo) Android播放视频library，支持小窗口，全屏模式播放，支持手势控制前进，后退，音量，亮度等操作，支持视频缓存，支持自定义显示视图。视频播放控制与界面展示完全解耦，支持自定义基于不同内核(MediaPlayer, ExoPlayer, PLDroidPlay...)的播放器，对界面操作无任何影响
 ## demo类：
 - iknow4 [Android-Video-Trimmer](https://github.com/iknow4/Android-Video-Trimmer) 视频裁剪功能的demo
 - maimingliang [WxRecoderVideo](https://github.com/maimingliang/WxRecoderVideo) 基于VCamera，仿微信录制短视频,demo
@@ -78,6 +79,10 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - bumptech [glide](https://github.com/bumptech/glide) 官方推荐加载图片库
 - wasabeef [glide-transformations](https://github.com/wasabeef/glide-transformations) 为Glide提供各种图像转换的Android转换库。
 - sephiroth74 [ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom) ImageView，具有缩放和平移功能
+- alexvasilkov [GestureViews](https://github.com/alexvasilkov/GestureViews) ImageView和FrameLayout手势控制和位置动画
+
+# 图表类：
+- PhilJay [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)一个强大的Android图表视图/图形视图库，支持线条形 - 雷达 - 泡沫和烛台图表，以及缩放，拖动和动画。
 
 # 适配类:
 - 鸿阳大神 [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) 很遗憾的，停止更新了
@@ -91,10 +96,21 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 键盘类:
 - w446108264 [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) 开源表情键盘解决方案
 
+# 代码工具类：
+- Blankj [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) 各种工具类，你能想到的工具类，基本都有了这个库
+
+# 日志Log辅助类：
+- JakeWharton [timber](https://github.com/JakeWharton/timber)
+- orhanobut [logger](https://github.com/orhanobut/logger)
+- Blankj [ALog](https://github.com/Blankj/ALog)
+
 # 开发辅助工具类:
 - facebook [stetho](https://github.com/facebook/stetho) 可以通过浏览器，查看app的DB和Sp的内容 ，并且有配合Okhttp的拦截器，可以查看网络请求（抓包）
 - amitshekhariitbhu [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) 可以通过浏览器，查看app的DB和Sp的内容，挺好用的（AS3.0好像已经可以在工具内看DB了）
 - uber [NullAway](https://github.com/uber/NullAway) 一个有助于消除Java代码中的NullPointerException（NPE）的工具，具有较低的构建时间开销
+
+# 看起来很厉害的东东：
+- alibaba [ARouter](https://github.com/alibaba/ARouter)一个安卓路由器中间件，帮助应用程序导航到活动和自定义服务。
 
 # 开源的整体项目:
 - fanturbo [Kanzhibo](https://github.com/fanturbo/Kanzhibo) 聚集了斗鱼，熊猫，全民，虎牙和战旗5个平台的直播小助手
