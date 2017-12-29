@@ -57,7 +57,10 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 用的是glide4.0以上版本
 - jeasonlzy [ImagePicker](https://github.com/jeasonlzy/ImagePicker)
 廖子尧的库，可以试用下，但是没有选视频的功能，且已经停止维护了
-- guoxiaoxing [phoenix](https://github.com/guoxiaoxing/phoenix) Android平台上图片/视频选择，编辑和压缩的一站式解决方案。使用后发现有个问题就是对焦不准
+- guoxiaoxing [phoenix](https://github.com/guoxiaoxing/phoenix) Android平台上图片/视频选择，编辑和压缩的一站式解决方案，这个也挺好用的，而且作者问题反馈率很高
+- Werb [PickPhotoSample](https://github.com/Werb/PickPhotoSample) 图片选择库
+- lijunguan [AlbumSelector](https://github.com/lijunguan/AlbumSelector) 图片选择库，可以用来选择头像，或者多张图片选择， material design
+- lovetuzitong [MultiImageSelector](https://github.com/lovetuzitong/MultiImageSelector)比较老
 
 # 数据库:
 - LitePalFramework [LitePal](https://github.com/LitePalFramework/LitePal)
@@ -69,6 +72,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 图片压缩:
 - Curzibn [Luban](https://github.com/Curzibn/Luban) 图片压缩，微信压缩后的图片逆向推算出来的压缩算法
+- zetbaitsu [Compressor](https://github.com/zetbaitsu/Compressor) 
 
 # ImageView相关：
 - hdodenhof [CircleImageView](https://github.com/hdodenhof/CircleImageView) 圆形的ImageView
@@ -78,6 +82,17 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - bumptech [glide](https://github.com/bumptech/glide) 官方推荐加载图片库
 - wasabeef [glide-transformations](https://github.com/wasabeef/glide-transformations) 为Glide提供各种图像转换的Android转换库。
 - sephiroth74 [ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom) ImageView，具有缩放和平移功能
+
+# 拍摄类：
+- wonderkiln [CameraKit-Android](https://github.com/wonderkiln/CameraKit-Android) [中文说明](http://www.jcodecraeer.com/a/opensource/2017/0228/7173.html)方便控制拍摄的库 如果报关于ExifInterface的错，添加一个依赖：compile 'com.android.support:exifinterface:25.+'
+- afollestad [material-camera](https://github.com/afollestad/material-camera) 拍摄库
+- CJT2325 [CameraView](https://github.com/CJT2325/CameraView) 仿微信拍照Android控件（轻触拍照，长按摄像）
+
+# 悬浮类：
+- yhaolpz [FloatWindow](https://github.com/yhaolpz/FloatWindow) Andorid 任意界面悬浮窗
+
+# Fragment类：
+- YoKeyword [Fragmentation](https://github.com/YoKeyword/Fragmentation) 为Android管理Fragment的强大库
 
 # 适配类:
 - 鸿阳大神 [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) 很遗憾的，停止更新了
@@ -95,14 +110,20 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - facebook [stetho](https://github.com/facebook/stetho) 可以通过浏览器，查看app的DB和Sp的内容 ，并且有配合Okhttp的拦截器，可以查看网络请求（抓包）
 - amitshekhariitbhu [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) 可以通过浏览器，查看app的DB和Sp的内容，挺好用的（AS3.0好像已经可以在工具内看DB了）
 - uber [NullAway](https://github.com/uber/NullAway) 一个有助于消除Java代码中的NullPointerException（NPE）的工具，具有较低的构建时间开销
+- yogkin [LogUtil](https://github.com/yogkin/LogUtil) Android日志上传 使用服务通过HTTP或E-MAIL方式，压缩文件上传，支持加密
+- JZ-Darkal [AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture)AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler"
 
 # 开源的整体项目:
 - fanturbo [Kanzhibo](https://github.com/fanturbo/Kanzhibo) 聚集了斗鱼，熊猫，全民，虎牙和战旗5个平台的直播小助手
 - MindorksOpenSource [android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) 这个库包含一个详细的示例应用程序，它使用Dagger2，GreenDao，RxJava2，FastAndroidNetworking和PlaceholderView实现MVP体系结构
 - Horrarndoo [YiZhi](https://github.com/Horrarndoo/YiZhi)   MVP+RxJava2+Retrofit2+Glide+Rxbus，主要实现日报、新闻、干货、影视等资讯，个人项目
+- lovetuzitong [MaterialBaiduImage](https://github.com/lovetuzitong/MaterialBaiduImage)基于MaterialDesign的百度图片浏览客户端
+- lovetuzitong [android-GzLibrary](https://github.com/lovetuzitong/android-GzLibrary)这是广州图书馆的Android客户端实现项目
+- yangchong211 [LifeHelper](https://github.com/yangchong211/LifeHelper) 综合案例训练，包含新闻，视频，图片，音乐，记事本等等模块。采用MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5等架构模式。很详细的开源项目，推荐
 
 # Demo类:
 - amitshekhariitbhu [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) Rxjava2的demo
+- reallin [Android_Mail](https://github.com/reallin/Android_Mail) 在android中发送邮件的demo（lib的jar包）
 
 # 刷题题库总结([LeetCode](https://leetcode.com/)和[LintCode ](http://www.lintcode.com/zh-cn/#))：
 - awangdev [LintCode](https://github.com/awangdev/LintCode)
