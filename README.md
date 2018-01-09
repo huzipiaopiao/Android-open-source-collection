@@ -96,6 +96,23 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 悬浮类：
 - yhaolpz [FloatWindow](https://github.com/yhaolpz/FloatWindow) Andorid 任意界面悬浮窗
 
+# 角标类(Badger)：
+- leolin310148 [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) 桌面图标的消息数角标
+- xuyisheng [ShortcutHelper](https://github.com/xuyisheng/ShortcutHelper) 桌面图标的消息数角标
+- bingoogolapple [BGABadgeView-Android](https://github.com/bingoogolapple/BGABadgeView-Android) app内的消息数角标，类似qq的未读消息数
+- nekocode [Badge](https://github.com/nekocode/Badge) 一个可以设置成类似![开源协议背景](https://raw.githubusercontent.com/nekocode/Badge/master/art/two_text_complementary.png)的那种textview
+
+# 导航类(类似TableLayout和ViewPager)：
+- Devlight [NavigationTabBar](https://github.com/Devlight/NavigationTabBar) 导航标签栏与丰富多彩的互动。
+- hackware1993 [MagicIndicator](https://github.com/hackware1993/MagicIndicator) 强大、可定制、易扩展的 ViewPager 指示器框架。是ViewPagerIndicator、TabLayout、PagerSlidingTabStrip的最佳替代品。支持角标，更支持在非ViewPager场景下使用
+- []()
+
+# 换肤类：
+- hongyangAndroid [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin) 一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity.
+
+# 其他类自定义view
+- hackware1993 [WaveView](https://github.com/hackware1993/WaveView) 一个简单的、巧妙的水波纹扩散效果
+
 # Fragment类：
 - YoKeyword [Fragmentation](https://github.com/YoKeyword/Fragmentation) 为Android管理Fragment的强大库
 
@@ -113,6 +130,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 代码工具类：
 - Blankj [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) 各种工具类，你能想到的工具类，基本都有了这个库
+- wenmingvs [AndroidProcess](https://github.com/wenmingvs/AndroidProcess) 判断App位于前台或者后台的6种方法
 
 # 日志Log辅助类：
 - JakeWharton [timber](https://github.com/JakeWharton/timber)
@@ -140,6 +158,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # Demo类:
 - amitshekhariitbhu [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) Rxjava2的demo
 - reallin [Android_Mail](https://github.com/reallin/Android_Mail) 在android中发送邮件的demo（lib的jar包）
+
+# 书籍类：
+- julycoding [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) 编程之法：面试和算法心得    
 
 # 刷题题库总结([LeetCode](https://leetcode.com/)和[LintCode ](http://www.lintcode.com/zh-cn/#))：
 - awangdev [LintCode](https://github.com/awangdev/LintCode)
