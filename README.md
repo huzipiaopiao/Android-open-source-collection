@@ -87,6 +87,27 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 图表类：
 - PhilJay [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)一个强大的Android图表视图/图形视图库，支持线条形 - 雷达 - 泡沫和烛台图表，以及缩放，拖动和动画。
+- whataa [SuitLines](https://github.com/whataa/SuitLines) 一个小巧且高效的线性图表组件。
+- wordplat [ikvStockChart](https://github.com/wordplat/ikvStockChart) 一个简单的Android股票图表库，支持时间线，K线，MACD，KDJ，RSI，BOLL指数和交互式手势操作，包括左右滑动刷新，缩放，突出显示
+- linheimx [LChart](https://github.com/linheimx/LChart) 一个折线图，它提供了几个非常实用的功能，并且非常简单，易于使用。
+- ZuYun [Jgraph](https://github.com/ZuYun/Jgraph) 一个视觉效果还不错的图表控件
+- DmitriyZaitsev [RadarChartView](https://github.com/DmitriyZaitsev/RadarChartView) 用于渲染径向图的Android视图（小部件）能力图
+- hrules6872 [Charter](https://github.com/hrules6872/Charter) [使用方法](http://www.jcodecraeer.com/a/opensource/2015/1020/3599.html)柱状图 
+- panpf [spider-web-score-view](https://github.com/panpf/spider-web-score-view) SpiderWebScoreView 是 Android 上的一个蛛网评分控件
+- txusballesteros [snake](https://github.com/txusballesteros/snake) Snake View是Android的一个简单和动画线性图表。
+- Geek-1001 [MagnificentChart](https://github.com/Geek-1001/MagnificentChart) 用于圆形图表的简单的开源Android库。[效果图](http://www.jcodecraeer.com/a/opensource/2014/1224/2210.html)
+- Erzer [polonium-chart-view](https://github.com/Erzer/polonium-chart-view) Android库，方便创建图表和自定义视觉风格。主要是折线图
+- lecho [hellocharts-android](https://github.com/lecho/hellocharts-android) [使用方法](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1107/1930.html)适用于Android的图表/图表库兼容API 8+，多种图表类型，支持缩放，滚动和动画 
+- johnjohndoe [AFreeChart](https://github.com/johnjohndoe/AFreeChart) AFreeChart是基于JFreeChart 1.0.13的Android免费图表库
+- svenkapudija [Android-FancyChart](https://github.com/svenkapudija/Android-FancyChart) 折线图
+- blackfizz [EazeGraph](https://github.com/blackfizz/EazeGraph) EazeGraph是一个轻量级简洁扁平风格的开源图表库，目前有Bar Chart，Stacked Bar Chart，Pie Chart，Line Chart四种图表可选择，每一种图表都带有动画效果。只有lib包
+- appsthatmatter [GraphView](https://github.com/appsthatmatter/GraphView) Android图形库，用于创建可缩放和可滚动的线条和条形图。
+- diogobernardino [WilliamChart](https://github.com/diogobernardino/WilliamChart) [使用方法](http://www.jcodecraeer.com/a/opensource/2014/1011/1738.html)Android库创建图表。
+- bmarrdev [android-DecoView-charting](https://github.com/bmarrdev/android-DecoView-charting) 一个实现了各种圆环动画效果的library
+- dlazaro66 [WheelIndicatorView](https://github.com/dlazaro66/WheelIndicatorView) 圆环进度图表
+- txusballesteros [fit-chart](https://github.com/txusballesteros/fit-chart)  Fit Chart 是一个类似于谷歌健康应用的轮子（wheel view）视图。
+# demo：
+- PaoloConte [smooth-line-chart](https://github.com/PaoloConte/smooth-line-chart) 与绘制折线图不同，smooth-line-chart能根据两点绘制平滑的曲线，使用的是贝赛尔曲线的原理。项目比较简单，但是如果你还不知道贝塞尔曲线如何绘制的话可以学习一下。
 
 # 拍摄类：
 - wonderkiln [CameraKit-Android](https://github.com/wonderkiln/CameraKit-Android) [中文说明](http://www.jcodecraeer.com/a/opensource/2017/0228/7173.html)方便控制拍摄的库 如果报关于ExifInterface的错，添加一个依赖：compile 'com.android.support:exifinterface:25.+'
@@ -95,6 +116,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 悬浮类：
 - yhaolpz [FloatWindow](https://github.com/yhaolpz/FloatWindow) Andorid 任意界面悬浮窗
+- txusballesteros [bubbles-for-android](https://github.com/txusballesteros/bubbles-for-android) Bubbles for Android是一个Android库，为您的应用程序提供聊天头功能.可以任何界面悬浮
 
 # 角标类(Badger)：
 - leolin310148 [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) 桌面图标的消息数角标
