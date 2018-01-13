@@ -121,6 +121,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 角标类(Badger)：
 - leolin310148 [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) 桌面图标的消息数角标
 - xuyisheng [ShortcutHelper](https://github.com/xuyisheng/ShortcutHelper) 桌面图标的消息数角标
+- beiliao-mobile [BadgeNumberManager](https://github.com/beiliao-mobile/BadgeNumberManager) 桌面图标的消息数角标，Huawei, Xiaomi, OPPO, vivo 
 - bingoogolapple [BGABadgeView-Android](https://github.com/bingoogolapple/BGABadgeView-Android) app内的消息数角标，类似qq的未读消息数
 - nekocode [Badge](https://github.com/nekocode/Badge) 一个可以设置成类似![开源协议背景](https://raw.githubusercontent.com/nekocode/Badge/master/art/two_text_complementary.png)的那种textview
 
@@ -188,3 +189,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - awangdev [LintCode](https://github.com/awangdev/LintCode)
 - Blankj [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
 - scottszb1987 [LeetCodeInCSharp](https://github.com/scottszb1987/LeetCodeInCSharp) 
+
+# 反编译及脱壳工具类：
+- skylot [jadx](https://github.com/skylot/jadx) 反编译app的工具，只能说超牛
+- DrizzleRisk [drizzleDumper](https://github.com/DrizzleRisk/drizzleDumper) 是一款基于内存搜索的Android脱壳工具。
