@@ -1,6 +1,10 @@
 # Open-source-collection
 由于自己一直在收藏别人的开源项目，到现在已经有几百个收藏的项目了，以至于每次需要某个开源项目时很难找到，所以做了这个统计分类日常用到的开源项目的项目
 
+# 他人做的总结类：
+- Trinea [android-open-project](https://github.com/Trinea/android-open-project)
+- SenhLinsh [Android-Hot-Libraries](https://github.com/SenhLinsh/Android-Hot-Libraries#android-hot-libraries)
+
 # 网络类:
 - amitshekhariitbhu [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) 网络请求类
 - facebook [stetho](https://github.com/facebook/stetho) 可以通过浏览器，配合Okhttp的拦截器查看网络请求（抓包），并且可以查看app的DB和Sp的内容
@@ -64,7 +68,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - lovetuzitong [MultiImageSelector](https://github.com/lovetuzitong/MultiImageSelector)比较老
 
 # 数据库:
+- greenrobot [greenDAO](https://github.com/greenrobot/greenDAO)
 - LitePalFramework [LitePal](https://github.com/LitePalFramework/LitePal)
+- agrosner [DBFlow](https://github.com/Raizlabs/DBFlow) [文档](https://github.com/agrosner/DBFlowDocs)
 
 # 动画效果
 - airbnb [lottie-android](https://github.com/airbnb/lottie-android) 在Android和iOS，Web和React Native上使用After Effects动画
@@ -78,6 +84,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # ImageView相关：
 - hdodenhof [CircleImageView](https://github.com/hdodenhof/CircleImageView) 圆形的ImageView
 - vinc3m1 [RoundedImageView](https://github.com/vinc3m1/RoundedImageView) 支持圆角，椭圆和圆ImageView。
+- boycy815 [PinchImageView](https://github.com/boycy815/PinchImageView) 这是一个手势体验极棒但使用简单的ImageView控件，实现了手势放大缩小，平移等功能。PinchImageView继承于ImageView，可以在所有ImageView可以使用的情况下使用。全部的程序仅一个类文件，没有依赖任何特殊的外部库，非常易于集成。
+- cnlkl [TransformativeImageView](https://github.com/cnlkl/TransformativeImageView) 自定义ImageView，可以旋转，翻译和缩放图像。[原理](https://www.jianshu.com/p/938ca88fb16a)
+- sephiroth74 [ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom) Android ImageView小部件，具有缩放和平移功能
 
 # 图片显示相关：
 - bumptech [glide](https://github.com/bumptech/glide) 官方推荐加载图片库
@@ -87,6 +96,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 图表类：
 - PhilJay [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)一个强大的Android图表视图/图形视图库，支持线条形 - 雷达 - 泡沫和烛台图表，以及缩放，拖动和动画。
+- lecho [hellocharts-android](https://github.com/lecho/hellocharts-android) [使用方法](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1107/1930.html)适用于Android的图表/图表库兼容API 8+，多种图表类型，支持缩放，滚动和动画 
 - whataa [SuitLines](https://github.com/whataa/SuitLines) 一个小巧且高效的线性图表组件。
 - wordplat [ikvStockChart](https://github.com/wordplat/ikvStockChart) 一个简单的Android股票图表库，支持时间线，K线，MACD，KDJ，RSI，BOLL指数和交互式手势操作，包括左右滑动刷新，缩放，突出显示
 - linheimx [LChart](https://github.com/linheimx/LChart) 一个折线图，它提供了几个非常实用的功能，并且非常简单，易于使用。
@@ -97,7 +107,6 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - txusballesteros [snake](https://github.com/txusballesteros/snake) Snake View是Android的一个简单和动画线性图表。
 - Geek-1001 [MagnificentChart](https://github.com/Geek-1001/MagnificentChart) 用于圆形图表的简单的开源Android库。[效果图](http://www.jcodecraeer.com/a/opensource/2014/1224/2210.html)
 - Erzer [polonium-chart-view](https://github.com/Erzer/polonium-chart-view) Android库，方便创建图表和自定义视觉风格。主要是折线图
-- lecho [hellocharts-android](https://github.com/lecho/hellocharts-android) [使用方法](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1107/1930.html)适用于Android的图表/图表库兼容API 8+，多种图表类型，支持缩放，滚动和动画 
 - johnjohndoe [AFreeChart](https://github.com/johnjohndoe/AFreeChart) AFreeChart是基于JFreeChart 1.0.13的Android免费图表库
 - svenkapudija [Android-FancyChart](https://github.com/svenkapudija/Android-FancyChart) 折线图
 - blackfizz [EazeGraph](https://github.com/blackfizz/EazeGraph) EazeGraph是一个轻量级简洁扁平风格的开源图表库，目前有Bar Chart，Stacked Bar Chart，Pie Chart，Line Chart四种图表可选择，每一种图表都带有动画效果。只有lib包
@@ -117,6 +126,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 悬浮类：
 - yhaolpz [FloatWindow](https://github.com/yhaolpz/FloatWindow) Andorid 任意界面悬浮窗
 - txusballesteros [bubbles-for-android](https://github.com/txusballesteros/bubbles-for-android) Bubbles for Android是一个Android库，为您的应用程序提供聊天头功能.可以任何界面悬浮
+- afollestad [material-dialogs](https://github.com/afollestad/material-dialogs) 一个美丽，流畅，可定制的对话框API。
 
 # 角标类(Badger)：
 - leolin310148 [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) 桌面图标的消息数角标
@@ -133,8 +143,19 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 换肤类：
 - hongyangAndroid [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin) 一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity.
 
+# 下拉刷新：
+- scwang90 [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+
 # 其他类自定义view
 - hackware1993 [WaveView](https://github.com/hackware1993/WaveView) 一个简单的、巧妙的水波纹扩散效果
+- tyrantgit [ExplosionField](https://github.com/tyrantgit/ExplosionField) 天女散花的效果
+- tyrantgit [HeartLayout](https://github.com/tyrantgit/HeartLayout) 点赞的心
+- glomadrian [Grav](https://github.com/glomadrian/Grav) 基于点的可配置动画，各种光离子的动画
+- glomadrian [material-code-input](https://github.com/glomadrian/material-code-input) material的输入框
+- glomadrian [RoadRunner](https://github.com/glomadrian/RoadRunner) 带动画的加载svg图像
+- glomadrian [loading-balls](https://github.com/glomadrian/loading-balls) 一个高度可配置的库，用动画球来加载进度
+- glomadrian [material-animated-switch](https://github.com/glomadrian/material-animated-switch) material的切换开关
+- alibaba [vlayout](https://github.com/alibaba/vlayout)VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题。
 
 # Fragment类：
 - YoKeyword [Fragmentation](https://github.com/YoKeyword/Fragmentation) 为Android管理Fragment的强大库
@@ -150,6 +171,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 键盘类:
 - w446108264 [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) 开源表情键盘解决方案
+
+# 序列化：
+- johncarl81 [parceler](https://github.com/johncarl81/parceler)Android Parcelables通过代码生成变得容易
 
 # 代码工具类：
 - Blankj [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) 各种工具类，你能想到的工具类，基本都有了这个库
@@ -171,6 +195,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - alibaba [ARouter](https://github.com/alibaba/ARouter)一个安卓路由器中间件，帮助应用程序导航到活动和自定义服务。
 
 # 开源的整体项目:
+- pockethub [PocketHub](https://github.com/pockethub/PocketHub)
 - fanturbo [Kanzhibo](https://github.com/fanturbo/Kanzhibo) 聚集了斗鱼，熊猫，全民，虎牙和战旗5个平台的直播小助手
 - MindorksOpenSource [android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) 这个库包含一个详细的示例应用程序，它使用Dagger2，GreenDao，RxJava2，FastAndroidNetworking和PlaceholderView实现MVP体系结构
 - Horrarndoo [YiZhi](https://github.com/Horrarndoo/YiZhi)   MVP+RxJava2+Retrofit2+Glide+Rxbus，主要实现日报、新闻、干货、影视等资讯，个人项目
