@@ -1,6 +1,9 @@
 # Open-source-collection
 由于自己一直在收藏别人的开源项目，到现在已经有几百个收藏的项目了，以至于每次需要某个开源项目时很难找到，所以做了这个统计分类日常用到的开源项目的项目
 
+# 优秀开源作者(都认识的大神，后面慢慢补上)：
+- [代码家](https://github.com/daimajia) 
+
 # 他人做的总结类：
 - Trinea [android-open-project](https://github.com/Trinea/android-open-project)
 - SenhLinsh [Android-Hot-Libraries](https://github.com/SenhLinsh/Android-Hot-Libraries#android-hot-libraries)
@@ -39,6 +42,7 @@
 - janishar [PlaceHolderView](https://github.com/janishar/PlaceHolderView) android recyclerview的包装，包含堆栈视图，简单和超快的动态视图创建与动画预建！
 
 # 条目Item侧滑效果:
+- daimajia [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) 侧滑布局
 - anzaizai [EasySwipeMenuLayout](https://github.com/anzaizai/EasySwipeMenuLayout) 左右均可添加侧拉按钮
 - mcxtzhang [SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout) 史上最简单侧滑菜单，0耦合，支持任意ViewGroup。一步集成侧滑(删除)菜单，高仿QQ、IOS。
 
@@ -76,6 +80,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - airbnb [lottie-android](https://github.com/airbnb/lottie-android) 在Android和iOS，Web和React Native上使用After Effects动画
 - facebook [rebound](https://github.com/facebook/rebound) 弹簧效果（没有仔细用过，不清楚还有没有其他效果）
 - facebook [shimmer-android](https://github.com/facebook/shimmer-android) 一闪一闪的效果
+- daimajia [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) 可爱的视图动画集合。
+- daimajia [AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions) 根据作者的意思，这个库是从上面这个库升级而来的。Android动画缓和功能。 让动画更真实！
 
 # 图片压缩:
 - Curzibn [Luban](https://github.com/Curzibn/Luban) 图片压缩，微信压缩后的图片逆向推算出来的压缩算法
@@ -87,12 +93,14 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - boycy815 [PinchImageView](https://github.com/boycy815/PinchImageView) 这是一个手势体验极棒但使用简单的ImageView控件，实现了手势放大缩小，平移等功能。PinchImageView继承于ImageView，可以在所有ImageView可以使用的情况下使用。全部的程序仅一个类文件，没有依赖任何特殊的外部库，非常易于集成。
 - cnlkl [TransformativeImageView](https://github.com/cnlkl/TransformativeImageView) 自定义ImageView，可以旋转，翻译和缩放图像。[原理](https://www.jianshu.com/p/938ca88fb16a)
 - sephiroth74 [ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom) Android ImageView小部件，具有缩放和平移功能
+- stfalcon-studio [MultiImageView](https://github.com/stfalcon-studio/MultiImageView) Android库在一个ImageView中显示几个图像，例如群聊的头像
 
 # 图片显示相关：
 - bumptech [glide](https://github.com/bumptech/glide) 官方推荐加载图片库
 - wasabeef [glide-transformations](https://github.com/wasabeef/glide-transformations) 为Glide提供各种图像转换的Android转换库。
 - sephiroth74 [ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom) ImageView，具有缩放和平移功能
 - alexvasilkov [GestureViews](https://github.com/alexvasilkov/GestureViews) ImageView和FrameLayout手势控制和位置动画
+- stfalcon-studio [FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer) 可自定义的Android全屏图像查看器，支持“捏缩放”和“轻扫以消除”手势的Fresco库
 
 # 图表类：
 - PhilJay [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)一个强大的Android图表视图/图形视图库，支持线条形 - 雷达 - 泡沫和烛台图表，以及缩放，拖动和动画。
@@ -156,6 +164,16 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - glomadrian [loading-balls](https://github.com/glomadrian/loading-balls) 一个高度可配置的库，用动画球来加载进度
 - glomadrian [material-animated-switch](https://github.com/glomadrian/material-animated-switch) material的切换开关
 - alibaba [vlayout](https://github.com/alibaba/vlayout)VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题。
+- niniloveyou [StateButton](https://github.com/niniloveyou/StateButton) 一个可以用代码设置selector背景（按下去背景颜色更改，样式变化等等）的button, 再也不用写selector了
+- lguipeng [BubbleView](https://github.com/lguipeng/BubbleView) 聊天中消息气泡的view
+- daimajia [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) 一个好看的的Android进度条。
+- daimajia [AndroidViewHover](https://github.com/daimajia/AndroidViewHover) 一个优雅的方式来显示您的菜单或消息。菜单都是悬浮出来的
+- lguipeng [AnimCheckBox](https://github.com/lguipeng/AnimCheckBox) 带动画的checkbox 
+- stfalcon-studio [ChatKit](https://github.com/stfalcon-studio/ChatKit) IM的UI库
+- Rance935 [ChatUI](https://github.com/Rance935/ChatUI) IM的UI库
+
+# 框架架构类：
+- JumeiRdGroup  [Router](https://github.com/JumeiRdGroup/Router)一款单品、组件化、插件化全支持的Andoid端路由框架,简单来说.即通过一行url去指定打开指定页面Activity的框架.充分做到页面间解耦.
 
 # Fragment类：
 - YoKeyword [Fragmentation](https://github.com/YoKeyword/Fragmentation) 为Android管理Fragment的强大库
@@ -165,6 +183,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 更改字体:
 - chrisjenx [Calligraphy](https://github.com/chrisjenx/Calligraphy) 自定义字体的库
+
+# 特殊功能类：
+- stfalcon-studio [SmsVerifyCatcher](https://github.com/stfalcon-studio/SmsVerifyCatcher) 用于在您的应用中验证电话号码的Android库。 自动将验证码从SMS复制到应用程序中。
 
 # 表情类:
 - w446108264 [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) 开源表情键盘解决方案
@@ -178,6 +199,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 代码工具类：
 - Blankj [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) 各种工具类，你能想到的工具类，基本都有了这个库
 - wenmingvs [AndroidProcess](https://github.com/wenmingvs/AndroidProcess) 判断App位于前台或者后台的6种方法
+- Trinea [android-common](https://github.com/Trinea/android-common) 主要包括：缓存(图片缓存、预取缓存、网络缓存)、公共View(下拉及底部加载更多ListView、底部加载更多ScrollView、滑动一页Gallery)及Android常用工具类(网络、下载、Android资源操作、shell、文件、Json、随机数、Collection等等)。
+- yangfuhai [afinal](https://github.com/yangfuhai/afinal) Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。通过finalActivity，我们可以通过注解的方式进行绑定ui和事件。通过finalBitmap，我们可以方便的加载bitmap图片，而无需考虑oom等问题。通过finalDB模块，我们一行代码就可以对android的sqlite数据库进行增删改查。通过FinalHttp模块，我们可以以ajax形式请求http数据。
+- yangfuhai [ASimpleCache](https://github.com/yangfuhai/ASimpleCache) 是一个为android制定的 轻量级的 开源缓存框架。轻量到只有一个java文件。可以缓存普通的字符串、JsonObject、JsonArray、Bitmap、Drawable、序列化的java对象，和 byte数据
 
 # 日志Log辅助类：
 - JakeWharton [timber](https://github.com/JakeWharton/timber)
@@ -202,6 +226,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - lovetuzitong [MaterialBaiduImage](https://github.com/lovetuzitong/MaterialBaiduImage)基于MaterialDesign的百度图片浏览客户端
 - lovetuzitong [android-GzLibrary](https://github.com/lovetuzitong/android-GzLibrary)这是广州图书馆的Android客户端实现项目
 - yangchong211 [LifeHelper](https://github.com/yangchong211/LifeHelper) 综合案例训练，包含新闻，视频，图片，音乐，记事本等等模块。采用MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5等架构模式。很详细的开源项目，推荐
+- lguipeng [Notes](https://github.com/lguipeng/Notes) 一个极简的笔记app
+- daimajia [AnimeTaste](https://github.com/daimajia/AnimeTaste) 全球动画精选
 
 # Demo类:
 - amitshekhariitbhu [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) Rxjava2的demo
