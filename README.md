@@ -189,6 +189,11 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 适配类:
 - 鸿阳大神 [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) 很遗憾的，停止更新了
 
+# 沉浸式
+- gyf-dev [ImmersionBar](https://github.com/gyf-dev/ImmersionBar) android 4.4以上沉浸式状态栏和沉浸式导航栏管理，包括状态栏字体颜色，一句代码轻松实现，以及对bar的其他设置
+- liyuhaolol [LightImmersionMode](https://github.com/liyuhaolol/LightImmersionMode) 纯色沉浸式状态栏开发，兼容浅色状态栏自适应深色字体
+- matrixxun [ImmersiveDetailSample](https://github.com/matrixxun/ImmersiveDetailSample) 一个示例应用程序展示了如何实现身临其境的视差效果标题，如谷歌商店
+
 # 更改字体:
 - chrisjenx [Calligraphy](https://github.com/chrisjenx/Calligraphy) 自定义字体的库
 
