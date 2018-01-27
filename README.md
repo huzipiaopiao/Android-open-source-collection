@@ -26,6 +26,7 @@
 - tcking [GiraffePlayer2](https://github.com/tcking/GiraffePlayer2) 基于ijkplayer，这个挺好用的
 - danylovolokh [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) 帮助控制Android MediaPlayer的，会更加方便
 - huyongli [huyongli](https://github.com/huyongli/TigerVideo) Android播放视频library，支持小窗口，全屏模式播放，支持手势控制前进，后退，音量，亮度等操作，支持视频缓存，支持自定义显示视图。视频播放控制与界面展示完全解耦，支持自定义基于不同内核(MediaPlayer, ExoPlayer, PLDroidPlay...)的播放器，对界面操作无任何影响
+- yangchong211 [YCVideoPlayer](https://github.com/yangchong211/YCVideoPlayer) 视频播放器封装库案例，仿照优酷，爱奇艺视频播放器，可以添家视频观看权限，试看模式，类似优酷试看功能。基于ijkplayer，支持网络视频或者本地视频播放，滑动调节亮度或者音量，快进快退，记录播放位置。可以设置边观看变缓存，支持全屏播放，小窗口，正常播放等模式；还支持列表播放，切换分辨率，还可以自定义视频播放器，拓展性强
 ## demo类：
 - iknow4 [Android-Video-Trimmer](https://github.com/iknow4/Android-Video-Trimmer) 视频裁剪功能的demo
 - maimingliang [WxRecoderVideo](https://github.com/maimingliang/WxRecoderVideo) 基于VCamera，仿微信录制短视频,demo
@@ -82,6 +83,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - facebook [shimmer-android](https://github.com/facebook/shimmer-android) 一闪一闪的效果
 - daimajia [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) 可爱的视图动画集合。
 - daimajia [AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions) 根据作者的意思，这个库是从上面这个库升级而来的。Android动画缓和功能。 让动画更真实！
+- yyued [SVGAPlayer-Android](https://github.com/yyued/SVGAPlayer-Android) 使用 SVGAPlayer 在 Android、iOS、Web中播放 After Effects / Animate CC (Flash) 动画。
 
 # 图片压缩:
 - Curzibn [Luban](https://github.com/Curzibn/Luban) 图片压缩，微信压缩后的图片逆向推算出来的压缩算法
@@ -166,11 +168,17 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - alibaba [vlayout](https://github.com/alibaba/vlayout)VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题。
 - niniloveyou [StateButton](https://github.com/niniloveyou/StateButton) 一个可以用代码设置selector背景（按下去背景颜色更改，样式变化等等）的button, 再也不用写selector了
 - lguipeng [BubbleView](https://github.com/lguipeng/BubbleView) 聊天中消息气泡的view
-- daimajia [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) 一个好看的的Android进度条。
 - daimajia [AndroidViewHover](https://github.com/daimajia/AndroidViewHover) 一个优雅的方式来显示您的菜单或消息。菜单都是悬浮出来的
 - lguipeng [AnimCheckBox](https://github.com/lguipeng/AnimCheckBox) 带动画的checkbox 
 - stfalcon-studio [ChatKit](https://github.com/stfalcon-studio/ChatKit) IM的UI库
 - Rance935 [ChatUI](https://github.com/Rance935/ChatUI) IM的UI库
+- DuanJiaNing[ColorPicker](https://github.com/DuanJiaNing/ColorPicker) 进度条”水平、竖直颜色选择器。
+- DuanJiaNing[MediaView](https://github.com/DuanJiaNing/MediaView) 带阴影点击效果，可自定义属性的媒体播放控制按钮。包括【播放(暂停)】按钮，【下一曲(上一曲)】按钮。
+
+# 进度条
+- daimajia [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) 一个好看的的Android进度条。
+- akexorcist [Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar) 带圆角和图标的进度条
+- AnderWeb [discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) 带气泡的进度条
 
 # 框架架构类：
 - JumeiRdGroup  [Router](https://github.com/JumeiRdGroup/Router)一款单品、组件化、插件化全支持的Andoid端路由框架,简单来说.即通过一行url去指定打开指定页面Activity的框架.充分做到页面间解耦.
@@ -214,6 +222,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - uber [NullAway](https://github.com/uber/NullAway) 一个有助于消除Java代码中的NullPointerException（NPE）的工具，具有较低的构建时间开销
 - yogkin [LogUtil](https://github.com/yogkin/LogUtil) Android日志上传 使用服务通过HTTP或E-MAIL方式，压缩文件上传，支持加密
 - JZ-Darkal [AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture)AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler"
+- Kyson [AndroidGodEye](https://github.com/Kyson/AndroidGodEye) AndroidGodEye是一个可以在PC浏览器中实时监控Android数据指标（比如性能指标，但是不局限于性能）的工具，你可以通过wifi/usb连接手机和pc，通过pc浏览器实时监控手机性能。
+- Godeyes [Godeyes](http://godeyes.duapp.com/index.jsp) 用来检测代码中可能出去的crash隐患
 
 # 看起来很厉害的东东：
 - alibaba [ARouter](https://github.com/alibaba/ARouter)一个安卓路由器中间件，帮助应用程序导航到活动和自定义服务。
@@ -228,6 +238,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - yangchong211 [LifeHelper](https://github.com/yangchong211/LifeHelper) 综合案例训练，包含新闻，视频，图片，音乐，记事本等等模块。采用MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5等架构模式。很详细的开源项目，推荐
 - lguipeng [Notes](https://github.com/lguipeng/Notes) 一个极简的笔记app
 - daimajia [AnimeTaste](https://github.com/daimajia/AnimeTaste) 全球动画精选
+- DuanJiaNing [Musicoco](https://github.com/DuanJiaNing/Musicoco) 【我的音乐-Musicoco】 音乐播放器，功能：通过耳机和通知栏快捷控制音乐播放、创建歌单、本地歌曲搜索、记忆播放、自动切换到夜间模式、定时停止播放、应用主题自定义以及播放界面风格选择等功能。
 
 # Demo类:
 - amitshekhariitbhu [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) Rxjava2的demo
