@@ -27,6 +27,7 @@
 - danylovolokh [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) 帮助控制Android MediaPlayer的，会更加方便
 - huyongli [huyongli](https://github.com/huyongli/TigerVideo) Android播放视频library，支持小窗口，全屏模式播放，支持手势控制前进，后退，音量，亮度等操作，支持视频缓存，支持自定义显示视图。视频播放控制与界面展示完全解耦，支持自定义基于不同内核(MediaPlayer, ExoPlayer, PLDroidPlay...)的播放器，对界面操作无任何影响
 - yangchong211 [YCVideoPlayer](https://github.com/yangchong211/YCVideoPlayer) 视频播放器封装库案例，仿照优酷，爱奇艺视频播放器，可以添家视频观看权限，试看模式，类似优酷试看功能。基于ijkplayer，支持网络视频或者本地视频播放，滑动调节亮度或者音量，快进快退，记录播放位置。可以设置边观看变缓存，支持全屏播放，小窗口，正常播放等模式；还支持列表播放，切换分辨率，还可以自定义视频播放器，拓展性强
+- EasyDSS [EasyPlayer](https://github.com/EasyDSS/EasyPlayer) EasyPlayer是一款精炼、高效、稳定的流媒体播放器，分为RTSP版、RTMP版和Pro版本，支持各种各样的流媒体音视频播放！
 ## demo类：
 - iknow4 [Android-Video-Trimmer](https://github.com/iknow4/Android-Video-Trimmer) 视频裁剪功能的demo
 - maimingliang [WxRecoderVideo](https://github.com/maimingliang/WxRecoderVideo) 基于VCamera，仿微信录制短视频,demo
@@ -133,6 +134,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - afollestad [material-camera](https://github.com/afollestad/material-camera) 拍摄库
 - CJT2325 [CameraView](https://github.com/CJT2325/CameraView) 仿微信拍照Android控件（轻触拍照，长按摄像）
 
+# app美化类：
+- elye [loaderviewlibrary](https://github.com/elye/loaderviewlibrary) 在显示任何文本或图像之前，提供textview和imageview两种显示微光（动画加载器）的功能。等待数据从网络加载时很有用。![例如](https://camo.githubusercontent.com/ad3e2fed505b8ae48e2a407f1e21361473605639/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6437343863335f32383338316330663131306634646336386663643334306235303366383661322537456d76322e676966)
+
 # 悬浮类：
 - yhaolpz [FloatWindow](https://github.com/yhaolpz/FloatWindow) Andorid 任意界面悬浮窗
 - txusballesteros [bubbles-for-android](https://github.com/txusballesteros/bubbles-for-android) Bubbles for Android是一个Android库，为您的应用程序提供聊天头功能.可以任何界面悬浮
@@ -148,13 +152,20 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 导航类(类似TableLayout和ViewPager)：
 - Devlight [NavigationTabBar](https://github.com/Devlight/NavigationTabBar) 导航标签栏与丰富多彩的互动。
 - hackware1993 [MagicIndicator](https://github.com/hackware1993/MagicIndicator) 强大、可定制、易扩展的 ViewPager 指示器框架。是ViewPagerIndicator、TabLayout、PagerSlidingTabStrip的最佳替代品。支持角标，更支持在非ViewPager场景下使用
-- []()
+- bingoogolapple [BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android) 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位
 
 # 换肤类：
 - hongyangAndroid [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin) 一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity.
 
 # 下拉刷新：
 - scwang90 [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+- liaohuqiu [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) 这是现在已经停止维护的下拉刷新项目的替代方案。继承于ViewGroup可以包含任何View。功能比SwipeRefreshLayout强大。使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。
+
+# 二维码：
+- yipianfengye [android-zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary) 几行代码快速集成二维码扫描功能
+
+# HTML:
+- jhy [jsoup](https://github.com/jhy/jsoup) Java的HTML解析器，最好的DOM，CSS和jQuery
 
 # 其他类自定义view
 - hackware1993 [WaveView](https://github.com/hackware1993/WaveView) 一个简单的、巧妙的水波纹扩散效果
@@ -180,6 +191,12 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - akexorcist [Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar) 带圆角和图标的进度条
 - AnderWeb [discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) 带气泡的进度条
 
+# 加载类：
+- 81813780 [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) 适合Android的漂亮的加载动画 ![效果](https://github.com/81813780/AVLoadingIndicatorView/blob/master/screenshots/avi.gif)
+
+# 权限申请：
+- googlesamples [easypermissions](https://github.com/googlesamples/easypermissions) 辅助动态申请权限
+
 # 框架架构类：
 - JumeiRdGroup  [Router](https://github.com/JumeiRdGroup/Router)一款单品、组件化、插件化全支持的Andoid端路由框架,简单来说.即通过一行url去指定打开指定页面Activity的框架.充分做到页面间解耦.
 
@@ -188,6 +205,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 适配类:
 - 鸿阳大神 [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) 很遗憾的，停止更新了
+
+# 时间相关
+- dlew [joda-time-android](https://github.com/dlew/joda-time-android) 解决时区不断变化，没有用过，待研究
 
 # 沉浸式
 - gyf-dev [ImmersionBar](https://github.com/gyf-dev/ImmersionBar) android 4.4以上沉浸式状态栏和沉浸式导航栏管理，包括状态栏字体颜色，一句代码轻松实现，以及对bar的其他设置
@@ -244,8 +264,11 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - lguipeng [Notes](https://github.com/lguipeng/Notes) 一个极简的笔记app
 - daimajia [AnimeTaste](https://github.com/daimajia/AnimeTaste) 全球动画精选
 - DuanJiaNing [Musicoco](https://github.com/DuanJiaNing/Musicoco) 【我的音乐-Musicoco】 音乐播放器，功能：通过耳机和通知栏快捷控制音乐播放、创建歌单、本地歌曲搜索、记忆播放、自动切换到夜间模式、定时停止播放、应用主题自定义以及播放界面风格选择等功能。
+- ruzhan123 [awaker](https://github.com/ruzhan123/awaker) 地理杂志阅读类Android App，项目采用 LiveData + Room + RXJava2 + Retrofit + OKHttp + Material Design + Base + Glide 构建
+- babylikebird [owspace](https://github.com/babylikebird/owspace) 高仿单读APP：owspace是基于MVP+Dagger2+Retrofit2.0+Rxjava的APP
 
 # Demo类:
+- googlesamples [android-architecture-components](https://github.com/googlesamples/android-architecture-components) Android体系结构组件的示例。
 - amitshekhariitbhu [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) Rxjava2的demo
 - reallin [Android_Mail](https://github.com/reallin/Android_Mail) 在android中发送邮件的demo（lib的jar包）
 
