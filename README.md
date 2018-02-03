@@ -3,6 +3,7 @@
 
 # 优秀开源作者(都认识的大神，后面慢慢补上)：
 - [代码家](https://github.com/daimajia) 
+- [王浩](https://github.com/bingoogolapple)
 
 # 他人做的总结类：
 - Trinea [android-open-project](https://github.com/Trinea/android-open-project)
@@ -48,16 +49,22 @@
 - anzaizai [EasySwipeMenuLayout](https://github.com/anzaizai/EasySwipeMenuLayout) 左右均可添加侧拉按钮
 - mcxtzhang [SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout) 史上最简单侧滑菜单，0耦合，支持任意ViewGroup。一步集成侧滑(删除)菜单，高仿QQ、IOS。
 
+# 页面侧滑：
+- bingoogolapple [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android) Android Activity 滑动返回。支持微信滑动返回样式、横屏滑动返回、全屏滑动返回
+
 # 下载辅助
 - MindorksOpenSource [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader)
+- bingoogolapple [BGAUpdate-Android](https://github.com/bingoogolapple/BGAUpdate-Android) RxJava + Retrofit 下载新版 apk 文件，RxBus 监听下载进度 适配 Android 8.+ 系统,检测新版 apk 文件是否已经下载过,RxJava1.x + Retrofit2.x 下载新版 apk 文件,RxBus 监听下载进度,安装 apk 文件,删除之前升级时下载的老的 apk 文件
 
-# 主题类:
+# 主题换肤类:
 - Bilibili [MagicaSakura](https://github.com/Bilibili/MagicaSakura) 方便切换主题
+- hongyangAndroid [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin) 一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity
 
 # 图片选择器:
 - 知乎  [Matisse](https://github.com/zhihu/Matisse)
 bate版有选择视频的功能，有没有录制视频的功能还没去研究，图片选择挺好用的。 
 - Bilibili [boxing](https://github.com/Bilibili/boxing)
+- bingoogolapple [BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android) Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件
 - LuckSiege [PictureSelector](https://github.com/LuckSiege/PictureSelector)
 支持从相册或拍照选择图片或视频、音频，支持动态权限获取、裁剪(单图or多图裁剪)、压缩、主题自定义配置等功能、适配android 6.0+系统的开源图片选择框架，用的是glide4.0以上版本，会与项目起冲突，具体还没有使用。
 - FinalTeam [RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)
@@ -104,6 +111,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - sephiroth74 [ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom) ImageView，具有缩放和平移功能
 - alexvasilkov [GestureViews](https://github.com/alexvasilkov/GestureViews) ImageView和FrameLayout手势控制和位置动画
 - stfalcon-studio [FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer) 可自定义的Android全屏图像查看器，支持“捏缩放”和“轻扫以消除”手势的Fresco库
+- MostafaGazar [CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView) 一个库，用于支持自定义形状的图像和使用svgs和绘制形状
 
 # 图表类：
 - PhilJay [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)一个强大的Android图表视图/图形视图库，支持线条形 - 雷达 - 泡沫和烛台图表，以及缩放，拖动和动画。
@@ -154,9 +162,6 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - hackware1993 [MagicIndicator](https://github.com/hackware1993/MagicIndicator) 强大、可定制、易扩展的 ViewPager 指示器框架。是ViewPagerIndicator、TabLayout、PagerSlidingTabStrip的最佳替代品。支持角标，更支持在非ViewPager场景下使用
 - bingoogolapple [BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android) 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位
 
-# 换肤类：
-- hongyangAndroid [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin) 一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity.
-
 # 下拉刷新：
 - scwang90 [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
 - liaohuqiu [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) 这是现在已经停止维护的下拉刷新项目的替代方案。继承于ViewGroup可以包含任何View。功能比SwipeRefreshLayout强大。使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。
@@ -167,6 +172,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # HTML:
 - jhy [jsoup](https://github.com/jhy/jsoup) Java的HTML解析器，最好的DOM，CSS和jQuery
 
+# 日历
+- huanghaibin-dev [CalendarView](https://github.com/huanghaibin-dev/CalendarView?utm_source=gold_browser_extension) Android上一个优雅、万能自定义UI、支持周视图、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！
+
 # 其他类自定义view
 - hackware1993 [WaveView](https://github.com/hackware1993/WaveView) 一个简单的、巧妙的水波纹扩散效果
 - tyrantgit [ExplosionField](https://github.com/tyrantgit/ExplosionField) 天女散花的效果
@@ -174,6 +182,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - glomadrian [Grav](https://github.com/glomadrian/Grav) 基于点的可配置动画，各种光离子的动画
 - glomadrian [material-code-input](https://github.com/glomadrian/material-code-input) material的输入框
 - glomadrian [RoadRunner](https://github.com/glomadrian/RoadRunner) 带动画的加载svg图像
+- JorgeCastilloPrz [AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) Android可填充的进度视图使用SVG路径。如果你想为你的应用程序创建一个有趣的品牌标志，这也是一个不错的选择。
 - glomadrian [loading-balls](https://github.com/glomadrian/loading-balls) 一个高度可配置的库，用动画球来加载进度
 - glomadrian [material-animated-switch](https://github.com/glomadrian/material-animated-switch) material的切换开关
 - alibaba [vlayout](https://github.com/alibaba/vlayout)VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题。
@@ -185,11 +194,13 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - Rance935 [ChatUI](https://github.com/Rance935/ChatUI) IM的UI库
 - DuanJiaNing[ColorPicker](https://github.com/DuanJiaNing/ColorPicker) 进度条”水平、竖直颜色选择器。
 - DuanJiaNing[MediaView](https://github.com/DuanJiaNing/MediaView) 带阴影点击效果，可自定义属性的媒体播放控制按钮。包括【播放(暂停)】按钮，【下一曲(上一曲)】按钮。
+- bingoogolapple [BGAFlowLayout-Android](https://github.com/bingoogolapple/BGAFlowLayout-Android) Android 流式布局，可配置是否将每一行的空白区域平均分配给子控件
 
 # 进度条
 - daimajia [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) 一个好看的的Android进度条。
 - akexorcist [Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar) 带圆角和图标的进度条
 - AnderWeb [discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) 带气泡的进度条
+- bingoogolapple [BGAProgressBar-Android](https://github.com/bingoogolapple/BGAProgressBar-Android)带百分比数字的水平、圆形进度条
 
 # 加载类：
 - 81813780 [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) 适合Android的漂亮的加载动画 ![效果](https://github.com/81813780/AVLoadingIndicatorView/blob/master/screenshots/avi.gif)
@@ -198,6 +209,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - googlesamples [easypermissions](https://github.com/googlesamples/easypermissions) 辅助动态申请权限
 
 # 框架架构类：
+- googlesamples [android-architecture-components](https://github.com/googlesamples/android-architecture-components) 谷歌官方 Android 应用架构库。这个新的架构库旨在帮助我们设计健壮、可测试的和可维护的应用程序。关注分离,模型驱动UI，优先持久化模型
 - JumeiRdGroup  [Router](https://github.com/JumeiRdGroup/Router)一款单品、组件化、插件化全支持的Andoid端路由框架,简单来说.即通过一行url去指定打开指定页面Activity的框架.充分做到页面间解耦.
 
 # Fragment类：
@@ -213,9 +225,30 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - gyf-dev [ImmersionBar](https://github.com/gyf-dev/ImmersionBar) android 4.4以上沉浸式状态栏和沉浸式导航栏管理，包括状态栏字体颜色，一句代码轻松实现，以及对bar的其他设置
 - liyuhaolol [LightImmersionMode](https://github.com/liyuhaolol/LightImmersionMode) 纯色沉浸式状态栏开发，兼容浅色状态栏自适应深色字体
 - matrixxun [ImmersiveDetailSample](https://github.com/matrixxun/ImmersiveDetailSample) 一个示例应用程序展示了如何实现身临其境的视差效果标题，如谷歌商店
+- jgilfelt [SystemBarTint](https://github.com/jgilfelt/SystemBarTint) 已过时
+- H07000223 [FlycoSystemBar](https://github.com/H07000223/FlycoSystemBar)
+- yanzhenjie [Sofia](https://github.com/yanzhenjie/Sofia)SystemBar一体化，状态栏和导航栏均支持设置颜色、渐变色、图片、透明度、内容入侵。状态栏支持设置深色字体，以上特性兼容国产魅族、小米手机（包括7.0及以上）和其它标准模式的手机。
+- laobie [StatusBarUtil](https://github.com/laobie/StatusBarUtil)
+
+# 标签：
+- robertlevonyan [materialChipView](https://github.com/robertlevonyan/materialChipView) material视图。 可以用作类别，联系人或创建文本云的标签
+- BelooS [ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager) ANDROID。 ChipsLayoutManager（SpanLayoutManager，FlowLayoutManager）。 RecyclerView的一个自定义的布局管理器，它模仿TextView跨越行为，流动布局的行为，支持惊人的recyclerView功能
+- DoodleScheduling [android-material-chips](https://github.com/DoodleScheduling/android-material-chips) ANDROID。 ChipsLayoutManager（SpanLayoutManager，FlowLayoutManager）。 RecyclerView的一个自定义的布局管理器，它模仿TextView跨越行为，流动布局的行为，支持惊人的recyclerView功能
 
 # 更改字体:
 - chrisjenx [Calligraphy](https://github.com/chrisjenx/Calligraphy) 自定义字体的库
+
+# EditText:
+- xujinyang [BiuEditText](https://github.com/xujinyang/BiuEditText)从上或下，飞进来的字
+- alphamu [AnimatedEditText](https://github.com/alphamu/AnimatedEditText)Androids EditText动画输入的文本。 EditText被扩展为创建AnimatedEditText和PinEntryEditText。
+- mrmilu [WPEditText](https://github.com/mrmilu/WPEditText)Material design风格的EditText ，带图标和验证功能。
+- Pombo [material-edit-text](https://github.com/Pombo/material-edit-text)Material Design风格的输入框控件，可以设置图标，支持悬浮文字提示。
+- mabbas007 [TagsEditText](https://github.com/mabbas007/TagsEditText)标签输入控件。
+- pchmn [MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)这个库实现了Material Design中的Chips component ，分为可编辑的ChipsInput和ChipView。
+- Rogero0o [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView)当完成密码时提供动画
+
+# button
+- Bearded-Hen [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) 用于Android的引导样式小部件，带有字形图标
 
 # 特殊功能类：
 - stfalcon-studio [SmsVerifyCatcher](https://github.com/stfalcon-studio/SmsVerifyCatcher) 用于在您的应用中验证电话号码的Android库。 自动将验证码从SMS复制到应用程序中。
@@ -228,6 +261,10 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 序列化：
 - johncarl81 [parceler](https://github.com/johncarl81/parceler)Android Parcelables通过代码生成变得容易
+
+# 常用类：
+- Xiaofei-it [Hermes](https://github.com/Xiaofei-it/Hermes) Hermes是一套新颖巧妙易用的Android进程间通信IPC框架。这个框架使得你不用了解IPC机制就可以进行进程间通信，像调用本地函数一样调用其他进程的函数
+- elemers [HermesEventBus](https://github.com/elemers/HermesEventBus) HermesEventBus是一个基于EventBus的、能在进程间发送和接收event的库，在IPC或者插件开发中非常有用。
 
 # 代码工具类：
 - Blankj [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) 各种工具类，你能想到的工具类，基本都有了这个库
@@ -283,3 +320,6 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 反编译及脱壳工具类：
 - skylot [jadx](https://github.com/skylot/jadx) 反编译app的工具，只能说超牛
 - DrizzleRisk [drizzleDumper](https://github.com/DrizzleRisk/drizzleDumper) 是一款基于内存搜索的Android脱壳工具。
+
+# react-native
+- xujinyang [react-native-android-guide](https://github.com/xujinyang/react-native-android-guide) 致力于帮助Android开发者转react-native开发。多点一个技能树，多一份天地。
