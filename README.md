@@ -144,6 +144,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # app美化类：
 - elye [loaderviewlibrary](https://github.com/elye/loaderviewlibrary) 在显示任何文本或图像之前，提供textview和imageview两种显示微光（动画加载器）的功能。等待数据从网络加载时很有用。![例如](https://camo.githubusercontent.com/ad3e2fed505b8ae48e2a407f1e21361473605639/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6437343863335f32383338316330663131306634646336386663643334306235303366383661322537456d76322e676966)
+- Bearded-Hen [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) 引导程序样式小部件的android，具有标志符号图标，自带小图标的textview、button、下拉选择等等。[图标库地址](https://fontawesome.com/cheatsheet)
 
 # 悬浮类：
 - yhaolpz [FloatWindow](https://github.com/yhaolpz/FloatWindow) Andorid 任意界面悬浮窗
@@ -165,6 +166,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 下拉刷新：
 - scwang90 [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
 - liaohuqiu [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) 这是现在已经停止维护的下拉刷新项目的替代方案。继承于ViewGroup可以包含任何View。功能比SwipeRefreshLayout强大。使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。
+- jdsjlzx [LRecyclerView](https://github.com/jdsjlzx/LRecyclerView) RecyclerView下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单
+- cundong [HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView) RecyclerView下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单
 
 # 二维码：
 - yipianfengye [android-zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary) 几行代码快速集成二维码扫描功能
@@ -195,6 +198,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - DuanJiaNing[ColorPicker](https://github.com/DuanJiaNing/ColorPicker) 进度条”水平、竖直颜色选择器。
 - DuanJiaNing[MediaView](https://github.com/DuanJiaNing/MediaView) 带阴影点击效果，可自定义属性的媒体播放控制按钮。包括【播放(暂停)】按钮，【下一曲(上一曲)】按钮。
 - bingoogolapple [BGAFlowLayout-Android](https://github.com/bingoogolapple/BGAFlowLayout-Android) Android 流式布局，可配置是否将每一行的空白区域平均分配给子控件
+- florent37 [ShapeOfView](https://github.com/florent37/ShapeOfView) 给任何android视图定制形状
 
 # 进度条
 - daimajia [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) 一个好看的的Android进度条。
@@ -289,6 +293,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 看起来很厉害的东东：
 - alibaba [ARouter](https://github.com/alibaba/ARouter)一个安卓路由器中间件，帮助应用程序导航到活动和自定义服务。
+- android-hacker [VirtualXposed](https://github.com/android-hacker/VirtualXposed) VirtualXposed 是基于VirtualApp 和 epic 在非ROOT环境下运行Xposed模块的实现（支持5.0~8.1)。
+- asLody [VirtualApp](https://github.com/asLody/VirtualApp) VirtualApp在你的App内创建一个虚拟空间，你可以在虚拟空间内任意的安装、启动和卸载APK，这一切都与外部隔离，如同一个沙盒。
 
 # 开源的整体项目:
 - pockethub [PocketHub](https://github.com/pockethub/PocketHub)
@@ -321,5 +327,11 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - skylot [jadx](https://github.com/skylot/jadx) 反编译app的工具，只能说超牛
 - DrizzleRisk [drizzleDumper](https://github.com/DrizzleRisk/drizzleDumper) 是一款基于内存搜索的Android脱壳工具。
 
+# 跨平台应用（android和ios）开发：
+- flutter [flutter](https://github.com/flutter/flutter) google开发的，基于Dart 语言开发（从网上讨论，蛮多人看好这个的，说比react-native更优）
+- facebook [react-native](https://github.com/facebook/react-native) facebook开发的，JS 结合 XML 开发
+- alibaba[weex](https://github.com/alibaba/weex) 阿里巴巴开发
+ 
 # react-native
 - xujinyang [react-native-android-guide](https://github.com/xujinyang/react-native-android-guide) 致力于帮助Android开发者转react-native开发。多点一个技能树，多一份天地。
+
