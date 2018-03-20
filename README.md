@@ -8,6 +8,9 @@
 # 他人做的总结类：
 - Trinea [android-open-project](https://github.com/Trinea/android-open-project)
 - SenhLinsh [Android-Hot-Libraries](https://github.com/SenhLinsh/Android-Hot-Libraries#android-hot-libraries)
+- wasabeef [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)  UI库清单
+- wasabeef [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)  常用库清单
+- Hack-with-Github [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 为黑客，测试人员和安全研究人员提供的各种精彩列表
 
 # 网络类:
 - amitshekhariitbhu [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) 网络请求类
@@ -256,6 +259,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 特殊功能类：
 - stfalcon-studio [SmsVerifyCatcher](https://github.com/stfalcon-studio/SmsVerifyCatcher) 用于在您的应用中验证电话号码的Android库。 自动将验证码从SMS复制到应用程序中。
+- luckybilly [PreLoader](https://github.com/luckybilly/PreLoader) android页面启动速度优化利器：在页面打开之前就预加载数据
 
 # 表情类:
 - w446108264 [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) 开源表情键盘解决方案
@@ -316,21 +320,44 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - reallin [Android_Mail](https://github.com/reallin/Android_Mail) 在android中发送邮件的demo（lib的jar包）
 
 # 书籍类：
-- julycoding [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) 编程之法：面试和算法心得    
+- justjavac [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的编程中文书籍索引
+- julycoding [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) 编程之法：面试和算法心得   
+- xitu [gold-miner](https://github.com/xitu/gold-miner) 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台
+
+# 知识体系：
+- guoxiaoxing [android-open-source-project-analysis](https://github.com/guoxiaoxing/android-open-source-project-analysis) android 源码分析
+
+# 开发指南:
+- codepath [android_guides](https://github.com/codepath/android_guides) Android开发者指南，这个作者下有很多android的demo
+- futurice [android-best-practices](https://github.com/futurice/android-best-practices) 为Android开发做的和不该做的事的建议
 
 # 刷题题库总结([LeetCode](https://leetcode.com/)和[LintCode ](http://www.lintcode.com/zh-cn/#))：
 - awangdev [LintCode](https://github.com/awangdev/LintCode)
 - Blankj [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
 - scottszb1987 [LeetCodeInCSharp](https://github.com/scottszb1987/LeetCodeInCSharp) 
 
+# 打包：
+- Tencent [VasDolly](https://github.com/Tencent/VasDolly) VasDolly是一种快速多渠道打包工具，同时支持基于V1签名和V2签名进行多渠道打包。
+
+# 构建工具：
+- fastlane [fastlane](https://github.com/fastlane/fastlane) 自动构建和发布您的iOS和Android应用程序的最简单方法
+
+# 测试相关：
+- hehonghui [mockito-doc-zh](https://github.com/hehonghui/mockito-doc-zh) 
+
 # 反编译及脱壳工具类：
 - skylot [jadx](https://github.com/skylot/jadx) 反编译app的工具，只能说超牛
 - DrizzleRisk [drizzleDumper](https://github.com/DrizzleRisk/drizzleDumper) 是一款基于内存搜索的Android脱壳工具。
 
+# 组件化开发：
+- luckybilly[CC](https://github.com/luckybilly/CC) 使用简单但功能强大的安卓组件化框架,此组件化与业内的插件化（如：Atlas, RePlugin等）不是同一个概念
+
 # 跨平台应用（android和ios）开发：
 - flutter [flutter](https://github.com/flutter/flutter) google开发的，基于Dart 语言开发（从网上讨论，蛮多人看好这个的，说比react-native更优）
 - facebook [react-native](https://github.com/facebook/react-native) facebook开发的，JS 结合 XML 开发
-- alibaba[weex](https://github.com/alibaba/weex) 阿里巴巴开发
+- alibaba [weex](https://github.com/alibaba/weex) 阿里巴巴开发
+- NativeScript [NativeScript](https://github.com/NativeScript/NativeScript) NativeScript是一个用JavaScript构建真正的本地移动应用程序的开源框架。 使用网络技能，如Angular，FlexBox和CSS，并在iOS和Android上获取原生UI和性能。
+- framework7io [framework7](https://github.com/framework7io/framework7) 全功能的HTML框架，用于构建iOS和Android应用程序
  
 # react-native
 - xujinyang [react-native-android-guide](https://github.com/xujinyang/react-native-android-guide) 致力于帮助Android开发者转react-native开发。多点一个技能树，多一份天地。
