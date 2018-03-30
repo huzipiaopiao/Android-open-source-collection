@@ -115,6 +115,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - alexvasilkov [GestureViews](https://github.com/alexvasilkov/GestureViews) ImageView和FrameLayout手势控制和位置动画
 - stfalcon-studio [FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer) 可自定义的Android全屏图像查看器，支持“捏缩放”和“轻扫以消除”手势的Fresco库
 - MostafaGazar [CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView) 一个库，用于支持自定义形状的图像和使用svgs和绘制形状
+- irimiaionut [ParallaxImageView](https://github.com/irimiaionut/ParallaxImageView) 3D效果
 
 # 图表类：
 - PhilJay [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)一个强大的Android图表视图/图形视图库，支持线条形 - 雷达 - 泡沫和烛台图表，以及缩放，拖动和动画。
@@ -301,6 +302,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - asLody [VirtualApp](https://github.com/asLody/VirtualApp) VirtualApp在你的App内创建一个虚拟空间，你可以在虚拟空间内任意的安装、启动和卸载APK，这一切都与外部隔离，如同一个沙盒。
 
 # 开源的整体项目:
+- 1c7 [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) 中国独立开发者项目大集合
 - pockethub [PocketHub](https://github.com/pockethub/PocketHub)
 - fanturbo [Kanzhibo](https://github.com/fanturbo/Kanzhibo) 聚集了斗鱼，熊猫，全民，虎牙和战旗5个平台的直播小助手
 - MindorksOpenSource [android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) 这个库包含一个详细的示例应用程序，它使用Dagger2，GreenDao，RxJava2，FastAndroidNetworking和PlaceholderView实现MVP体系结构
@@ -348,6 +350,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 反编译及脱壳工具类：
 - skylot [jadx](https://github.com/skylot/jadx) 反编译app的工具，只能说超牛
 - DrizzleRisk [drizzleDumper](https://github.com/DrizzleRisk/drizzleDumper) 是一款基于内存搜索的Android脱壳工具。
+- WrBug [dumpDex](https://github.com/WrBug/dumpDex) 一款Android脱壳工具，需要xposed支持
 
 # 组件化开发：
 - luckybilly[CC](https://github.com/luckybilly/CC) 使用简单但功能强大的安卓组件化框架,此组件化与业内的插件化（如：Atlas, RePlugin等）不是同一个概念
