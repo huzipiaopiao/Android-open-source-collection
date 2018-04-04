@@ -13,6 +13,9 @@
 - Hack-with-Github [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 为黑客，测试人员和安全研究人员提供的各种精彩列表
 
 # 网络类:
+- square [okhttp](https://github.com/square/okhttp)
+- square [retrofit](https://github.com/square/retrofit)
+- jeasonlzy [okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) 文档很全面，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能
 - amitshekhariitbhu [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) 网络请求类
 - facebook [stetho](https://github.com/facebook/stetho) 可以通过浏览器，配合Okhttp的拦截器查看网络请求（抓包），并且可以查看app的DB和Sp的内容
 - loopj [android-async-http](https://github.com/loopj/android-async-http) 基于回调的异步Android Http客户端，构建在Apache的Httpclient库之上。(好像很久没有更新了)
@@ -120,6 +123,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 图表类：
 - PhilJay [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)一个强大的Android图表视图/图形视图库，支持线条形 - 雷达 - 泡沫和烛台图表，以及缩放，拖动和动画。
 - lecho [hellocharts-android](https://github.com/lecho/hellocharts-android) [使用方法](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1107/1930.html)适用于Android的图表/图表库兼容API 8+，多种图表类型，支持缩放，滚动和动画 
+- xcltapestry [XCL-Charts](https://github.com/xcltapestry/XCL-Charts) 国内开源的，所以有中文文档
 - whataa [SuitLines](https://github.com/whataa/SuitLines) 一个小巧且高效的线性图表组件。
 - wordplat [ikvStockChart](https://github.com/wordplat/ikvStockChart) 一个简单的Android股票图表库，支持时间线，K线，MACD，KDJ，RSI，BOLL指数和交互式手势操作，包括左右滑动刷新，缩放，突出显示
 - linheimx [LChart](https://github.com/linheimx/LChart) 一个折线图，它提供了几个非常实用的功能，并且非常简单，易于使用。
@@ -154,6 +158,10 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - yhaolpz [FloatWindow](https://github.com/yhaolpz/FloatWindow) Andorid 任意界面悬浮窗
 - txusballesteros [bubbles-for-android](https://github.com/txusballesteros/bubbles-for-android) Bubbles for Android是一个Android库，为您的应用程序提供聊天头功能.可以任何界面悬浮
 - afollestad [material-dialogs](https://github.com/afollestad/material-dialogs) 一个美丽，流畅，可定制的对话框API。
+
+# 提示Tip
+- GrenderG[Toasty](https://github.com/GrenderG/Toasty)
+- Muddz [StyleableToast](https://github.com/Muddz/StyleableToast)   
 
 # 角标类(Badger)：
 - leolin310148 [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) 桌面图标的消息数角标
