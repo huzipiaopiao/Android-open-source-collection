@@ -58,6 +58,9 @@
 # 页面侧滑：
 - bingoogolapple [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android) Android Activity 滑动返回。支持微信滑动返回样式、横屏滑动返回、全屏滑动返回
 
+# 轮播图：
+- youth5201314 [banner](https://github.com/youth5201314/banner) Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！
+
 # 下载辅助
 - MindorksOpenSource [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader)
 - bingoogolapple [BGAUpdate-Android](https://github.com/bingoogolapple/BGAUpdate-Android) RxJava + Retrofit 下载新版 apk 文件，RxBus 监听下载进度 适配 Android 8.+ 系统,检测新版 apk 文件是否已经下载过,RxJava1.x + Retrofit2.x 下载新版 apk 文件,RxBus 监听下载进度,安装 apk 文件,删除之前升级时下载的老的 apk 文件
