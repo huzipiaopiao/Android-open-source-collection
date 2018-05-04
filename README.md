@@ -6,6 +6,7 @@
 - [王浩](https://github.com/bingoogolapple)
 
 # 他人做的总结类：
+- XXApple [AndroidLibs](https://github.com/XXApple/AndroidLibs)
 - Trinea [android-open-project](https://github.com/Trinea/android-open-project)
 - SenhLinsh [Android-Hot-Libraries](https://github.com/SenhLinsh/Android-Hot-Libraries#android-hot-libraries)
 - wasabeef [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)  UI库清单
@@ -93,6 +94,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - greenrobot [greenDAO](https://github.com/greenrobot/greenDAO)
 - LitePalFramework [LitePal](https://github.com/LitePalFramework/LitePal)
 - agrosner [DBFlow](https://github.com/Raizlabs/DBFlow) [文档](https://github.com/agrosner/DBFlowDocs)
+- objectbox[objectbox-java](https://github.com/objectbox/objectbox-java) 好像也是出自greenrobot
 
 # 动画效果
 - airbnb [lottie-android](https://github.com/airbnb/lottie-android) 在Android和iOS，Web和React Native上使用After Effects动画
@@ -248,6 +250,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - H07000223 [FlycoSystemBar](https://github.com/H07000223/FlycoSystemBar)
 - yanzhenjie [Sofia](https://github.com/yanzhenjie/Sofia)SystemBar一体化，状态栏和导航栏均支持设置颜色、渐变色、图片、透明度、内容入侵。状态栏支持设置深色字体，以上特性兼容国产魅族、小米手机（包括7.0及以上）和其它标准模式的手机。
 - laobie [StatusBarUtil](https://github.com/laobie/StatusBarUtil)
+- Jude95 [FitSystemWindowLayout](https://github.com/Jude95/FitSystemWindowLayout) 适应Statusbar与NavigationBar的各种Layout
 
 # 标签：
 - robertlevonyan [materialChipView](https://github.com/robertlevonyan/materialChipView) material视图。 可以用作类别，联系人或创建文本云的标签
@@ -288,6 +291,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 代码工具类：
 - Blankj [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) 各种工具类，你能想到的工具类，基本都有了这个库
+- greenrobot [essentials](https://github.com/greenrobot/essentials) greenrobot出品，工具类
 - wenmingvs [AndroidProcess](https://github.com/wenmingvs/AndroidProcess) 判断App位于前台或者后台的6种方法
 - Trinea [android-common](https://github.com/Trinea/android-common) 主要包括：缓存(图片缓存、预取缓存、网络缓存)、公共View(下拉及底部加载更多ListView、底部加载更多ScrollView、滑动一页Gallery)及Android常用工具类(网络、下载、Android资源操作、shell、文件、Json、随机数、Collection等等)。
 - yangfuhai [afinal](https://github.com/yangfuhai/afinal) Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。通过finalActivity，我们可以通过注解的方式进行绑定ui和事件。通过finalBitmap，我们可以方便的加载bitmap图片，而无需考虑oom等问题。通过finalDB模块，我们一行代码就可以对android的sqlite数据库进行增删改查。通过FinalHttp模块，我们可以以ajax形式请求http数据。
@@ -306,6 +310,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - JZ-Darkal [AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture)AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler"
 - Kyson [AndroidGodEye](https://github.com/Kyson/AndroidGodEye) AndroidGodEye是一个可以在PC浏览器中实时监控Android数据指标（比如性能指标，但是不局限于性能）的工具，你可以通过wifi/usb连接手机和pc，通过pc浏览器实时监控手机性能。
 - Godeyes [Godeyes](http://godeyes.duapp.com/index.jsp) 用来检测代码中可能出去的crash隐患
+- google [guetzli](https://github.com/google/guetzli) 貌似是一个图片压缩的工具
 
 # 看起来很厉害的东东：
 - alibaba [ARouter](https://github.com/alibaba/ARouter)一个安卓路由器中间件，帮助应用程序导航到活动和自定义服务。
