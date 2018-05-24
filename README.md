@@ -1,5 +1,5 @@
-# Open-source-collection
-由于自己一直在收藏别人的开源项目，到现在已经有几百个收藏的项目了，以至于每次需要某个开源项目时很难找到，所以做了这个统计分类日常用到的开源项目的项目
+# Android-open-source-collection
+由于自己一直在收藏别人的开源项目，到现在已经有几百个收藏的项目了，以至于每次需要某个开源项目时很难找到，所以做了这个统计分类日常用到的开源项目的项目，主要是Android相关的
 
 # 推荐几款管理github，star的工具
 - [Astral](https://app.astralapp.com/auth) 用了以下，可以给自己star的项目加标签，通过标签就可以方便管理
@@ -9,11 +9,11 @@
 # github搜索工具：
 - [CODELF](http://unbug.github.io/codelf/) github的搜索，会出来很多分类，根据需要进入对应项目
 
-# 优秀开源作者(都认识的大神，后面慢慢补上)：
+# 国内优秀开源作者(一些都认识的大神，后面再慢慢补上)：
 - [代码家](https://github.com/daimajia) 
 - [王浩](https://github.com/bingoogolapple)
 
-# 他人做的总结类：
+# 他人做的开源总结库：
 - XXApple [AndroidLibs](https://github.com/XXApple/AndroidLibs)
 - Trinea [android-open-project](https://github.com/Trinea/android-open-project)
 - SenhLinsh [Android-Hot-Libraries](https://github.com/SenhLinsh/Android-Hot-Libraries#android-hot-libraries)
@@ -38,6 +38,7 @@
 - google [ExoPlayer](https://github.com/google/ExoPlayer)
 - yixia [VitamioBundleStudio](https://github.com/yixia/VitamioBundleStudio) Vitamio [官网首页](https://www.vitamio.org/)
 - lipangit [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer) 视频播放，支持一行代码将系统的播放器换成Ijkplayer Exoplayer Vitamio等
+- lipangit [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer) 
 - daniulive [SmarterStreaming](https://github.com/daniulive/SmarterStreaming) 直播类，当然包含视频播放
 - tcking [GiraffePlayer2](https://github.com/tcking/GiraffePlayer2) 基于ijkplayer，这个挺好用的
 - danylovolokh [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) 帮助控制Android MediaPlayer的，会更加方便
@@ -45,6 +46,7 @@
 - yangchong211 [YCVideoPlayer](https://github.com/yangchong211/YCVideoPlayer) 视频播放器封装库案例，仿照优酷，爱奇艺视频播放器，可以添家视频观看权限，试看模式，类似优酷试看功能。基于ijkplayer，支持网络视频或者本地视频播放，滑动调节亮度或者音量，快进快退，记录播放位置。可以设置边观看变缓存，支持全屏播放，小窗口，正常播放等模式；还支持列表播放，切换分辨率，还可以自定义视频播放器，拓展性强
 - EasyDSS [EasyPlayer](https://github.com/EasyDSS/EasyPlayer) EasyPlayer是一款精炼、高效、稳定的流媒体播放器，分为RTSP版、RTMP版和Pro版本，支持各种各样的流媒体音视频播放！
 - pili-engineering [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer) 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK，采用全自研的跨平台播放内核，拥有丰富的功能和优异的性能，可高度定制化和二次开发。
+- dueeeke [dkplayer](https://github.com/dueeeke/dkplayer) 基于IjkPlayer的视频播放器，支持直播点播，悬浮窗播放，广告播放，边播边缓存；支持重力感应自动全屏；完美实现ListView和RecyclerView列表播放；支持清晰度切换；支持一行代码切换MediaPlayer和ExoPlayer；
 ## demo类：
 - iknow4 [Android-Video-Trimmer](https://github.com/iknow4/Android-Video-Trimmer) 视频裁剪功能的demo
 - maimingliang [WxRecoderVideo](https://github.com/maimingliang/WxRecoderVideo) 基于VCamera，仿微信录制短视频,demo
@@ -60,6 +62,7 @@
 # 滚动布局
 - CymChad [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) 更方便的recyclerView
 - janishar [PlaceHolderView](https://github.com/janishar/PlaceHolderView) android recyclerview的包装，包含堆栈视图，简单和超快的动态视图创建与动画预建！
+- airbnb [epoxy](https://github.com/airbnb/epoxy) Epoxy是一个用于在RecyclerView中构建复杂视图的Android库
 
 # 条目Item侧滑效果:
 - daimajia [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) 侧滑布局
@@ -68,6 +71,7 @@
 
 # 页面侧滑：
 - bingoogolapple [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android) Android Activity 滑动返回。支持微信滑动返回样式、横屏滑动返回、全屏滑动返回
+- ikew0ng [SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout) 一个Android库，可帮助您通过向后滑动手势构建应用程序。
 
 # 轮播图：
 - youth5201314 [banner](https://github.com/youth5201314/banner) Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！
@@ -139,6 +143,11 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - stfalcon-studio [FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer) 可自定义的Android全屏图像查看器，支持“捏缩放”和“轻扫以消除”手势的Fresco库
 - MostafaGazar [CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView) 一个库，用于支持自定义形状的图像和使用svgs和绘制形状
 - irimiaionut [ParallaxImageView](https://github.com/irimiaionut/ParallaxImageView) 3D效果
+- koral-- [android-gif-drawable](https://github.com/koral--/android-gif-drawable) gif播放
+
+# 图片处理相关：
+- pqpo [SmartCropper](https://github.com/pqpo/SmartCropper)智能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪。
+- ArthurHub [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)适用于Android的图像裁剪库，针对相机/图库进行了优化。
 
 # 图表类：
 - PhilJay [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)一个强大的Android图表视图/图形视图库，支持线条形 - 雷达 - 泡沫和烛台图表，以及缩放，拖动和动画。
@@ -231,13 +240,19 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - DuanJiaNing[MediaView](https://github.com/DuanJiaNing/MediaView) 带阴影点击效果，可自定义属性的媒体播放控制按钮。包括【播放(暂停)】按钮，【下一曲(上一曲)】按钮。
 - bingoogolapple [BGAFlowLayout-Android](https://github.com/bingoogolapple/BGAFlowLayout-Android) Android 流式布局，可配置是否将每一行的空白区域平均分配给子控件
 - florent37 [ShapeOfView](https://github.com/florent37/ShapeOfView) 给任何android视图定制形状
+- HpWens [MeiWidgetView](https://github.com/HpWens/MeiWidgetView) 几个自定义控件的集合
+- JustKiddingBaby [RollingLayout](https://github.com/JustKiddingBaby/RollingLayout) 一个可以让自己子视图自动滚动的view,仿淘宝头条
 
 # 进度条
 - daimajia [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) 一个好看的的Android进度条。
+- castorflex [SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) 一个小型Android库，允许您拥有平滑且可定制的水平不确定ProgressBar
 - akexorcist [Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar) 带圆角和图标的进度条
 - AnderWeb [discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) 带气泡的进度条
 - bingoogolapple [BGAProgressBar-Android](https://github.com/bingoogolapple/BGAProgressBar-Android)带百分比数字的水平、圆形进度条
 - lingochamp [MagicProgressWidget](https://github.com/lingochamp/MagicProgressWidget)  渐变的圆形进度条与轻量横向进度条
+- JessYanCoding [ProgressManager](https://github.com/JessYanCoding/ProgressManager) ProgressManager 一行代码即可监听 App 中所有通过okhttp网络链接的上传以及下载进度,包括 Glide 的图片加载进度
+- sfsheng0322 [GlideImageView](https://github.com/sfsheng0322/GlideImageView) 基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度
+- peng8350 [LoadingProgress](https://github.com/peng8350/LoadingProgress) 特别方便的在View上，注入一个进度条，改进度条和view绑定，所以一个页面上如果有很多view都需要进度条显示，用这个库会很方便
 
 # 加载类：
 - 81813780 [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) 适合Android的漂亮的加载动画 ![效果](https://github.com/81813780/AVLoadingIndicatorView/blob/master/screenshots/avi.gif)
@@ -251,7 +266,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # Fragment类：
 - YoKeyword [Fragmentation](https://github.com/YoKeyword/Fragmentation) 为Android管理Fragment的强大库
-
+- JustKiddingBaby [FragmentRigger](https://github.com/JustKiddingBaby/FragmentRigger) 这可能是使用成本最低的Fragment框架。无需继承!在使用FragmentRigger的时候，使用成本只有一行注解！！！
+ 
 # 适配类:
 - 鸿阳大神 [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) 很遗憾的，停止更新了
 
@@ -288,10 +304,20 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # button
 - Bearded-Hen [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) 用于Android的引导样式小部件，带有字形图标
 
+# 线程任务相关
+- BoltsFramework [Bolts-Android](https://github.com/BoltsFramework/Bolts-Android) 可以方便的在线程间执行各种任务
+
 # 特殊功能类：
 - stfalcon-studio [SmsVerifyCatcher](https://github.com/stfalcon-studio/SmsVerifyCatcher) 用于在您的应用中验证电话号码的Android库。 自动将验证码从SMS复制到应用程序中。
 - luckybilly [PreLoader](https://github.com/luckybilly/PreLoader) android页面启动速度优化利器：在页面打开之前就预加载数据
 - githubwing [ByeBurger](https://github.com/githubwing/ByeBurger) 这是一个极其简便的快速实现隐藏标题栏和导航栏的库
+
+# 缓存存储相关
+- yangfuhai [ASimpleCache](https://github.com/yangfuhai/ASimpleCache) 是一个为android制定的 轻量级的 开源缓存框架。轻量到只有一个java文件，可以缓存普通的字符串、JsonObject、JsonArray、Bitmap、Drawable、序列化的java对象，和 byte数据。
+- anupcowkur [Reservoir](https://github.com/anupcowkur/Reservoir) Android库轻松使用键/值对将对象序列化并缓存到磁盘。
+
+# Socket相关
+- TooTallNate [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket) 用100％Java编写的准系统WebSocket客户端和服务器实现
 
 # 表情类:
 - w446108264 [XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) 开源表情键盘解决方案
@@ -312,6 +338,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 代码工具类：
 - Blankj [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) 各种工具类，你能想到的工具类，基本都有了这个库
+- vondear [RxTools](https://github.com/vondear/RxTools) Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | Zip4j压缩（支持分卷压缩与加密） | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 图片缩放 | Exif 图片添加地理位置信息（经纬度） | 蛛网等级 | 颜色选择器 | 
 - greenrobot [essentials](https://github.com/greenrobot/essentials) greenrobot出品，工具类
 - wenmingvs [AndroidProcess](https://github.com/wenmingvs/AndroidProcess) 判断App位于前台或者后台的6种方法
 - Trinea [android-common](https://github.com/Trinea/android-common) 主要包括：缓存(图片缓存、预取缓存、网络缓存)、公共View(下拉及底部加载更多ListView、底部加载更多ScrollView、滑动一页Gallery)及Android常用工具类(网络、下载、Android资源操作、shell、文件、Json、随机数、Collection等等)。
@@ -334,6 +361,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - google [guetzli](https://github.com/google/guetzli) 貌似是一个图片压缩的工具
 - BolexLiu [AutoEx](https://github.com/BolexLiu/AutoEx) 帮助Android开发者，让项目在崩溃时从异常堆栈中，自动寻找Stack Overflow的回答。
 - willowtreeapps [Hyperion-Android](https://github.com/willowtreeapps/Hyperion-Android) 适用于Android的应用程序调试和检测工具
+- eleme [UETool](https://github.com/eleme/UETool) UETool 是一个各方人员（设计师、程序员、测试）都可以使用的UI调试工具。它可以作用于任何显示在屏幕上的 view，比如 Activity/Fragment/Dialog/PopupWindow 等等。
 
 # 看起来很厉害的东东：
 - alibaba [ARouter](https://github.com/alibaba/ARouter)一个安卓路由器中间件，帮助应用程序导航到活动和自定义服务。
@@ -367,6 +395,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 知识体系：
 - guoxiaoxing [android-open-source-project-analysis](https://github.com/guoxiaoxing/android-open-source-project-analysis) android 源码分析
+- lzyzsd [Awesome-RxJava] https://github.com/lzyzsd/Awesome-RxJava RXjava中文的详细说明
+- DONGChuan [GradleUserGuide](https://github.com/DONGChuan/GradleUserGuide) Gradle User Guide 中文版
 
 # 开发指南:
 - codepath [android_guides](https://github.com/codepath/android_guides) Android开发者指南，这个作者下有很多android的demo
@@ -412,3 +442,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # react-native
 - xujinyang [react-native-android-guide](https://github.com/xujinyang/react-native-android-guide) 致力于帮助Android开发者转react-native开发。多点一个技能树，多一份天地。
 
+# 在线API管理
+- swagger-api [swagger-ui](https://github.com/swagger-api/swagger-ui) 
+- thx [RAP](https://github.com/thx/RAP) Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！2代已出，下面这个
+- thx [rap2-delos](https://github.com/thx/rap2-delos) 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
