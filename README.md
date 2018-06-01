@@ -63,6 +63,7 @@
 - CymChad [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) 更方便的recyclerView
 - janishar [PlaceHolderView](https://github.com/janishar/PlaceHolderView) android recyclerview的包装，包含堆栈视图，简单和超快的动态视图创建与动画预建！
 - airbnb [epoxy](https://github.com/airbnb/epoxy) Epoxy是一个用于在RecyclerView中构建复杂视图的Android库
+- xmuSistone [AndroidPileLayout](https://github.com/xmuSistone/AndroidPileLayout) [中文简单用法](http://www.jcodecraeer.com/a/opensource/2017/0517/7955.html)
 
 # 条目Item侧滑效果:
 - daimajia [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) 侧滑布局
@@ -75,6 +76,7 @@
 
 # 轮播图：
 - youth5201314 [banner](https://github.com/youth5201314/banner) Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！
+- ImmortalZ [StereoView](https://github.com/ImmortalZ/StereoView) Android 3D立体无限旋转容器。
 
 # 下载辅助
 - MindorksOpenSource [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader)
@@ -171,6 +173,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - bmarrdev [android-DecoView-charting](https://github.com/bmarrdev/android-DecoView-charting) 一个实现了各种圆环动画效果的library
 - dlazaro66 [WheelIndicatorView](https://github.com/dlazaro66/WheelIndicatorView) 圆环进度图表
 - txusballesteros [fit-chart](https://github.com/txusballesteros/fit-chart)  Fit Chart 是一个类似于谷歌健康应用的轮子（wheel view）视图。
+- evrencoskun [TableView](https://github.com/evrencoskun/TableView)  类似Excel的一个view
 # demo：
 - PaoloConte [smooth-line-chart](https://github.com/PaoloConte/smooth-line-chart) 与绘制折线图不同，smooth-line-chart能根据两点绘制平滑的曲线，使用的是贝赛尔曲线的原理。项目比较简单，但是如果你还不知道贝塞尔曲线如何绘制的话可以学习一下。
 
@@ -212,6 +215,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 二维码：
 - yipianfengye [android-zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary) 几行代码快速集成二维码扫描功能
+- bingoogolapple [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
+- dm77 [barcodescanner](https://github.com/dm77/barcodescanner) 
 
 # HTML:
 - jhy [jsoup](https://github.com/jhy/jsoup) Java的HTML解析器，最好的DOM，CSS和jQuery
@@ -242,6 +247,15 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - florent37 [ShapeOfView](https://github.com/florent37/ShapeOfView) 给任何android视图定制形状
 - HpWens [MeiWidgetView](https://github.com/HpWens/MeiWidgetView) 几个自定义控件的集合
 - JustKiddingBaby [RollingLayout](https://github.com/JustKiddingBaby/RollingLayout) 一个可以让自己子视图自动滚动的view,仿淘宝头条
+- xmuSistone [DragRankSquare](https://github.com/xmuSistone/DragRankSquare) 编辑个人资料，图片可拖拽排序。有点像可拖拽的gridView，但是会更流畅。
+- DingMouRen [LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup) 给RecyclerView设置自定义的LayoutManager
+- etsy [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) 一个Android交错网格视图，它支持具有不同大小的行的多个列。瀑布流
+- shellljx [TagViewGroup](https://github.com/shellljx/TagViewGroup) Android 仿小红书图片标签Group
+
+# 透明指示层 (HUD)
+- TakuSemba [Spotlight](https://github.com/TakuSemba/Spotlight)
+- wooplr [Spotlight](https://github.com/wooplr/Spotlight)
+- huburt-Hu [NewbieGuide](https://github.com/huburt-Hu/NewbieGuide) 中文文档
 
 # 进度条
 - daimajia [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) 一个好看的的Android进度条。
@@ -255,10 +269,18 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - peng8350 [LoadingProgress](https://github.com/peng8350/LoadingProgress) 特别方便的在View上，注入一个进度条，改进度条和view绑定，所以一个页面上如果有很多view都需要进度条显示，用这个库会很方便
 
 # 加载类：
-- 81813780 [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) 适合Android的漂亮的加载动画 ![效果](https://github.com/81813780/AVLoadingIndicatorView/blob/master/screenshots/avi.gif)
+- 81813780 [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) 适合Android的漂亮的加载动画 
+- zyao89 [ZLoading](https://github.com/zyao89/ZLoading) 很多图案的加载动画
+- Rogero0o [GifLoadingView](https://github.com/Rogero0o/GifLoadingView) 
+
+# 折叠式view:
+- Ramotion [folding-cell-android](https://github.com/Ramotion/folding-cell-android) [使用方法](http://www.jcodecraeer.com/a/opensource/2016/0414/4145.html)
+- worldline [FoldableLayout](https://github.com/worldline/FoldableLayout) 
+
 
 # 权限申请：
 - googlesamples [easypermissions](https://github.com/googlesamples/easypermissions) 辅助动态申请权限
+- tbruyelle [RxPermissions]{https://github.com/tbruyelle/RxPermissions} Android运行时权限通过RxJava2
 
 # 框架架构类：
 - googlesamples [android-architecture-components](https://github.com/googlesamples/android-architecture-components) 谷歌官方 Android 应用架构库。这个新的架构库旨在帮助我们设计健壮、可测试的和可维护的应用程序。关注分离,模型驱动UI，优先持久化模型
@@ -397,6 +419,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - guoxiaoxing [android-open-source-project-analysis](https://github.com/guoxiaoxing/android-open-source-project-analysis) android 源码分析
 - lzyzsd [Awesome-RxJava] https://github.com/lzyzsd/Awesome-RxJava RXjava中文的详细说明
 - DONGChuan [GradleUserGuide](https://github.com/DONGChuan/GradleUserGuide) Gradle User Guide 中文版
+- android-cn [android-open-project-analysis](https://github.com/android-cn/android-open-project-analysis/) 各种开源库原理解析
 
 # 开发指南:
 - codepath [android_guides](https://github.com/codepath/android_guides) Android开发者指南，这个作者下有很多android的demo
