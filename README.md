@@ -13,6 +13,11 @@
 - [代码家](https://github.com/daimajia) 
 - [王浩](https://github.com/bingoogolapple)
 
+# 国外优秀开源作者
+- [JakeWharton](https://github.com/JakeWharton)
+- [florent37](https://github.com/florent37)
+- [amitshekhariitbhu](https://github.com/amitshekhariitbhu)
+
 # 他人做的开源总结库：
 - XXApple [AndroidLibs](https://github.com/XXApple/AndroidLibs)
 - Trinea [android-open-project](https://github.com/Trinea/android-open-project)
@@ -78,6 +83,11 @@
 - youth5201314 [banner](https://github.com/youth5201314/banner) Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！
 - ImmortalZ [StereoView](https://github.com/ImmortalZ/StereoView) Android 3D立体无限旋转容器。
 
+# 设置view（基本上每个app都会有的settingview）
+- leonHua [LSettingView](https://github.com/leonHua/LSettingView)
+- zxyaust [SettingItem](https://github.com/zxyaust/SettingItem)
+- jeff-sun [SettingView](https://github.com/jeff-sun/SettingView)
+
 # 下载辅助
 - MindorksOpenSource [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader)
 - bingoogolapple [BGAUpdate-Android](https://github.com/bingoogolapple/BGAUpdate-Android) RxJava + Retrofit 下载新版 apk 文件，RxBus 监听下载进度 适配 Android 8.+ 系统,检测新版 apk 文件是否已经下载过,RxJava1.x + Retrofit2.x 下载新版 apk 文件,RxBus 监听下载进度,安装 apk 文件,删除之前升级时下载的老的 apk 文件
@@ -121,6 +131,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - daimajia [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) 可爱的视图动画集合。
 - daimajia [AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions) 根据作者的意思，这个库是从上面这个库升级而来的。Android动画缓和功能。 让动画更真实！
 - yyued [SVGAPlayer-Android](https://github.com/yyued/SVGAPlayer-Android) 使用 SVGAPlayer 在 Android、iOS、Web中播放 After Effects / Animate CC (Flash) 动画。
+- florent37 [ViewAnimator](https://github.com/florent37/ViewAnimator) 很多中动画
 
 # 图片压缩:
 - Curzibn [Luban](https://github.com/Curzibn/Luban) 图片压缩，微信压缩后的图片逆向推算出来的压缩算法
@@ -136,6 +147,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - stfalcon-studio [MultiImageView](https://github.com/stfalcon-studio/MultiImageView) Android库在一个ImageView中显示几个图像，例如群聊的头像
 - Piasy [BigImageViewer](https://github.com/Piasy/BigImageViewer) 基于Subsampling Scale Image View, Fresco, Glide, 和 Picasso的大图加载，支持缩放，可以使用不同的加载库，加载进度，支持下载。
 - davemorrissey [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) Android库（AAR）。 高度可配置，易于扩展的深度缩放视图，可显示巨大图像而不会损失细节。 适合照片画廊，地图，建筑计划等。
+- flavioarfaria [KenBurnsView](https://github.com/flavioarfaria/KenBurnsView) 带动画的imageview
+- florent37 [DiagonalLayout](https://github.com/florent37/DiagonalLayout) 可以给imageview切斜边
 
 # 图片显示相关：
 - bumptech [glide](https://github.com/bumptech/glide) 官方推荐加载图片库
@@ -217,6 +230,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - yipianfengye [android-zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary) 几行代码快速集成二维码扫描功能
 - bingoogolapple [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
 - dm77 [barcodescanner](https://github.com/dm77/barcodescanner) 
+- SumiMakito [AwesomeQRCode](https://github.com/SumiMakito/AwesomeQRCode) 二维码生成器
 
 # HTML:
 - jhy [jsoup](https://github.com/jhy/jsoup) Java的HTML解析器，最好的DOM，CSS和jQuery
@@ -251,6 +265,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - DingMouRen [LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup) 给RecyclerView设置自定义的LayoutManager
 - etsy [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) 一个Android交错网格视图，它支持具有不同大小的行的多个列。瀑布流
 - shellljx [TagViewGroup](https://github.com/shellljx/TagViewGroup) Android 仿小红书图片标签Group
+- developer-shivam [Crescento](https://github.com/developer-shivam/Crescento) 在ImageView和relative layout的底部添加曲线。
+- Quatja [Vorolay](https://github.com/Quatja/Vorolay) VoronoiView是一个视图(视图组)，允许您在Voronoi图区域内添加和显示视图。会是菱形显示
 
 # 透明指示层 (HUD)
 - TakuSemba [Spotlight](https://github.com/TakuSemba/Spotlight)
@@ -281,6 +297,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 权限申请：
 - googlesamples [easypermissions](https://github.com/googlesamples/easypermissions) 辅助动态申请权限
 - tbruyelle [RxPermissions]{https://github.com/tbruyelle/RxPermissions} Android运行时权限通过RxJava2
+- florent37 [RuntimePermission](https://github.com/florent37/RuntimePermission) 在Android上请求运行时权限的最简单方式，不需要扩展类或覆盖权限结果方法，选择您的方式: Kotlin / Coroutines / RxJava / Java 7 / Java 8
 
 # 框架架构类：
 - googlesamples [android-architecture-components](https://github.com/googlesamples/android-architecture-components) 谷歌官方 Android 应用架构库。这个新的架构库旨在帮助我们设计健壮、可测试的和可维护的应用程序。关注分离,模型驱动UI，优先持久化模型
@@ -414,6 +431,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - justjavac [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的编程中文书籍索引
 - julycoding [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) 编程之法：面试和算法心得   
 - xitu [gold-miner](https://github.com/xitu/gold-miner) 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台
+- 1c7 [crash-course-computer-science-chinese](https://github.com/1c7/crash-course-computer-science-chinese) 计算机科学速成课
 
 # 知识体系：
 - guoxiaoxing [android-open-source-project-analysis](https://github.com/guoxiaoxing/android-open-source-project-analysis) android 源码分析
