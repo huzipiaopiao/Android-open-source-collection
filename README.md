@@ -32,7 +32,7 @@
 - jeasonlzy [okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) 文档很全面，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能
 - amitshekhariitbhu [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) 网络请求类
 - facebook [stetho](https://github.com/facebook/stetho) 可以通过浏览器，配合Okhttp的拦截器查看网络请求（抓包），并且可以查看app的DB和Sp的内容
-- loopj [android-async-http](https://github.com/loopj/android-async-http) 基于回调的异步Android Http客户端，构建在Apache的Httpclient库之上。(好像很久没有更新了)
+- loopj [android-async-http](https://github.com/loopj/android-async-http) 基于回调的异步Android Http客户端，构建在Apache的Httpclient库之上。
 
 # 网络辅助类：
 - ihsanbal [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor)okhttp的log拦截器
@@ -52,6 +52,7 @@
 - EasyDSS [EasyPlayer](https://github.com/EasyDSS/EasyPlayer) EasyPlayer是一款精炼、高效、稳定的流媒体播放器，分为RTSP版、RTMP版和Pro版本，支持各种各样的流媒体音视频播放！
 - pili-engineering [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer) 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK，采用全自研的跨平台播放内核，拥有丰富的功能和优异的性能，可高度定制化和二次开发。
 - dueeeke [dkplayer](https://github.com/dueeeke/dkplayer) 基于IjkPlayer的视频播放器，支持直播点播，悬浮窗播放，广告播放，边播边缓存；支持重力感应自动全屏；完美实现ListView和RecyclerView列表播放；支持清晰度切换；支持一行代码切换MediaPlayer和ExoPlayer；
+- jiajunhui [PlayerBase](https://github.com/jiajunhui/PlayerBase) Android播放器基础库，专注于播放视图组件的高复用性和组件间的低耦合，轻松处理复杂业务。
 ## demo类：
 - iknow4 [Android-Video-Trimmer](https://github.com/iknow4/Android-Video-Trimmer) 视频裁剪功能的demo
 - maimingliang [WxRecoderVideo](https://github.com/maimingliang/WxRecoderVideo) 基于VCamera，仿微信录制短视频,demo
@@ -166,6 +167,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 图表类：
 - PhilJay [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)一个强大的Android图表视图/图形视图库，支持线条形 - 雷达 - 泡沫和烛台图表，以及缩放，拖动和动画。
+- huangyanbin [SmartChart](https://github.com/huangyanbin/SmartChart)一款android 图表框架，支持图表N配置，支持缩放,旋转手势。
 - lecho [hellocharts-android](https://github.com/lecho/hellocharts-android) [使用方法](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1107/1930.html)适用于Android的图表/图表库兼容API 8+，多种图表类型，支持缩放，滚动和动画 
 - xcltapestry [XCL-Charts](https://github.com/xcltapestry/XCL-Charts) 国内开源的，所以有中文文档
 - whataa [SuitLines](https://github.com/whataa/SuitLines) 一个小巧且高效的线性图表组件。
@@ -187,6 +189,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - dlazaro66 [WheelIndicatorView](https://github.com/dlazaro66/WheelIndicatorView) 圆环进度图表
 - txusballesteros [fit-chart](https://github.com/txusballesteros/fit-chart)  Fit Chart 是一个类似于谷歌健康应用的轮子（wheel view）视图。
 - evrencoskun [TableView](https://github.com/evrencoskun/TableView)  类似Excel的一个view
+- huangyanbin [smartTable](https://github.com/huangyanbin/smartTable)一款android自动生成表格框架。
 # demo：
 - PaoloConte [smooth-line-chart](https://github.com/PaoloConte/smooth-line-chart) 与绘制折线图不同，smooth-line-chart能根据两点绘制平滑的曲线，使用的是贝赛尔曲线的原理。项目比较简单，但是如果你还不知道贝塞尔曲线如何绘制的话可以学习一下。
 
@@ -367,6 +370,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 蓝牙
 - Jasonchenlijian [FastBle](https://github.com/Jasonchenlijian/FastBle) 蓝牙快速开发框架
 - dingjikerbo [BluetoothKit](https://github.com/dingjikerbo/BluetoothKit) Android BLE蓝牙通信库
+- Alex-Jerry [Android-BLE](https://github.com/Alex-Jerry/Android-BLE) AndroidBLE蓝牙框架，包括扫描、连接、设置通知、发送数据、读取、接收数据和OTA升级以及各种直观的回调，近乎一行代码植入项目，可扩展配置蓝牙相关操作。
 
 # 序列化：
 - johncarl81 [parceler](https://github.com/johncarl81/parceler)Android Parcelables通过代码生成变得容易
@@ -421,6 +425,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - DuanJiaNing [Musicoco](https://github.com/DuanJiaNing/Musicoco) 【我的音乐-Musicoco】 音乐播放器，功能：通过耳机和通知栏快捷控制音乐播放、创建歌单、本地歌曲搜索、记忆播放、自动切换到夜间模式、定时停止播放、应用主题自定义以及播放界面风格选择等功能。
 - ruzhan123 [awaker](https://github.com/ruzhan123/awaker) 地理杂志阅读类Android App，项目采用 LiveData + Room + RXJava2 + Retrofit + OKHttp + Material Design + Base + Glide 构建
 - babylikebird [owspace](https://github.com/babylikebird/owspace) 高仿单读APP：owspace是基于MVP+Dagger2+Retrofit2.0+Rxjava的APP
+- LRH1993[Eyepetizer-in-Kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin) 使用Kotlin撸一款Eyepetizer，学习Kotlin语言
 
 # Demo类:
 - googlesamples [android-architecture-components](https://github.com/googlesamples/android-architecture-components) Android体系结构组件的示例。
@@ -432,6 +437,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - julycoding [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) 编程之法：面试和算法心得   
 - xitu [gold-miner](https://github.com/xitu/gold-miner) 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台
 - 1c7 [crash-course-computer-science-chinese](https://github.com/1c7/crash-course-computer-science-chinese) 计算机科学速成课
+- tuvtran [project-based-learning](https://github.com/tuvtran/project-based-learning) 各类语音的学习资料
+- EasyKotlin [EasyKotlin](https://github.com/EasyKotlin) kotlin资料
 
 # 知识体系：
 - guoxiaoxing [android-open-source-project-analysis](https://github.com/guoxiaoxing/android-open-source-project-analysis) android 源码分析
@@ -456,6 +463,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 测试相关：
 - hehonghui [mockito-doc-zh](https://github.com/hehonghui/mockito-doc-zh) 
+
+# ADB相关
+- mzlogin [awesome-adb](https://github.com/mzlogin/awesome-adb) 中文详细的介绍了，adb命令
 
 # 反编译及脱壳工具类：
 - skylot [jadx](https://github.com/skylot/jadx) 反编译app的工具，只能说超牛
