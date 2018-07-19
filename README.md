@@ -71,6 +71,12 @@
 - airbnb [epoxy](https://github.com/airbnb/epoxy) Epoxy是一个用于在RecyclerView中构建复杂视图的Android库
 - xmuSistone [AndroidPileLayout](https://github.com/xmuSistone/AndroidPileLayout) [中文简单用法](http://www.jcodecraeer.com/a/opensource/2017/0517/7955.html)
 
+# 下拉刷新：
+- scwang90 [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+- liaohuqiu [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) 这是现在已经停止维护的下拉刷新项目的替代方案。继承于ViewGroup可以包含任何View。功能比SwipeRefreshLayout强大。使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。
+- jdsjlzx [LRecyclerView](https://github.com/jdsjlzx/LRecyclerView) RecyclerView下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单
+- cundong [HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView) RecyclerView下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单
+
 # 条目Item侧滑效果:
 - daimajia [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) 侧滑布局
 - anzaizai [EasySwipeMenuLayout](https://github.com/anzaizai/EasySwipeMenuLayout) 左右均可添加侧拉按钮
@@ -206,10 +212,12 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - yhaolpz [FloatWindow](https://github.com/yhaolpz/FloatWindow) Andorid 任意界面悬浮窗
 - txusballesteros [bubbles-for-android](https://github.com/txusballesteros/bubbles-for-android) Bubbles for Android是一个Android库，为您的应用程序提供聊天头功能.可以任何界面悬浮
 - afollestad [material-dialogs](https://github.com/afollestad/material-dialogs) 一个美丽，流畅，可定制的对话框API。
+- wangjiegulu [RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton) FloatingActionButton，可以弹出很多子选项
 
 # 提示Tip
 - GrenderG[Toasty](https://github.com/GrenderG/Toasty)
 - Muddz [StyleableToast](https://github.com/Muddz/StyleableToast)   
+- Tapadoo [Alerter](https://github.com/Tapadoo/Alerter) 超漂亮的一个顶部提示
 
 # 角标类(Badger)：
 - leolin310148 [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) 桌面图标的消息数角标
@@ -223,12 +231,6 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - hackware1993 [MagicIndicator](https://github.com/hackware1993/MagicIndicator) 强大、可定制、易扩展的 ViewPager 指示器框架。是ViewPagerIndicator、TabLayout、PagerSlidingTabStrip的最佳替代品。支持角标，更支持在非ViewPager场景下使用
 - bingoogolapple [BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android) 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位
 
-# 下拉刷新：
-- scwang90 [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
-- liaohuqiu [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) 这是现在已经停止维护的下拉刷新项目的替代方案。继承于ViewGroup可以包含任何View。功能比SwipeRefreshLayout强大。使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。
-- jdsjlzx [LRecyclerView](https://github.com/jdsjlzx/LRecyclerView) RecyclerView下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单
-- cundong [HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView) RecyclerView下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单
-
 # 二维码：
 - yipianfengye [android-zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary) 几行代码快速集成二维码扫描功能
 - bingoogolapple [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
@@ -237,6 +239,10 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # HTML:
 - jhy [jsoup](https://github.com/jhy/jsoup) Java的HTML解析器，最好的DOM，CSS和jQuery
+
+# 文件查看：
+- 腾讯 [TBS](https://x5.tencent.com/tbs/index.html) 腾讯的浏览服务，可以查看各种文件（包括office的文件）
+- barteksc [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) 查看PDF
 
 # 日历
 - huanghaibin-dev [CalendarView](https://github.com/huanghaibin-dev/CalendarView?utm_source=gold_browser_extension) Android上一个优雅、万能自定义UI、支持周视图、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！
@@ -258,6 +264,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - lguipeng [AnimCheckBox](https://github.com/lguipeng/AnimCheckBox) 带动画的checkbox 
 - stfalcon-studio [ChatKit](https://github.com/stfalcon-studio/ChatKit) IM的UI库
 - Rance935 [ChatUI](https://github.com/Rance935/ChatUI) IM的UI库
+- jpush [aurora-imui](https://github.com/jpush/aurora-imui) IM的UI库
 - DuanJiaNing[ColorPicker](https://github.com/DuanJiaNing/ColorPicker) 进度条”水平、竖直颜色选择器。
 - DuanJiaNing[MediaView](https://github.com/DuanJiaNing/MediaView) 带阴影点击效果，可自定义属性的媒体播放控制按钮。包括【播放(暂停)】按钮，【下一曲(上一曲)】按钮。
 - bingoogolapple [BGAFlowLayout-Android](https://github.com/bingoogolapple/BGAFlowLayout-Android) Android 流式布局，可配置是否将每一行的空白区域平均分配给子控件
@@ -270,6 +277,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - shellljx [TagViewGroup](https://github.com/shellljx/TagViewGroup) Android 仿小红书图片标签Group
 - developer-shivam [Crescento](https://github.com/developer-shivam/Crescento) 在ImageView和relative layout的底部添加曲线。
 - Quatja [Vorolay](https://github.com/Quatja/Vorolay) VoronoiView是一个视图(视图组)，允许您在Voronoi图区域内添加和显示视图。会是菱形显示
+- scwang90 [MultiWaveHeader](https://github.com/scwang90/MultiWaveHeader) Android 炫酷的多重水波纹
 
 # 透明指示层 (HUD)
 - TakuSemba [Spotlight](https://github.com/TakuSemba/Spotlight)
@@ -299,8 +307,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 权限申请：
 - googlesamples [easypermissions](https://github.com/googlesamples/easypermissions) 辅助动态申请权限
-- tbruyelle [RxPermissions]{https://github.com/tbruyelle/RxPermissions} Android运行时权限通过RxJava2
+- tbruyelle [RxPermissions](https://github.com/tbruyelle/RxPermissions) Android运行时权限通过RxJava2
 - florent37 [RuntimePermission](https://github.com/florent37/RuntimePermission) 在Android上请求运行时权限的最简单方式，不需要扩展类或覆盖权限结果方法，选择您的方式: Kotlin / Coroutines / RxJava / Java 7 / Java 8
+- yewei02538 [HiPermission](https://github.com/yewei02538/HiPermission) 一个简单易用的漂亮权限申请库
 
 # 框架架构类：
 - googlesamples [android-architecture-components](https://github.com/googlesamples/android-architecture-components) 谷歌官方 Android 应用架构库。这个新的架构库旨在帮助我们设计健壮、可测试的和可维护的应用程序。关注分离,模型驱动UI，优先持久化模型
@@ -387,6 +396,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - Trinea [android-common](https://github.com/Trinea/android-common) 主要包括：缓存(图片缓存、预取缓存、网络缓存)、公共View(下拉及底部加载更多ListView、底部加载更多ScrollView、滑动一页Gallery)及Android常用工具类(网络、下载、Android资源操作、shell、文件、Json、随机数、Collection等等)。
 - yangfuhai [afinal](https://github.com/yangfuhai/afinal) Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。通过finalActivity，我们可以通过注解的方式进行绑定ui和事件。通过finalBitmap，我们可以方便的加载bitmap图片，而无需考虑oom等问题。通过finalDB模块，我们一行代码就可以对android的sqlite数据库进行增删改查。通过FinalHttp模块，我们可以以ajax形式请求http数据。
 - yangfuhai [ASimpleCache](https://github.com/yangfuhai/ASimpleCache) 是一个为android制定的 轻量级的 开源缓存框架。轻量到只有一个java文件。可以缓存普通的字符串、JsonObject、JsonArray、Bitmap、Drawable、序列化的java对象，和 byte数据
+- lfkdsk [JustWeTools](https://github.com/lfkdsk/JustWeTools) 画图工具，代码编辑，文件管理器，进度条/环形进度条，绘制时钟，以及常用工具
 
 # 日志Log辅助类：
 - JakeWharton [timber](https://github.com/JakeWharton/timber)
@@ -442,7 +452,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 知识体系：
 - guoxiaoxing [android-open-source-project-analysis](https://github.com/guoxiaoxing/android-open-source-project-analysis) android 源码分析
-- lzyzsd [Awesome-RxJava] https://github.com/lzyzsd/Awesome-RxJava RXjava中文的详细说明
+- lzyzsd [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava) RXjava中文的详细说明
 - DONGChuan [GradleUserGuide](https://github.com/DONGChuan/GradleUserGuide) Gradle User Guide 中文版
 - android-cn [android-open-project-analysis](https://github.com/android-cn/android-open-project-analysis/) 各种开源库原理解析
 
@@ -461,8 +471,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 构建工具：
 - fastlane [fastlane](https://github.com/fastlane/fastlane) 自动构建和发布您的iOS和Android应用程序的最简单方法
 
-# 测试相关：
+# 调试相关：
 - hehonghui [mockito-doc-zh](https://github.com/hehonghui/mockito-doc-zh) 
+- Tencent [GT](https://github.com/Tencent/GT) GT（随身调）是APP的随身调试平台，它是直接运行在手机上的“集成调试环境”
 
 # ADB相关
 - mzlogin [awesome-adb](https://github.com/mzlogin/awesome-adb) 中文详细的介绍了，adb命令
