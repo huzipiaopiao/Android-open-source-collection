@@ -12,6 +12,7 @@
 # 国内优秀开源作者(一些都认识的大神，后面再慢慢补上)：
 - [代码家](https://github.com/daimajia) 
 - [王浩](https://github.com/bingoogolapple)
+- [马天宇](https://github.com/litesuits)
 
 # 国外优秀开源作者
 - [JakeWharton](https://github.com/JakeWharton)
@@ -33,6 +34,7 @@
 - amitshekhariitbhu [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) 网络请求类
 - facebook [stetho](https://github.com/facebook/stetho) 可以通过浏览器，配合Okhttp的拦截器查看网络请求（抓包），并且可以查看app的DB和Sp的内容
 - loopj [android-async-http](https://github.com/loopj/android-async-http) 基于回调的异步Android Http客户端，构建在Apache的Httpclient库之上。
+- litesuits [android-lite-http](https://github.com/litesuits/android-lite-http) LiteHttp 只需要一行代码即可完美实现网络连接，它全面支持 GET, POST, PUT, DELETE, HEAD, TRACE, OPTIONS 和 PATCH 八种基本类型。 LiteHttp 能将 Java Model 转化为请求参数，也能将响应的 json 语句智能转化为 JavaModel ，这种全自动解析策略将节省你大量的构建请求、解析响应的时间。 并且，你能自己继承重新实现 Dataparser 这个抽象类并设置给 Request，来将原始的 InputStream 转化为任何你想要的东西。
 
 # 网络辅助类：
 - ihsanbal [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor)okhttp的log拦截器
@@ -380,6 +382,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - Jasonchenlijian [FastBle](https://github.com/Jasonchenlijian/FastBle) 蓝牙快速开发框架
 - dingjikerbo [BluetoothKit](https://github.com/dingjikerbo/BluetoothKit) Android BLE蓝牙通信库
 - Alex-Jerry [Android-BLE](https://github.com/Alex-Jerry/Android-BLE) AndroidBLE蓝牙框架，包括扫描、连接、设置通知、发送数据、读取、接收数据和OTA升级以及各种直观的回调，近乎一行代码植入项目，可扩展配置蓝牙相关操作。
+- litesuits [android-lite-bluetoothLE](https://github.com/litesuits/android-lite-bluetoothLE) LiteBle 能让你稳定高效的完成蓝牙设备的查询、连接和读写等操作。它适合和低功耗的蓝牙设备通信，比如传感器，心率检测仪，智能穿戴设备等。
 
 # 序列化：
 - johncarl81 [parceler](https://github.com/johncarl81/parceler)Android Parcelables通过代码生成变得容易
@@ -397,6 +400,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - yangfuhai [afinal](https://github.com/yangfuhai/afinal) Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。通过finalActivity，我们可以通过注解的方式进行绑定ui和事件。通过finalBitmap，我们可以方便的加载bitmap图片，而无需考虑oom等问题。通过finalDB模块，我们一行代码就可以对android的sqlite数据库进行增删改查。通过FinalHttp模块，我们可以以ajax形式请求http数据。
 - yangfuhai [ASimpleCache](https://github.com/yangfuhai/ASimpleCache) 是一个为android制定的 轻量级的 开源缓存框架。轻量到只有一个java文件。可以缓存普通的字符串、JsonObject、JsonArray、Bitmap、Drawable、序列化的java对象，和 byte数据
 - lfkdsk [JustWeTools](https://github.com/lfkdsk/JustWeTools) 画图工具，代码编辑，文件管理器，进度条/环形进度条，绘制时钟，以及常用工具
+- litesuits [android-common](https://github.com/litesuits/android-common) 其中包括 shell 命令，静默安装，bitmap 处理，文件操作，加密存储器，计数器，均值器，吐司，日志，校验，提示，网络监测等基础功能。 以及一些 Base64、MD5、Hex、Byte、Number、Dialog、Filed、Class、Package、Telephone、Random 等工具类。
 
 # 日志Log辅助类：
 - JakeWharton [timber](https://github.com/JakeWharton/timber)
@@ -500,6 +504,10 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - alibaba [weex](https://github.com/alibaba/weex) 阿里巴巴开发
 - NativeScript [NativeScript](https://github.com/NativeScript/NativeScript) NativeScript是一个用JavaScript构建真正的本地移动应用程序的开源框架。 使用网络技能，如Angular，FlexBox和CSS，并在iOS和Android上获取原生UI和性能。
 - framework7io [framework7](https://github.com/framework7io/framework7) 全功能的HTML框架，用于构建iOS和Android应用程序
+ 
+# flutter
+- yubo725 [flutter-osc](https://github.com/yubo725/flutter-osc) 基于Google Flutter的开源中国客户端，支持Android和iOS。
+- flutter [plugins](https://github.com/flutter/plugins) 官方插件
  
 # react-native
 - xujinyang [react-native-android-guide](https://github.com/xujinyang/react-native-android-guide) 致力于帮助Android开发者转react-native开发。多点一个技能树，多一份天地。
