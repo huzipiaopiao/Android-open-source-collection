@@ -158,6 +158,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - davemorrissey [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) Android库（AAR）。 高度可配置，易于扩展的深度缩放视图，可显示巨大图像而不会损失细节。 适合照片画廊，地图，建筑计划等。
 - flavioarfaria [KenBurnsView](https://github.com/flavioarfaria/KenBurnsView) 带动画的imageview
 - florent37 [DiagonalLayout](https://github.com/florent37/DiagonalLayout) 可以给imageview切斜边
+- wasabeef [Blurry](https://github.com/wasabeef/Blurry) 毛玻璃效果
 
 # 图片显示相关：
 - bumptech [glide](https://github.com/bumptech/glide) 官方推荐加载图片库
@@ -312,6 +313,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - tbruyelle [RxPermissions](https://github.com/tbruyelle/RxPermissions) Android运行时权限通过RxJava2
 - florent37 [RuntimePermission](https://github.com/florent37/RuntimePermission) 在Android上请求运行时权限的最简单方式，不需要扩展类或覆盖权限结果方法，选择您的方式: Kotlin / Coroutines / RxJava / Java 7 / Java 8
 - yewei02538 [HiPermission](https://github.com/yewei02538/HiPermission) 一个简单易用的漂亮权限申请库
+- Karumi [Dexter](https://github.com/Karumi/Dexter) 
 
 # 框架架构类：
 - googlesamples [android-architecture-components](https://github.com/googlesamples/android-architecture-components) 谷歌官方 Android 应用架构库。这个新的架构库旨在帮助我们设计健壮、可测试的和可维护的应用程序。关注分离,模型驱动UI，优先持久化模型
@@ -322,6 +324,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - JustKiddingBaby [FragmentRigger](https://github.com/JustKiddingBaby/FragmentRigger) 这可能是使用成本最低的Fragment框架。无需继承!在使用FragmentRigger的时候，使用成本只有一行注解！！！
  
 # 适配类:
+- JessYanCoding [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize) (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案
 - 鸿阳大神 [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) 很遗憾的，停止更新了
 
 # 时间相关
@@ -353,6 +356,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - mabbas007 [TagsEditText](https://github.com/mabbas007/TagsEditText)标签输入控件。
 - pchmn [MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)这个库实现了Material Design中的Chips component ，分为可编辑的ChipsInput和ChipView。
 - Rogero0o [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView)当完成密码时提供动画
+- MindorksOpenSource [EditDrawableText](https://github.com/MindorksOpenSource/EditDrawableText) 带图标的edittext
 
 # button
 - Bearded-Hen [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) 用于Android的引导样式小部件，带有字形图标
@@ -440,6 +444,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - ruzhan123 [awaker](https://github.com/ruzhan123/awaker) 地理杂志阅读类Android App，项目采用 LiveData + Room + RXJava2 + Retrofit + OKHttp + Material Design + Base + Glide 构建
 - babylikebird [owspace](https://github.com/babylikebird/owspace) 高仿单读APP：owspace是基于MVP+Dagger2+Retrofit2.0+Rxjava的APP
 - LRH1993[Eyepetizer-in-Kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin) 使用Kotlin撸一款Eyepetizer，学习Kotlin语言
+- miaoMiaoDaShi [YangYanNew](https://github.com/miaoMiaoDaShi/YangYanNew) kotlin+MVPArms版本
 
 # Demo类:
 - googlesamples [android-architecture-components](https://github.com/googlesamples/android-architecture-components) Android体系结构组件的示例。
@@ -459,6 +464,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - lzyzsd [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava) RXjava中文的详细说明
 - DONGChuan [GradleUserGuide](https://github.com/DONGChuan/GradleUserGuide) Gradle User Guide 中文版
 - android-cn [android-open-project-analysis](https://github.com/android-cn/android-open-project-analysis/) 各种开源库原理解析
+- francistao [LearningNotes](https://github.com/francistao/LearningNotes) 总结了大量的Android开发知识
+- JsonChao [Awesome-Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview) 从十几份顶级面试仓库和200多篇高质量面经中总结出一份全面而详尽的Android面试题集
 
 # 开发指南:
 - codepath [android_guides](https://github.com/codepath/android_guides) Android开发者指南，这个作者下有很多android的demo
