@@ -13,6 +13,7 @@
 - [代码家](https://github.com/daimajia) 
 - [王浩](https://github.com/bingoogolapple)
 - [马天宇](https://github.com/litesuits)
+- [Zhenjie Yan](https://github.com/yanzhenjie)
 
 # 国外优秀开源作者
 - [JakeWharton](https://github.com/JakeWharton)
@@ -35,6 +36,8 @@
 - facebook [stetho](https://github.com/facebook/stetho) 可以通过浏览器，配合Okhttp的拦截器查看网络请求（抓包），并且可以查看app的DB和Sp的内容
 - loopj [android-async-http](https://github.com/loopj/android-async-http) 基于回调的异步Android Http客户端，构建在Apache的Httpclient库之上。
 - litesuits [android-lite-http](https://github.com/litesuits/android-lite-http) LiteHttp 只需要一行代码即可完美实现网络连接，它全面支持 GET, POST, PUT, DELETE, HEAD, TRACE, OPTIONS 和 PATCH 八种基本类型。 LiteHttp 能将 Java Model 转化为请求参数，也能将响应的 json 语句智能转化为 JavaModel ，这种全自动解析策略将节省你大量的构建请求、解析响应的时间。 并且，你能自己继承重新实现 Dataparser 这个抽象类并设置给 Request，来将原始的 InputStream 转化为任何你想要的东西。
+- yanzhenjie [NoHttp](https://github.com/yanzhenjie/NoHttp) Android实现Http标准协议框架，支持缓存（提供五种缓存模式）、代理、重定向，底层可动态切换OkHttp、URLConnection。
+- yanzhenjie [Kalle](https://github.com/yanzhenjie/Kalle) NoHttp作者，应该是比NoHttp封装的更好吧
 
 # 网络辅助类：
 - ihsanbal [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor)okhttp的log拦截器
@@ -78,6 +81,7 @@
 - liaohuqiu [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) 这是现在已经停止维护的下拉刷新项目的替代方案。继承于ViewGroup可以包含任何View。功能比SwipeRefreshLayout强大。使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。
 - jdsjlzx [LRecyclerView](https://github.com/jdsjlzx/LRecyclerView) RecyclerView下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单
 - cundong [HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView) RecyclerView下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单
+- yanzhenjie [SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView) RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，HeaderView，FooterView，Item分组黏贴。
 
 # 条目Item侧滑效果:
 - daimajia [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) 侧滑布局
@@ -103,7 +107,8 @@
 - lingochamp [FileDownloader](https://github.com/lingochamp/FileDownloader) Android 文件下载引擎，稳定、高效、灵活、简单易用
 - lingochamp [okdownload](https://github.com/lingochamp/okdownload) 上面下载工具的升级版
 
-# 主题换肤类:
+# 主题换肤（皮肤）类:
+- ximsfei [Android-skin-support](https://github.com/ximsfei/Android-skin-support) 一款用心去做的Android 换肤框架, 极低的学习成本, 极好的用户体验. 一行代码就可以实现换肤, 你值得拥有!!!
 - Bilibili [MagicaSakura](https://github.com/Bilibili/MagicaSakura) 方便切换主题
 - hongyangAndroid [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin) 一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity
 
@@ -270,7 +275,6 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - jpush [aurora-imui](https://github.com/jpush/aurora-imui) IM的UI库
 - DuanJiaNing[ColorPicker](https://github.com/DuanJiaNing/ColorPicker) 进度条”水平、竖直颜色选择器。
 - DuanJiaNing[MediaView](https://github.com/DuanJiaNing/MediaView) 带阴影点击效果，可自定义属性的媒体播放控制按钮。包括【播放(暂停)】按钮，【下一曲(上一曲)】按钮。
-- bingoogolapple [BGAFlowLayout-Android](https://github.com/bingoogolapple/BGAFlowLayout-Android) Android 流式布局，可配置是否将每一行的空白区域平均分配给子控件
 - florent37 [ShapeOfView](https://github.com/florent37/ShapeOfView) 给任何android视图定制形状
 - HpWens [MeiWidgetView](https://github.com/HpWens/MeiWidgetView) 几个自定义控件的集合
 - JustKiddingBaby [RollingLayout](https://github.com/JustKiddingBaby/RollingLayout) 一个可以让自己子视图自动滚动的view,仿淘宝头条
@@ -282,10 +286,16 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - Quatja [Vorolay](https://github.com/Quatja/Vorolay) VoronoiView是一个视图(视图组)，允许您在Voronoi图区域内添加和显示视图。会是菱形显示
 - scwang90 [MultiWaveHeader](https://github.com/scwang90/MultiWaveHeader) Android 炫酷的多重水波纹
 
+# 流式布局
+- hongyangAndroid [FlowLayout](https://github.com/hongyangAndroid/FlowLayout) Android流式布局，支持单选、多选等，适合用于产品标签等。
+- bingoogolapple [BGAFlowLayout-Android](https://github.com/bingoogolapple/BGAFlowLayout-Android) Android 流式布局，可配置是否将每一行的空白区域平均分配给子控件
+
+
 # 透明指示层 (HUD)
 - TakuSemba [Spotlight](https://github.com/TakuSemba/Spotlight)
 - wooplr [Spotlight](https://github.com/wooplr/Spotlight)
 - huburt-Hu [NewbieGuide](https://github.com/huburt-Hu/NewbieGuide) 中文文档
+- hongyangAndroid [Highlight](https://github.com/hongyangAndroid/Highlight) 一个用于app指向性功能高亮的库
 
 # 进度条
 - daimajia [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) 一个好看的的Android进度条。
@@ -310,6 +320,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 权限申请：
 - googlesamples [easypermissions](https://github.com/googlesamples/easypermissions) 辅助动态申请权限
+- yanzhenjie [AndPermission](https://github.com/yanzhenjie/AndPermission) 辅助动态申请权限
 - tbruyelle [RxPermissions](https://github.com/tbruyelle/RxPermissions) Android运行时权限通过RxJava2
 - florent37 [RuntimePermission](https://github.com/florent37/RuntimePermission) 在Android上请求运行时权限的最简单方式，不需要扩展类或覆盖权限结果方法，选择您的方式: Kotlin / Coroutines / RxJava / Java 7 / Java 8
 - yewei02538 [HiPermission](https://github.com/yewei02538/HiPermission) 一个简单易用的漂亮权限申请库
@@ -466,6 +477,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - android-cn [android-open-project-analysis](https://github.com/android-cn/android-open-project-analysis/) 各种开源库原理解析
 - francistao [LearningNotes](https://github.com/francistao/LearningNotes) 总结了大量的Android开发知识
 - JsonChao [Awesome-Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview) 从十几份顶级面试仓库和200多篇高质量面经中总结出一份全面而详尽的Android面试题集
+- xfhy [notes](https://github.com/xfhy/notes) 非常详细的笔记
 
 # 开发指南:
 - codepath [android_guides](https://github.com/codepath/android_guides) Android开发者指南，这个作者下有很多android的demo
