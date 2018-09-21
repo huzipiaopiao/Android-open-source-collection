@@ -14,6 +14,7 @@
 - [王浩](https://github.com/bingoogolapple)
 - [马天宇](https://github.com/litesuits)
 - [Zhenjie Yan](https://github.com/yanzhenjie)
+- [Blankj](https://github.com/Blankj)
 
 # 国外优秀开源作者
 - [JakeWharton](https://github.com/JakeWharton)
@@ -136,7 +137,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - greenrobot [greenDAO](https://github.com/greenrobot/greenDAO)
 - LitePalFramework [LitePal](https://github.com/LitePalFramework/LitePal)
 - agrosner [DBFlow](https://github.com/Raizlabs/DBFlow) [文档](https://github.com/agrosner/DBFlowDocs)
-- objectbox[objectbox-java](https://github.com/objectbox/objectbox-java) 好像也是出自greenrobot
+- objectbox[objectbox-java](https://github.com/objectbox/objectbox-java) 好像也是出自greenrobot，号称比SQLite快10倍
 
 # 动画效果
 - airbnb [lottie-android](https://github.com/airbnb/lottie-android) 在Android和iOS，Web和React Native上使用After Effects动画
@@ -402,6 +403,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 序列化：
 - johncarl81 [parceler](https://github.com/johncarl81/parceler)Android Parcelables通过代码生成变得容易
 
+# 加密：
+- google [tink](https://github.com/google/tink) Tink是一个多语言，跨平台的库，提供安全，易于正确使用和难以滥用的加密API。
+
 # 常用类：
 - Xiaofei-it [Hermes](https://github.com/Xiaofei-it/Hermes) Hermes是一套新颖巧妙易用的Android进程间通信IPC框架。这个框架使得你不用了解IPC机制就可以进行进程间通信，像调用本地函数一样调用其他进程的函数
 - elemers [HermesEventBus](https://github.com/elemers/HermesEventBus) HermesEventBus是一个基于EventBus的、能在进程间发送和接收event的库，在IPC或者插件开发中非常有用。
@@ -416,6 +420,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - yangfuhai [ASimpleCache](https://github.com/yangfuhai/ASimpleCache) 是一个为android制定的 轻量级的 开源缓存框架。轻量到只有一个java文件。可以缓存普通的字符串、JsonObject、JsonArray、Bitmap、Drawable、序列化的java对象，和 byte数据
 - lfkdsk [JustWeTools](https://github.com/lfkdsk/JustWeTools) 画图工具，代码编辑，文件管理器，进度条/环形进度条，绘制时钟，以及常用工具
 - litesuits [android-common](https://github.com/litesuits/android-common) 其中包括 shell 命令，静默安装，bitmap 处理，文件操作，加密存储器，计数器，均值器，吐司，日志，校验，提示，网络监测等基础功能。 以及一些 Base64、MD5、Hex、Byte、Number、Dialog、Filed、Class、Package、Telephone、Random 等工具类。
+
+# 混淆辅助工具：
+- Blankj [FreeProGuard](https://github.com/Blankj/FreeProGuard) 该库利用了 consumerProguardFiles 来传递 aar 中的防混淆配置到主工程中，所以依赖了该库后常用的主流三方库便不再需要开发者们手动配置了
 
 # 日志Log辅助类：
 - JakeWharton [timber](https://github.com/JakeWharton/timber)
@@ -478,6 +485,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - francistao [LearningNotes](https://github.com/francistao/LearningNotes) 总结了大量的Android开发知识
 - JsonChao [Awesome-Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview) 从十几份顶级面试仓库和200多篇高质量面经中总结出一份全面而详尽的Android面试题集
 - xfhy [notes](https://github.com/xfhy/notes) 非常详细的笔记
+- simple-android-framework [android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis) 设计模式
 
 # 开发指南:
 - codepath [android_guides](https://github.com/codepath/android_guides) Android开发者指南，这个作者下有很多android的demo
@@ -487,6 +495,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - awangdev [LintCode](https://github.com/awangdev/LintCode)
 - Blankj [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
 - scottszb1987 [LeetCodeInCSharp](https://github.com/scottszb1987/LeetCodeInCSharp) 
+- [牛客网](https://www.nowcoder.com/)
 
 # 打包：
 - Tencent [VasDolly](https://github.com/Tencent/VasDolly) VasDolly是一种快速多渠道打包工具，同时支持基于V1签名和V2签名进行多渠道打包。
