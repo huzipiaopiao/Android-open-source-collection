@@ -132,6 +132,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - Werb [PickPhotoSample](https://github.com/Werb/PickPhotoSample) 图片选择库
 - lijunguan [AlbumSelector](https://github.com/lijunguan/AlbumSelector) 图片选择库，可以用来选择头像，或者多张图片选择， material design
 - lovetuzitong [MultiImageSelector](https://github.com/lovetuzitong/MultiImageSelector)比较老
+- HuanTanSheng [EasyPhotos](https://github.com/HuanTanSheng/EasyPhotos)自定义相机拍照，相册选择(单选/多选)，文件夹图片选择(单选/多选)
 
 # 数据库:
 - greenrobot [greenDAO](https://github.com/greenrobot/greenDAO)
