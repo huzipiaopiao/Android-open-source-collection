@@ -10,6 +10,7 @@
 - [CODELF](http://unbug.github.io/codelf/) github的搜索，会出来很多分类，根据需要进入对应项目
 
 # 国内优秀开源作者(一些都认识的大神，后面再慢慢补上)：
+- [廖子尧](https://github.com/jeasonlzy)
 - [代码家](https://github.com/daimajia) 
 - [王浩](https://github.com/bingoogolapple)
 - [马天宇](https://github.com/litesuits)
@@ -20,6 +21,7 @@
 - [JakeWharton](https://github.com/JakeWharton)
 - [florent37](https://github.com/florent37)
 - [amitshekhariitbhu](https://github.com/amitshekhariitbhu)
+- [Antonio Leiva](https://github.com/antoniolg) 很多Kotlin的介绍
 
 # 他人做的开源总结库：
 - XXApple [AndroidLibs](https://github.com/XXApple/AndroidLibs)
@@ -39,6 +41,7 @@
 - litesuits [android-lite-http](https://github.com/litesuits/android-lite-http) LiteHttp 只需要一行代码即可完美实现网络连接，它全面支持 GET, POST, PUT, DELETE, HEAD, TRACE, OPTIONS 和 PATCH 八种基本类型。 LiteHttp 能将 Java Model 转化为请求参数，也能将响应的 json 语句智能转化为 JavaModel ，这种全自动解析策略将节省你大量的构建请求、解析响应的时间。 并且，你能自己继承重新实现 Dataparser 这个抽象类并设置给 Request，来将原始的 InputStream 转化为任何你想要的东西。
 - yanzhenjie [NoHttp](https://github.com/yanzhenjie/NoHttp) Android实现Http标准协议框架，支持缓存（提供五种缓存模式）、代理、重定向，底层可动态切换OkHttp、URLConnection。
 - yanzhenjie [Kalle](https://github.com/yanzhenjie/Kalle) NoHttp作者，应该是比NoHttp封装的更好吧
+- stealthcopter [AndroidNetworkTools](https://github.com/stealthcopter/AndroidNetworkTools) 并非我们常用的Http网络工具库，而是一个针对端口扫描、子网设备查询、Ping等功能的库
 
 # 网络辅助类：
 - ihsanbal [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor)okhttp的log拦截器
@@ -70,6 +73,9 @@
 - JessYanCoding [MVPArms](https://github.com/JessYanCoding/MVPArms) 国人做的，提供了中文文档，一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
 ## demo类:
 - ljqloveyou123 [perfect-mvp](https://github.com/ljqloveyou123/perfect-mvp) mvp的demo，也可以直接拿来用
+
+# MVVM框架：
+- goldze [MVVMHabit](https://github.com/goldze/MVVMHabit) 基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个健壮、易维护的Android应用。
 
 # 滚动布局
 - CymChad [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) 更方便的recyclerView
@@ -380,6 +386,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - stfalcon-studio [SmsVerifyCatcher](https://github.com/stfalcon-studio/SmsVerifyCatcher) 用于在您的应用中验证电话号码的Android库。 自动将验证码从SMS复制到应用程序中。
 - luckybilly [PreLoader](https://github.com/luckybilly/PreLoader) android页面启动速度优化利器：在页面打开之前就预加载数据
 - githubwing [ByeBurger](https://github.com/githubwing/ByeBurger) 这是一个极其简便的快速实现隐藏标题栏和导航栏的库
+- jarryleo [SingleClick](https://github.com/jarryleo/SingleClick) 安卓点击事件防重库
 
 # 缓存存储相关
 - yangfuhai [ASimpleCache](https://github.com/yangfuhai/ASimpleCache) 是一个为android制定的 轻量级的 开源缓存框架。轻量到只有一个java文件，可以缓存普通的字符串、JsonObject、JsonArray、Bitmap、Drawable、序列化的java对象，和 byte数据。
@@ -428,6 +435,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - JakeWharton [timber](https://github.com/JakeWharton/timber)
 - orhanobut [logger](https://github.com/orhanobut/logger)
 - Blankj [ALog](https://github.com/Blankj/ALog)
+- JakeWharton [hugo](https://github.com/JakeWharton/hugo) 调试版本的注释触发方法调用日志记录。
 
 # 开发辅助工具类:
 - facebook [stetho](https://github.com/facebook/stetho) 可以通过浏览器，查看app的DB和Sp的内容 ，并且有配合Okhttp的拦截器，可以查看网络请求（抓包）
@@ -486,6 +494,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - JsonChao [Awesome-Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview) 从十几份顶级面试仓库和200多篇高质量面经中总结出一份全面而详尽的Android面试题集
 - xfhy [notes](https://github.com/xfhy/notes) 非常详细的笔记
 - simple-android-framework [android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis) 设计模式
+- iluwatar [java-design-patterns](https://github.com/iluwatar/java-design-patterns) 设计模式
 
 # 开发指南:
 - codepath [android_guides](https://github.com/codepath/android_guides) Android开发者指南，这个作者下有很多android的demo
@@ -536,6 +545,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # flutter
 - yubo725 [flutter-osc](https://github.com/yubo725/flutter-osc) 基于Google Flutter的开源中国客户端，支持Android和iOS。
 - flutter [plugins](https://github.com/flutter/plugins) 官方插件
+- OpenFlutter [Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) 日更的FlutterDemo合集
  
 # react-native
 - xujinyang [react-native-android-guide](https://github.com/xujinyang/react-native-android-guide) 致力于帮助Android开发者转react-native开发。多点一个技能树，多一份天地。
