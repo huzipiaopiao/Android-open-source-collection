@@ -407,6 +407,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - dingjikerbo [BluetoothKit](https://github.com/dingjikerbo/BluetoothKit) Android BLE蓝牙通信库
 - Alex-Jerry [Android-BLE](https://github.com/Alex-Jerry/Android-BLE) AndroidBLE蓝牙框架，包括扫描、连接、设置通知、发送数据、读取、接收数据和OTA升级以及各种直观的回调，近乎一行代码植入项目，可扩展配置蓝牙相关操作。
 - litesuits [android-lite-bluetoothLE](https://github.com/litesuits/android-lite-bluetoothLE) LiteBle 能让你稳定高效的完成蓝牙设备的查询、连接和读写等操作。它适合和低功耗的蓝牙设备通信，比如传感器，心率检测仪，智能穿戴设备等。
+- Ficat [EasyBle](https://github.com/Ficat/EasyBle) 用于简化安卓BLE操作流程，降低BLE开发繁琐程度。本库支持扫描（含自定义过滤条件扫描）、连接（包括设备多连接）、设备服务查询、读写数据（含分批写入）、读取设备信号、设置最大传输单元等BLE操作
 
 # 序列化：
 - johncarl81 [parceler](https://github.com/johncarl81/parceler)Android Parcelables通过代码生成变得容易
@@ -417,6 +418,11 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 常用类：
 - Xiaofei-it [Hermes](https://github.com/Xiaofei-it/Hermes) Hermes是一套新颖巧妙易用的Android进程间通信IPC框架。这个框架使得你不用了解IPC机制就可以进行进程间通信，像调用本地函数一样调用其他进程的函数
 - elemers [HermesEventBus](https://github.com/elemers/HermesEventBus) HermesEventBus是一个基于EventBus的、能在进程间发送和接收event的库，在IPC或者插件开发中非常有用。
+
+# 热修复（HotFix）
+- Tencent [https://github.com/Tencent/tinker/](tinker) 
+- alibaba [https://github.com/alibaba/AndFix/](AndFix) 
+- Meituan-Dianping [Robust](https://github.com/Meituan-Dianping/Robust/) Robust是新一代热更新系统，无差别兼容Android2.3-8.0版本；无需重启补丁实时生效，快速修复线上问题，补丁修补成功率高达99.9%。
 
 # 代码工具类：
 - Blankj [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) 各种工具类，你能想到的工具类，基本都有了这个库
@@ -431,6 +437,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 混淆辅助工具：
 - Blankj [FreeProGuard](https://github.com/Blankj/FreeProGuard) 该库利用了 consumerProguardFiles 来传递 aar 中的防混淆配置到主工程中，所以依赖了该库后常用的主流三方库便不再需要开发者们手动配置了
+- shwenzhang [AndResGuard](https://github.com/shwenzhang/AndResGuard) Android资源混淆工具
 
 # 日志Log辅助类：
 - JakeWharton [timber](https://github.com/JakeWharton/timber)
@@ -533,8 +540,10 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - lingochamp [okcheck](https://github.com/lingochamp/okcheck) 差量扫描，自动集成Lint、KtLint、UnitTest、Checkstyle、Findbugs、Pmd 强大且灵活的Android Gradle插件
 
 # Android相关有趣的东西
-- Genymobile [scrcpy](https://github.com/Genymobile/scrcpy) 开源的投屏项目，[知乎上的使用介绍](https://zhuanlan.zhihu.com/p/34695060)
+- Genymobile [scrcpy](https://github.com/Genymobile/scrcpy) 开源的投屏项目，[知乎上的使用介绍](https://zhuanlan.zhihu.com/p/34695060)（非常好用的投屏，不需要安装任何软件）
 - 电脑控手机屏幕软件 [Total Control](http://www.sigma-rt.com/) 电脑能控制手机，投屏手机屏幕（做Android开发的应该都用过Vysor投屏，但是免费版画质太低了），但这个免费版的画质和响应速度都比Vysor要好，满足日常使用了
+- Genymobile [gnirehtet](https://github.com/Genymobile/gnirehtet) 手机通过这个项目，可以直接使用所连电脑的网络
+- MZCretin [WifiTransfer-master](https://github.com/MZCretin/WifiTransfer-master) Android下WIFI隔空apk安装
 
 # 跨平台应用（android和ios）开发：
 - flutter [flutter](https://github.com/flutter/flutter) google开发的，基于Dart 语言开发（从网上讨论，蛮多人看好这个的，说比react-native更优）
