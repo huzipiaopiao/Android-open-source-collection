@@ -246,6 +246,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - Devlight [NavigationTabBar](https://github.com/Devlight/NavigationTabBar) 导航标签栏与丰富多彩的互动。
 - hackware1993 [MagicIndicator](https://github.com/hackware1993/MagicIndicator) 强大、可定制、易扩展的 ViewPager 指示器框架。是ViewPagerIndicator、TabLayout、PagerSlidingTabStrip的最佳替代品。支持角标，更支持在非ViewPager场景下使用
 - bingoogolapple [BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android) 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位
+- Cleveroad [LoopBar](https://github.com/Cleveroad/LoopBar) 点击无限滚动条, 在选项卡栏中的指纹处创建导航菜单。
+- romandanylyk [PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView) viewpager的原点指示器
 
 # 二维码：
 - yipianfengye [android-zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary) 几行代码快速集成二维码扫描功能
@@ -337,6 +339,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 框架架构类：
 - googlesamples [android-architecture-components](https://github.com/googlesamples/android-architecture-components) 谷歌官方 Android 应用架构库。这个新的架构库旨在帮助我们设计健壮、可测试的和可维护的应用程序。关注分离,模型驱动UI，优先持久化模型
 - JumeiRdGroup  [Router](https://github.com/JumeiRdGroup/Router)一款单品、组件化、插件化全支持的Andoid端路由框架,简单来说.即通过一行url去指定打开指定页面Activity的框架.充分做到页面间解耦.
+- - north2016 [T-MVP](https://github.com/north2016/T-MVP) Apt，AspectJ，Javassisit的Android AOP架构，基于Realm + Databinding + MVP + Retrofit + Rxjava2
 
 # Fragment类：
 - YoKeyword [Fragmentation](https://github.com/YoKeyword/Fragmentation) 为Android管理Fragment的强大库
@@ -424,6 +427,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - alibaba [https://github.com/alibaba/AndFix/](AndFix) 
 - Meituan-Dianping [Robust](https://github.com/Meituan-Dianping/Robust/) Robust是新一代热更新系统，无差别兼容Android2.3-8.0版本；无需重启补丁实时生效，快速修复线上问题，补丁修补成功率高达99.9%。
 
+# AOP
+- HujiangTechnology [gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx) 一个基于AspectJ并在此基础上扩展出来可应用于Android开发平台的AOP框架，可作用于java源码，class文件及jar包，同时支持kotlin的应用。
+
 # 代码工具类：
 - Blankj [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) 各种工具类，你能想到的工具类，基本都有了这个库
 - vondear [RxTools](https://github.com/vondear/RxTools) Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | Zip4j压缩（支持分卷压缩与加密） | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 图片缩放 | Exif 图片添加地理位置信息（经纬度） | 蛛网等级 | 颜色选择器 | 
@@ -479,6 +485,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - babylikebird [owspace](https://github.com/babylikebird/owspace) 高仿单读APP：owspace是基于MVP+Dagger2+Retrofit2.0+Rxjava的APP
 - LRH1993[Eyepetizer-in-Kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin) 使用Kotlin撸一款Eyepetizer，学习Kotlin语言
 - miaoMiaoDaShi [YangYanNew](https://github.com/miaoMiaoDaShi/YangYanNew) kotlin+MVPArms版本
+- yydcdut [PhotoNoter](https://github.com/yydcdut/PhotoNoter) Material Design风格的开源照片笔记。(MVP+Dagger2+RxJava+AspectJ+Dex处理)
 
 # Demo类:
 - googlesamples [android-architecture-components](https://github.com/googlesamples/android-architecture-components) Android体系结构组件的示例。
@@ -503,6 +510,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - xfhy [notes](https://github.com/xfhy/notes) 非常详细的笔记
 - simple-android-framework [android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis) 设计模式
 - iluwatar [java-design-patterns](https://github.com/iluwatar/java-design-patterns) 设计模式
+- scutan90 [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述
 
 # 开发指南:
 - codepath [android_guides](https://github.com/codepath/android_guides) Android开发者指南，这个作者下有很多android的demo
@@ -534,6 +542,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 组件化开发：
 - luckybilly[CC](https://github.com/luckybilly/CC) 使用简单但功能强大的安卓组件化框架,此组件化与业内的插件化（如：Atlas, RePlugin等）不是同一个概念
+- wequick [Small](https://github.com/wequick/Small) Small插件化方案适用于将一个APK拆分为多个公共库插件、业务模块插件的场景。
 
 # androidStudio插件：
 - githubwing [MVPHelper](https://github.com/githubwing/MVPHelper) 一款Intellj IDEA 和Android Studio 自动生成MVP模式所需接口以及实现类的插件。
