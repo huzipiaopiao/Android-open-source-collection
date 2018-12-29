@@ -16,6 +16,7 @@
 - [马天宇](https://github.com/litesuits)
 - [Zhenjie Yan](https://github.com/yanzhenjie)
 - [Blankj](https://github.com/Blankj)
+- [张旭童](https://github.com/mcxtzhang)
 
 # 国外优秀开源作者
 - [JakeWharton](https://github.com/JakeWharton)
@@ -52,7 +53,7 @@
 - google [ExoPlayer](https://github.com/google/ExoPlayer)
 - yixia [VitamioBundleStudio](https://github.com/yixia/VitamioBundleStudio) Vitamio [官网首页](https://www.vitamio.org/)
 - lipangit [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer) 视频播放，支持一行代码将系统的播放器换成Ijkplayer Exoplayer Vitamio等
-- lipangit [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer) 
+- CarGuo [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，其他一些小动画效果，rtsp、concat、mpeg。
 - daniulive [SmarterStreaming](https://github.com/daniulive/SmarterStreaming) 直播类，当然包含视频播放
 - tcking [GiraffePlayer2](https://github.com/tcking/GiraffePlayer2) 基于ijkplayer，这个挺好用的
 - danylovolokh [VideoPlayerManager](https://github.com/danylovolokh/VideoPlayerManager) 帮助控制Android MediaPlayer的，会更加方便
@@ -78,10 +79,14 @@
 - goldze [MVVMHabit](https://github.com/goldze/MVVMHabit) 基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个健壮、易维护的Android应用。
 
 # 滚动布局
-- CymChad [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) 更方便的recyclerView
 - janishar [PlaceHolderView](https://github.com/janishar/PlaceHolderView) android recyclerview的包装，包含堆栈视图，简单和超快的动态视图创建与动画预建！
 - airbnb [epoxy](https://github.com/airbnb/epoxy) Epoxy是一个用于在RecyclerView中构建复杂视图的Android库
 - xmuSistone [AndroidPileLayout](https://github.com/xmuSistone/AndroidPileLayout) [中文简单用法](http://www.jcodecraeer.com/a/opensource/2017/0517/7955.html)
+
+# Adapter 
+- CymChad [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) 更方便的recyclerView
+- mcxtzhang [all-base-adapter](https://github.com/mcxtzhang/all-base-adapter) Adapter终结者，包含DataBinding，任意ViewGroup，Rv、Lv列表
+
 
 # 下拉刷新：
 - scwang90 [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
@@ -102,6 +107,7 @@
 # 轮播图：
 - youth5201314 [banner](https://github.com/youth5201314/banner) Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！
 - ImmortalZ [StereoView](https://github.com/ImmortalZ/StereoView) Android 3D立体无限旋转容器。
+- pinguo-zhouwei [MZBannerView](https://github.com/pinguo-zhouwei/MZBannerView) 仿魅族BannerView,图片轮播控件,支持多种模式切换：普通ViewPager使用，普通Banner使用，仿魅族Banner使用。
 
 # 设置view（基本上每个app都会有的settingview）
 - leonHua [LSettingView](https://github.com/leonHua/LSettingView)
@@ -122,6 +128,7 @@
 # 图片选择器:
 - 知乎  [Matisse](https://github.com/zhihu/Matisse)
 bate版有选择视频的功能，有没有录制视频的功能还没去研究，图片选择挺好用的。 
+- yanzhenjie [Album](https://github.com/yanzhenjie/Album) 
 - Bilibili [boxing](https://github.com/Bilibili/boxing)
 - bingoogolapple [BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android) Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件
 - LuckSiege [PictureSelector](https://github.com/LuckSiege/PictureSelector)
@@ -212,6 +219,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - txusballesteros [fit-chart](https://github.com/txusballesteros/fit-chart)  Fit Chart 是一个类似于谷歌健康应用的轮子（wheel view）视图。
 - evrencoskun [TableView](https://github.com/evrencoskun/TableView)  类似Excel的一个view
 - huangyanbin [smartTable](https://github.com/huangyanbin/smartTable)一款android自动生成表格框架。
+- teddyisme [LCharts-android](https://github.com/teddyisme/LCharts-android)  柱状图 雷达图 饼状图 折线图
 # demo：
 - PaoloConte [smooth-line-chart](https://github.com/PaoloConte/smooth-line-chart) 与绘制折线图不同，smooth-line-chart能根据两点绘制平滑的曲线，使用的是贝赛尔曲线的原理。项目比较简单，但是如果你还不知道贝塞尔曲线如何绘制的话可以学习一下。
 
@@ -221,7 +229,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - CJT2325 [CameraView](https://github.com/CJT2325/CameraView) 仿微信拍照Android控件（轻触拍照，长按摄像）
 
 # app美化类：
-- elye [loaderviewlibrary](https://github.com/elye/loaderviewlibrary) 在显示任何文本或图像之前，提供textview和imageview两种显示微光（动画加载器）的功能。等待数据从网络加载时很有用。![例如](https://camo.githubusercontent.com/ad3e2fed505b8ae48e2a407f1e21361473605639/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6437343863335f32383338316330663131306634646336386663643334306235303366383661322537456d76322e676966)
+- elye [loaderviewlibrary](https://github.com/elye/loaderviewlibrary) 在显示任何文本或图像之前，提供textview和imageview两种显示微光（动画加载器）的功能。等待数据从网络加载时很有用。
 - Bearded-Hen [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) 引导程序样式小部件的android，具有标志符号图标，自带小图标的textview、button、下拉选择等等。[图标库地址](https://fontawesome.com/cheatsheet)
 
 # 悬浮类：
@@ -229,6 +237,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - txusballesteros [bubbles-for-android](https://github.com/txusballesteros/bubbles-for-android) Bubbles for Android是一个Android库，为您的应用程序提供聊天头功能.可以任何界面悬浮
 - afollestad [material-dialogs](https://github.com/afollestad/material-dialogs) 一个美丽，流畅，可定制的对话框API。
 - wangjiegulu [RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton) FloatingActionButton，可以弹出很多子选项
+- pedant [sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog) Android版的SweetAlert，清新文艺，快意灵动的甜心弹框
 
 # 提示Tip
 - GrenderG[Toasty](https://github.com/GrenderG/Toasty)
@@ -261,9 +270,17 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 文件查看：
 - 腾讯 [TBS](https://x5.tencent.com/tbs/index.html) 腾讯的浏览服务，可以查看各种文件（包括office的文件）
 - barteksc [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) 查看PDF
+- voghDev [PdfViewPager](https://github.com/voghDev/PdfViewPager) Android小部件，可以呈现存储在SD卡上的PDF文档，链接为资源或从远程URL下载。
 
 # 日历
 - huanghaibin-dev [CalendarView](https://github.com/huanghaibin-dev/CalendarView?utm_source=gold_browser_extension) Android上一个优雅、万能自定义UI、支持周视图、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！
+
+# recyclerView相关
+- wuyr [PathLayoutManager](https://github.com/wuyr/PathLayoutManager) 轻松实现各种炫酷、特殊效果
+- alibaba [vlayout](https://github.com/alibaba/vlayout)VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题。
+- DingMouRen [LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup) 给RecyclerView设置自定义的LayoutManager
+- BelooS [ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager) ANDROID。 ChipsLayoutManager（SpanLayoutManager，FlowLayoutManager）。 RecyclerView的一个自定义的布局管理器，它模仿TextView跨越行为，流动布局的行为，支持惊人的recyclerView功能
+
 
 # 其他类自定义view
 - hackware1993 [WaveView](https://github.com/hackware1993/WaveView) 一个简单的、巧妙的水波纹扩散效果
@@ -275,7 +292,6 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - JorgeCastilloPrz [AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) Android可填充的进度视图使用SVG路径。如果你想为你的应用程序创建一个有趣的品牌标志，这也是一个不错的选择。
 - glomadrian [loading-balls](https://github.com/glomadrian/loading-balls) 一个高度可配置的库，用动画球来加载进度
 - glomadrian [material-animated-switch](https://github.com/glomadrian/material-animated-switch) material的切换开关
-- alibaba [vlayout](https://github.com/alibaba/vlayout)VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题。
 - niniloveyou [StateButton](https://github.com/niniloveyou/StateButton) 一个可以用代码设置selector背景（按下去背景颜色更改，样式变化等等）的button, 再也不用写selector了
 - lguipeng [BubbleView](https://github.com/lguipeng/BubbleView) 聊天中消息气泡的view
 - daimajia [AndroidViewHover](https://github.com/daimajia/AndroidViewHover) 一个优雅的方式来显示您的菜单或消息。菜单都是悬浮出来的
@@ -289,12 +305,12 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - HpWens [MeiWidgetView](https://github.com/HpWens/MeiWidgetView) 几个自定义控件的集合
 - JustKiddingBaby [RollingLayout](https://github.com/JustKiddingBaby/RollingLayout) 一个可以让自己子视图自动滚动的view,仿淘宝头条
 - xmuSistone [DragRankSquare](https://github.com/xmuSistone/DragRankSquare) 编辑个人资料，图片可拖拽排序。有点像可拖拽的gridView，但是会更流畅。
-- DingMouRen [LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup) 给RecyclerView设置自定义的LayoutManager
 - etsy [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) 一个Android交错网格视图，它支持具有不同大小的行的多个列。瀑布流
 - shellljx [TagViewGroup](https://github.com/shellljx/TagViewGroup) Android 仿小红书图片标签Group
 - developer-shivam [Crescento](https://github.com/developer-shivam/Crescento) 在ImageView和relative layout的底部添加曲线。
 - Quatja [Vorolay](https://github.com/Quatja/Vorolay) VoronoiView是一个视图(视图组)，允许您在Voronoi图区域内添加和显示视图。会是菱形显示
 - scwang90 [MultiWaveHeader](https://github.com/scwang90/MultiWaveHeader) Android 炫酷的多重水波纹
+- hanks-zyh [SmallBang](https://github.com/hanks-zyh/SmallBang) 心型点赞
 
 # 流式布局
 - hongyangAndroid [FlowLayout](https://github.com/hongyangAndroid/FlowLayout) Android流式布局，支持单选、多选等，适合用于产品标签等。
@@ -358,13 +374,13 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - matrixxun [ImmersiveDetailSample](https://github.com/matrixxun/ImmersiveDetailSample) 一个示例应用程序展示了如何实现身临其境的视差效果标题，如谷歌商店
 - jgilfelt [SystemBarTint](https://github.com/jgilfelt/SystemBarTint) 已过时
 - H07000223 [FlycoSystemBar](https://github.com/H07000223/FlycoSystemBar)
-- yanzhenjie [Sofia](https://github.com/yanzhenjie/Sofia)SystemBar一体化，状态栏和导航栏均支持设置颜色、渐变色、图片、透明度、内容入侵。状态栏支持设置深色字体，以上特性兼容国产魅族、小米手机（包括7.0及以上）和其它标准模式的手机。
-- laobie [StatusBarUtil](https://github.com/laobie/StatusBarUtil)
+- yanzhenjie [Sofia](https://github.com/yanzhenjie/Sofia) 部分全面屏上发现导航栏填充不完整（V1.0.5），SystemBar一体化，状态栏和导航栏均支持设置颜色、渐变色、图片、透明度、内容入侵。状态栏支持设置深色字体，以上特性兼容国产魅族、小米手机（包括7.0及以上）和其它标准模式的手机。
+- laobie [StatusBarUtil](https://github.com/laobie/StatusBarUtil) 用的较多的一个库
 - Jude95 [FitSystemWindowLayout](https://github.com/Jude95/FitSystemWindowLayout) 适应Statusbar与NavigationBar的各种Layout
+- niorgai [StatusBarCompat](https://github.com/niorgai/StatusBarCompat/)   这是一个为了兼容处理状态栏的工具类,可以不需要设置不同的style.xml文件,最重要的特性就是可以在不重启 Activity 的情况下切换 setStatusBarColor 和 translucentStatusBar
 
 # 标签：
 - robertlevonyan [materialChipView](https://github.com/robertlevonyan/materialChipView) material视图。 可以用作类别，联系人或创建文本云的标签
-- BelooS [ChipsLayoutManager](https://github.com/BelooS/ChipsLayoutManager) ANDROID。 ChipsLayoutManager（SpanLayoutManager，FlowLayoutManager）。 RecyclerView的一个自定义的布局管理器，它模仿TextView跨越行为，流动布局的行为，支持惊人的recyclerView功能
 - DoodleScheduling [android-material-chips](https://github.com/DoodleScheduling/android-material-chips) ANDROID。 ChipsLayoutManager（SpanLayoutManager，FlowLayoutManager）。 RecyclerView的一个自定义的布局管理器，它模仿TextView跨越行为，流动布局的行为，支持惊人的recyclerView功能
 
 # 更改字体:
@@ -379,6 +395,11 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - pchmn [MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)这个库实现了Material Design中的Chips component ，分为可编辑的ChipsInput和ChipView。
 - Rogero0o [PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView)当完成密码时提供动画
 - MindorksOpenSource [EditDrawableText](https://github.com/MindorksOpenSource/EditDrawableText) 带图标的edittext
+- hanks-zyh [LineHeightEditText](https://github.com/hanks-zyh/LineHeightEditText) 设置lineSpacingExtra或lineSpacingMultiplier时修复edittext lineHeight和游标长度
+- hanks-zyh [PasscodeView](https://github.com/hanks-zyh/PasscodeView) 密码输入view
+
+# TextView
+- hanks-zyh [HTextView](https://github.com/hanks-zyh/HTextView) 带各种动画特效的textview
 
 # button
 - Bearded-Hen [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) 用于Android的引导样式小部件，带有字形图标
@@ -511,16 +532,20 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - simple-android-framework [android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis) 设计模式
 - iluwatar [java-design-patterns](https://github.com/iluwatar/java-design-patterns) 设计模式
 - scutan90 [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述
+- MindorksOpenSource [from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md) kotlin和java的对比介绍
 
 # 开发指南:
 - codepath [android_guides](https://github.com/codepath/android_guides) Android开发者指南，这个作者下有很多android的demo
 - futurice [android-best-practices](https://github.com/futurice/android-best-practices) 为Android开发做的和不该做的事的建议
+- cn-ljb [rxjava_for_android](https://github.com/cn-ljb/rxjava_for_android) Android平台上使用RxJava的Demo
 
-# 刷题题库总结([LeetCode](https://leetcode.com/)和[LintCode ](http://www.lintcode.com/zh-cn/#))：
+# 刷题题库总结([LeetCode](https://leetcode.com/)和[LintCode](http://www.lintcode.com/zh-cn/#))：
 - awangdev [LintCode](https://github.com/awangdev/LintCode)
 - Blankj [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
 - scottszb1987 [LeetCodeInCSharp](https://github.com/scottszb1987/LeetCodeInCSharp) 
 - [牛客网](https://www.nowcoder.com/)
+- MisterBooo [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) 动画演示各种算法
+- liuyubobobo [Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode) Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言
 
 # 打包：
 - Tencent [VasDolly](https://github.com/Tencent/VasDolly) VasDolly是一种快速多渠道打包工具，同时支持基于V1签名和V2签名进行多渠道打包。
