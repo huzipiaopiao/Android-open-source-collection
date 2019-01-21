@@ -31,6 +31,7 @@
 - wasabeef [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)  UI库清单
 - wasabeef [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)  常用库清单
 - Hack-with-Github [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 为黑客，测试人员和安全研究人员提供的各种精彩列表
+- madongqiang2201 [views](https://github.com/madongqiang2201/views) Android酷炫自定义控件(View)汇总
 
 # 网络类:
 - square [okhttp](https://github.com/square/okhttp)
@@ -114,6 +115,9 @@
 - zxyaust [SettingItem](https://github.com/zxyaust/SettingItem)
 - jeff-sun [SettingView](https://github.com/jeff-sun/SettingView)
 
+# 全套UI
+- xuexiangjys [XUI](https://github.com/xuexiangjys/XUI) 一个简洁而优雅的Android原生UI框架
+
 # 下载辅助
 - MindorksOpenSource [PRDownloader](https://github.com/MindorksOpenSource/PRDownloader)
 - bingoogolapple [BGAUpdate-Android](https://github.com/bingoogolapple/BGAUpdate-Android) RxJava + Retrofit 下载新版 apk 文件，RxBus 监听下载进度 适配 Android 8.+ 系统,检测新版 apk 文件是否已经下载过,RxJava1.x + Retrofit2.x 下载新版 apk 文件,RxBus 监听下载进度,安装 apk 文件,删除之前升级时下载的老的 apk 文件
@@ -165,6 +169,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 图片压缩:
 - Curzibn [Luban](https://github.com/Curzibn/Luban) 图片压缩，微信压缩后的图片逆向推算出来的压缩算法
 - zetbaitsu [Compressor](https://github.com/zetbaitsu/Compressor) 
+- Sunzxyong [Tiny](https://github.com/Sunzxyong/Tiny) 一个高保真、高压缩比的图片压缩框架
 
 # ImageView相关：
 - chrisbanes [PhotoView](https://github.com/chrisbanes/PhotoView) 支持缩放，手势操作。
@@ -220,6 +225,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - evrencoskun [TableView](https://github.com/evrencoskun/TableView)  类似Excel的一个view
 - huangyanbin [smartTable](https://github.com/huangyanbin/smartTable)一款android自动生成表格框架。
 - teddyisme [LCharts-android](https://github.com/teddyisme/LCharts-android)  柱状图 雷达图 饼状图 折线图
+- razerdp [AnimatedPieView](https://github.com/razerdp/AnimatedPieView) 简单的饼状图
 # demo：
 - PaoloConte [smooth-line-chart](https://github.com/PaoloConte/smooth-line-chart) 与绘制折线图不同，smooth-line-chart能根据两点绘制平滑的曲线，使用的是贝赛尔曲线的原理。项目比较简单，但是如果你还不知道贝塞尔曲线如何绘制的话可以学习一下。
 
@@ -238,6 +244,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - afollestad [material-dialogs](https://github.com/afollestad/material-dialogs) 一个美丽，流畅，可定制的对话框API。
 - wangjiegulu [RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton) FloatingActionButton，可以弹出很多子选项
 - pedant [sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog) Android版的SweetAlert，清新文艺，快意灵动的甜心弹框
+
+# PopupWindow
+- razerdp [BasePopup](https://github.com/razerdp/BasePopup) Android下打造通用便捷的PopupWindow
 
 # 提示Tip
 - GrenderG[Toasty](https://github.com/GrenderG/Toasty)
@@ -311,6 +320,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - Quatja [Vorolay](https://github.com/Quatja/Vorolay) VoronoiView是一个视图(视图组)，允许您在Voronoi图区域内添加和显示视图。会是菱形显示
 - scwang90 [MultiWaveHeader](https://github.com/scwang90/MultiWaveHeader) Android 炫酷的多重水波纹
 - hanks-zyh [SmallBang](https://github.com/hanks-zyh/SmallBang) 心型点赞
+- lnikkila [ExtendedTouchView](https://github.com/lnikkila/ExtendedTouchView) 扩展view的点击触摸区域
 
 # 流式布局
 - hongyangAndroid [FlowLayout](https://github.com/hongyangAndroid/FlowLayout) Android流式布局，支持单选、多选等，适合用于产品标签等。
@@ -333,6 +343,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - JessYanCoding [ProgressManager](https://github.com/JessYanCoding/ProgressManager) ProgressManager 一行代码即可监听 App 中所有通过okhttp网络链接的上传以及下载进度,包括 Glide 的图片加载进度
 - sfsheng0322 [GlideImageView](https://github.com/sfsheng0322/GlideImageView) 基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度
 - peng8350 [LoadingProgress](https://github.com/peng8350/LoadingProgress) 特别方便的在View上，注入一个进度条，改进度条和view绑定，所以一个页面上如果有很多view都需要进度条显示，用这个库会很方便
+- baoyachi [StepView](https://github.com/baoyachi/StepView) 类似京东的发货进度
 
 # 加载类：
 - 81813780 [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) 适合Android的漂亮的加载动画 
@@ -378,6 +389,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - laobie [StatusBarUtil](https://github.com/laobie/StatusBarUtil) 用的较多的一个库
 - Jude95 [FitSystemWindowLayout](https://github.com/Jude95/FitSystemWindowLayout) 适应Statusbar与NavigationBar的各种Layout
 - niorgai [StatusBarCompat](https://github.com/niorgai/StatusBarCompat/)   这是一个为了兼容处理状态栏的工具类,可以不需要设置不同的style.xml文件,最重要的特性就是可以在不重启 Activity 的情况下切换 setStatusBarColor 和 translucentStatusBar
+- Zackratos [UltimateBar](https://github.com/Zackratos/UltimateBar)  透明状态栏导航栏、沉浸式状态栏导航栏的终极解决方案
 
 # 标签：
 - robertlevonyan [materialChipView](https://github.com/robertlevonyan/materialChipView) material视图。 可以用作类别，联系人或创建文本云的标签
@@ -484,6 +496,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - BolexLiu [AutoEx](https://github.com/BolexLiu/AutoEx) 帮助Android开发者，让项目在崩溃时从异常堆栈中，自动寻找Stack Overflow的回答。
 - willowtreeapps [Hyperion-Android](https://github.com/willowtreeapps/Hyperion-Android) 适用于Android的应用程序调试和检测工具
 - eleme [UETool](https://github.com/eleme/UETool) UETool 是一个各方人员（设计师、程序员、测试）都可以使用的UI调试工具。它可以作用于任何显示在屏幕上的 view，比如 Activity/Fragment/Dialog/PopupWindow 等等。
+- Sunzxyong [Recovery](https://github.com/Sunzxyong/Recovery) 一个App异常时恢复框架
 
 # 看起来很厉害的东东：
 - alibaba [ARouter](https://github.com/alibaba/ARouter)一个安卓路由器中间件，帮助应用程序导航到活动和自定义服务。
@@ -507,6 +520,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - LRH1993[Eyepetizer-in-Kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin) 使用Kotlin撸一款Eyepetizer，学习Kotlin语言
 - miaoMiaoDaShi [YangYanNew](https://github.com/miaoMiaoDaShi/YangYanNew) kotlin+MVPArms版本
 - yydcdut [PhotoNoter](https://github.com/yydcdut/PhotoNoter) Material Design风格的开源照片笔记。(MVP+Dagger2+RxJava+AspectJ+Dex处理)
+- youlookwhat [CloudReader](https://github.com/youlookwhat/CloudReader) 云阅：一款基于网易云音乐UI，使用玩安卓、Gank.Io及豆瓣api开发的符合Google Material Design的Android客户端。项目采取的是MVVM-DataBinding架构开发，现主要包括：玩安卓区、干货区和豆瓣区三个子模块。
+- whyalwaysmea [BigBoom](https://github.com/whyalwaysmea/BigBoom) 这是一个根据豆瓣电影API所做的电影资讯的App
 
 # Demo类:
 - googlesamples [android-architecture-components](https://github.com/googlesamples/android-architecture-components) Android体系结构组件的示例。
@@ -533,6 +548,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - iluwatar [java-design-patterns](https://github.com/iluwatar/java-design-patterns) 设计模式
 - scutan90 [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述
 - MindorksOpenSource [from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md) kotlin和java的对比介绍
+- SusionSuc [AdvancedAndroid](https://github.com/SusionSuc/AdvancedAndroid) 一系列Android进阶文章
 
 # 开发指南:
 - codepath [android_guides](https://github.com/codepath/android_guides) Android开发者指南，这个作者下有很多android的demo
@@ -585,6 +601,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - alibaba [weex](https://github.com/alibaba/weex) 阿里巴巴开发
 - NativeScript [NativeScript](https://github.com/NativeScript/NativeScript) NativeScript是一个用JavaScript构建真正的本地移动应用程序的开源框架。 使用网络技能，如Angular，FlexBox和CSS，并在iOS和Android上获取原生UI和性能。
 - framework7io [framework7](https://github.com/framework7io/framework7) 全功能的HTML框架，用于构建iOS和Android应用程序
+- kivy [kivy](https://github.com/kivy/kivy) 用Python编写的开源UI框架，运行在Windows，Linux，macOS，Android和iOS上
  
 # flutter
 - yubo725 [flutter-osc](https://github.com/yubo725/flutter-osc) 基于Google Flutter的开源中国客户端，支持Android和iOS。
