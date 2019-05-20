@@ -1,6 +1,8 @@
 # Android-open-source-collection
 由于自己一直在收藏别人的开源项目，到现在已经有几百个收藏的项目了，以至于每次需要某个开源项目时很难找到，所以做了这个统计分类日常用到的开源项目的项目，主要是Android相关的
 
+# github搜索，stars:>50000，查看项目排名
+
 # 推荐几款管理github，star的工具
 - [Astral](https://app.astralapp.com/auth) 用了以下，可以给自己star的项目加标签，通过标签就可以方便管理
 - [Git Constellation](http://gitconstellation.com/) 不是很会用这个
@@ -44,6 +46,7 @@
 - yanzhenjie [NoHttp](https://github.com/yanzhenjie/NoHttp) Android实现Http标准协议框架，支持缓存（提供五种缓存模式）、代理、重定向，底层可动态切换OkHttp、URLConnection。
 - yanzhenjie [Kalle](https://github.com/yanzhenjie/Kalle) NoHttp作者，应该是比NoHttp封装的更好吧
 - stealthcopter [AndroidNetworkTools](https://github.com/stealthcopter/AndroidNetworkTools) 并非我们常用的Http网络工具库，而是一个针对端口扫描、子网设备查询、Ping等功能的库
+- zhou-you [RxEasyHttp](https://github.com/zhou-you/RxEasyHttp) 一款基于RxJava2+Retrofit2实现简单易用的网络请求框架
 
 # 网络辅助类：
 - ihsanbal [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor)okhttp的log拦截器
@@ -64,6 +67,8 @@
 - pili-engineering [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer) 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK，采用全自研的跨平台播放内核，拥有丰富的功能和优异的性能，可高度定制化和二次开发。
 - dueeeke [dkplayer](https://github.com/dueeeke/dkplayer) 基于IjkPlayer的视频播放器，支持直播点播，悬浮窗播放，广告播放，边播边缓存；支持重力感应自动全屏；完美实现ListView和RecyclerView列表播放；支持清晰度切换；支持一行代码切换MediaPlayer和ExoPlayer；
 - jiajunhui [PlayerBase](https://github.com/jiajunhui/PlayerBase) Android播放器基础库，专注于播放视图组件的高复用性和组件间的低耦合，轻松处理复杂业务。
+- Tourenathan-G5organisation [SiliCompressor](https://github.com/Tourenathan-G5organisation/SiliCompressor) 视频和图片压缩
+- danikula [AndroidVideoCache](https://github.com/danikula/AndroidVideoCache) 视频播放缓存库
 ## demo类：
 - iknow4 [Android-Video-Trimmer](https://github.com/iknow4/Android-Video-Trimmer) 视频裁剪功能的demo
 - maimingliang [WxRecoderVideo](https://github.com/maimingliang/WxRecoderVideo) 基于VCamera，仿微信录制短视频,demo
@@ -89,12 +94,13 @@
 - mcxtzhang [all-base-adapter](https://github.com/mcxtzhang/all-base-adapter) Adapter终结者，包含DataBinding，任意ViewGroup，Rv、Lv列表
 
 
-# 下拉刷新：
+# RecyclerView及下拉刷新：
 - scwang90 [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
 - liaohuqiu [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) 这是现在已经停止维护的下拉刷新项目的替代方案。继承于ViewGroup可以包含任何View。功能比SwipeRefreshLayout强大。使用起来非常简单。良好的设计，如果你想定制自己的UI样式，非常简单，就像给ListView加一个Header View那么简单。
 - jdsjlzx [LRecyclerView](https://github.com/jdsjlzx/LRecyclerView) RecyclerView下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单
 - cundong [HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView) RecyclerView下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单
 - yanzhenjie [SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView) RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，HeaderView，FooterView，Item分组黏贴。
+- zhou-you [EasyXRecyclerView](https://github.com/zhou-you/EasyXRecyclerView) 主要提供了简单易用强大的RecyclerView库，包括自定义刷新加载效果、极简通用的万能适配器Adapter、万能分割线、多种分组效果、常见状态页面、item动画效果、添加多个header和footer、侧滑、拖拽、Sticky（黏性）效果、多item布局等,各模块之间灵活、解耦、通用、又能相互组合使用。
 
 # 条目Item侧滑效果:
 - daimajia [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) 侧滑布局
@@ -123,6 +129,8 @@
 - bingoogolapple [BGAUpdate-Android](https://github.com/bingoogolapple/BGAUpdate-Android) RxJava + Retrofit 下载新版 apk 文件，RxBus 监听下载进度 适配 Android 8.+ 系统,检测新版 apk 文件是否已经下载过,RxJava1.x + Retrofit2.x 下载新版 apk 文件,RxBus 监听下载进度,安装 apk 文件,删除之前升级时下载的老的 apk 文件
 - lingochamp [FileDownloader](https://github.com/lingochamp/FileDownloader) Android 文件下载引擎，稳定、高效、灵活、简单易用
 - lingochamp [okdownload](https://github.com/lingochamp/okdownload) 上面下载工具的升级版
+- WVector [AppUpdate](https://github.com/WVector/AppUpdate) Android 版本更新工具
+- xuexiangjys [XUpdate](https://github.com/xuexiangjys/XUpdate) 一个轻量级、高可用性的Android版本更新框架
 
 # 主题换肤（皮肤）类:
 - ximsfei [Android-skin-support](https://github.com/ximsfei/Android-skin-support) 一款用心去做的Android 换肤框架, 极低的学习成本, 极好的用户体验. 一行代码就可以实现换肤, 你值得拥有!!!
@@ -170,6 +178,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - Curzibn [Luban](https://github.com/Curzibn/Luban) 图片压缩，微信压缩后的图片逆向推算出来的压缩算法
 - zetbaitsu [Compressor](https://github.com/zetbaitsu/Compressor) 
 - Sunzxyong [Tiny](https://github.com/Sunzxyong/Tiny) 一个高保真、高压缩比的图片压缩框架
+- Shouheng88 [Compressor](https://github.com/Shouheng88/Compressor) 基于 Android 自带的图片压缩 API 进行封装，结合了 Luban 和 Compressor 的优点
 
 # ImageView相关：
 - chrisbanes [PhotoView](https://github.com/chrisbanes/PhotoView) 支持缩放，手势操作。
@@ -253,6 +262,11 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - Muddz [StyleableToast](https://github.com/Muddz/StyleableToast)   
 - Tapadoo [Alerter](https://github.com/Tapadoo/Alerter) 超漂亮的一个顶部提示
 
+# SeekBar
+- woxingxiao [BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar) 自定义SeekBar，进度变化更以可视化气泡样式呈现
+- zhou-you [EasySignSeekBar](https://github.com/zhou-you/EasySignSeekBar) 自定义SeekBar，进度变化由提示牌 (sign)展示,具有强大的属性设置，支持设置section(节点)、mark(标记)、track(轨迹)、thumb（拖动块）、progress(进度)、sign（提示框）等功能
+- zhou-you [EasySegmentedBarView](https://github.com/zhou-you/EasySegmentedBarView) 自定义分段控件，方便快速实现分段效果，支持xml配置、代码配置、分段规则按均分/比例分、数字分段、文本分段、渐变分段、bar条样式正常/圆形/三角形，segment文字样式、进度设置、进度标记类型设置、分段描述设置、其它更多自定义设置等功能。
+
 # 角标类(Badger)：
 - leolin310148 [ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) 桌面图标的消息数角标
 - xuyisheng [ShortcutHelper](https://github.com/xuyisheng/ShortcutHelper) 桌面图标的消息数角标
@@ -266,6 +280,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - bingoogolapple [BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android) 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位
 - Cleveroad [LoopBar](https://github.com/Cleveroad/LoopBar) 点击无限滚动条, 在选项卡栏中的指纹处创建导航菜单。
 - romandanylyk [PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView) viewpager的原点指示器
+- iammert [ReadableBottomBar](https://github.com/iammert/ReadableBottomBar) 底部导航
 
 # 二维码：
 - yipianfengye [android-zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary) 几行代码快速集成二维码扫描功能
@@ -321,6 +336,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - scwang90 [MultiWaveHeader](https://github.com/scwang90/MultiWaveHeader) Android 炫酷的多重水波纹
 - hanks-zyh [SmallBang](https://github.com/hanks-zyh/SmallBang) 心型点赞
 - lnikkila [ExtendedTouchView](https://github.com/lnikkila/ExtendedTouchView) 扩展view的点击触摸区域
+- iammert [ScalingLayout](https://github.com/iammert/ScalingLayout) 通过缩放布局，可以在用户交互上缩放布局。
 
 # 流式布局
 - hongyangAndroid [FlowLayout](https://github.com/hongyangAndroid/FlowLayout) Android流式布局，支持单选、多选等，适合用于产品标签等。
@@ -332,6 +348,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - wooplr [Spotlight](https://github.com/wooplr/Spotlight)
 - huburt-Hu [NewbieGuide](https://github.com/huburt-Hu/NewbieGuide) 中文文档
 - hongyangAndroid [Highlight](https://github.com/hongyangAndroid/Highlight) 一个用于app指向性功能高亮的库
+- iammert [MaterialIntroView](https://github.com/iammert/MaterialIntroView) 高亮指示
 
 # 进度条
 - daimajia [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) 一个好看的的Android进度条。
@@ -362,6 +379,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - florent37 [RuntimePermission](https://github.com/florent37/RuntimePermission) 在Android上请求运行时权限的最简单方式，不需要扩展类或覆盖权限结果方法，选择您的方式: Kotlin / Coroutines / RxJava / Java 7 / Java 8
 - yewei02538 [HiPermission](https://github.com/yewei02538/HiPermission) 一个简单易用的漂亮权限申请库
 - Karumi [Dexter](https://github.com/Karumi/Dexter) 
+- skydoves [Needs](https://github.com/skydoves/Needs) 
+
 
 # 框架架构类：
 - googlesamples [android-architecture-components](https://github.com/googlesamples/android-architecture-components) 谷歌官方 Android 应用架构库。这个新的架构库旨在帮助我们设计健壮、可测试的和可维护的应用程序。关注分离,模型驱动UI，优先持久化模型
@@ -375,6 +394,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 # 适配类:
 - JessYanCoding [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize) (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案
 - 鸿阳大神 [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) 很遗憾的，停止更新了
+
+# 国际化：
+- Airsaid [AndroidLocalizePlugin](https://github.com/Airsaid/AndroidLocalizePlugin) 一个国际化的插件，一键生成其他语言
 
 # 时间相关
 - dlew [joda-time-android](https://github.com/dlew/joda-time-android) 解决时区不断变化，没有用过，待研究
@@ -497,11 +519,13 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - willowtreeapps [Hyperion-Android](https://github.com/willowtreeapps/Hyperion-Android) 适用于Android的应用程序调试和检测工具
 - eleme [UETool](https://github.com/eleme/UETool) UETool 是一个各方人员（设计师、程序员、测试）都可以使用的UI调试工具。它可以作用于任何显示在屏幕上的 view，比如 Activity/Fragment/Dialog/PopupWindow 等等。
 - Sunzxyong [Recovery](https://github.com/Sunzxyong/Recovery) 一个App异常时恢复框架
+- didi [DoraemonKit](https://github.com/didi/DoraemonKit) DoraemonKit 是一个功能集合面板，能够让每一个 App 快速接入一些常用的或者你没有实现的一些辅助开发工具、测试效率工具、视觉辅助工具，而且能够完美在 Doraemon 面板中接入你已经实现的与业务紧密耦合的一些非通有的辅助工具，功能强大，接入方便，便于扩展。
 
-# 看起来很厉害的东东：
+# Android高端玩法：
 - alibaba [ARouter](https://github.com/alibaba/ARouter)一个安卓路由器中间件，帮助应用程序导航到活动和自定义服务。
 - android-hacker [VirtualXposed](https://github.com/android-hacker/VirtualXposed) VirtualXposed 是基于VirtualApp 和 epic 在非ROOT环境下运行Xposed模块的实现（支持5.0~8.1)。
 - asLody [VirtualApp](https://github.com/asLody/VirtualApp) VirtualApp在你的App内创建一个虚拟空间，你可以在虚拟空间内任意的安装、启动和卸载APK，这一切都与外部隔离，如同一个沙盒。
+- Leaking [Hunter](https://github.com/Leaking/Hunter) Hunter是这么一个框架，帮你快速开发插件，在编译过程中修改字节码，它底层基于ASM 和 Gradle Transform API 实现。在这个框架基础上，我尝试开发了几款实用的插件。你也可以用Hunter开发自己的插件，诸如实现App性能监控（UI，网络等等），加强或修改第三方库以满足你的需求，甚至可以加强、修改Android framework的接口。Hunter本身支持增量、并发编译，所以不用担心使用这一系列插件会增加编译时间。
 
 # 开源的整体项目:
 - 1c7 [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) 中国独立开发者项目大集合
@@ -522,13 +546,18 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - yydcdut [PhotoNoter](https://github.com/yydcdut/PhotoNoter) Material Design风格的开源照片笔记。(MVP+Dagger2+RxJava+AspectJ+Dex处理)
 - youlookwhat [CloudReader](https://github.com/youlookwhat/CloudReader) 云阅：一款基于网易云音乐UI，使用玩安卓、Gank.Io及豆瓣api开发的符合Google Material Design的Android客户端。项目采取的是MVVM-DataBinding架构开发，现主要包括：玩安卓区、干货区和豆瓣区三个子模块。
 - whyalwaysmea [BigBoom](https://github.com/whyalwaysmea/BigBoom) 这是一个根据豆瓣电影API所做的电影资讯的App
+- Shouheng88 [MarkNote](https://github.com/Shouheng88/MarkNote) markdown编辑工具
 
 # Demo类:
 - googlesamples [android-architecture-components](https://github.com/googlesamples/android-architecture-components) Android体系结构组件的示例。
 - amitshekhariitbhu [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) Rxjava2的demo
 - reallin [Android_Mail](https://github.com/reallin/Android_Mail) 在android中发送邮件的demo（lib的jar包）
+- skydoves [TheMovies](https://github.com/skydoves/TheMovies) Kotlin MVVM 的demo
+- rengwuxian [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples) Kotlin MVVM 的demo
+- Shouheng88 [Android-references](https://github.com/Shouheng88/Android-references) Android 示例程序：MVP, MVVM, 组件化, AndroidX, ARouter, RxJava, EventBus, ButterKnife, 视频播放, 视频直播, 网络访问, 布局和控件整理等
 
 # 书籍类：
+- EbookFoundation [free-programming-books](https://github.com/EbookFoundation/free-programming-books) 免费计算机书籍
 - justjavac [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) 免费的编程中文书籍索引
 - julycoding [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) 编程之法：面试和算法心得   
 - xitu [gold-miner](https://github.com/xitu/gold-miner) 掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台
@@ -537,6 +566,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - EasyKotlin [EasyKotlin](https://github.com/EasyKotlin) kotlin资料
 
 # 知识体系：
+- sindresorhus [awesome](https://github.com/sindresorhus/awesome) 各种语言的知识体系集合
 - guoxiaoxing [android-open-source-project-analysis](https://github.com/guoxiaoxing/android-open-source-project-analysis) android 源码分析
 - lzyzsd [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava) RXjava中文的详细说明
 - DONGChuan [GradleUserGuide](https://github.com/DONGChuan/GradleUserGuide) Gradle User Guide 中文版
@@ -549,6 +579,15 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - scutan90 [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述
 - MindorksOpenSource [from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md) kotlin和java的对比介绍
 - SusionSuc [AdvancedAndroid](https://github.com/SusionSuc/AdvancedAndroid) 一系列Android进阶文章
+- leavesC [Java_Kotlin_Android_Learn](https://github.com/leavesC/Java_Kotlin_Android_Learn) 这是一份关于 Java 、Kotlin 、 Android 的学习笔记
+- hencoder[PracticeDraw1](https://github.com/hencoder/PracticeDraw1) 一个自定义view的课程教学
+- simplezhli [AndroidUT](https://github.com/simplezhli/AndroidUT) 单元测试案例
+- kdn251 [interviews](https://github.com/kdn251/interviews) 面试需要知道的知识点
+- open-android [Android](https://github.com/open-android/Android) GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
+- USTC-Resource [USTC-Course](https://github.com/USTC-Resource/USTC-Course) 收录中国科学技术大学众多课程资源的笔记，总结，经验等
+- GcsSloop [AndroidNote](https://github.com/GcsSloop/AndroidNote) 安卓学习笔记
+- jobbole [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
+- satwikkansal [wtfpython](https://github.com/satwikkansal/wtfpython) Python 相关
 
 # 开发指南:
 - codepath [android_guides](https://github.com/codepath/android_guides) Android开发者指南，这个作者下有很多android的demo
@@ -602,11 +641,14 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - NativeScript [NativeScript](https://github.com/NativeScript/NativeScript) NativeScript是一个用JavaScript构建真正的本地移动应用程序的开源框架。 使用网络技能，如Angular，FlexBox和CSS，并在iOS和Android上获取原生UI和性能。
 - framework7io [framework7](https://github.com/framework7io/framework7) 全功能的HTML框架，用于构建iOS和Android应用程序
 - kivy [kivy](https://github.com/kivy/kivy) 用Python编写的开源UI框架，运行在Windows，Linux，macOS，Android和iOS上
+- dcloudio [uni-app](https://github.com/dcloudio/uni-app) 开发者通过编写 Vue.js 代码，uni-app 将其编译到 iOS、Android、小程序、H5等多个平台，保证其正确运行并达到优秀体验。
+- didi [chameleon](https://github.com/didi/chameleon) 一套代码运行多端，一端所见即多端所见
  
 # flutter
 - yubo725 [flutter-osc](https://github.com/yubo725/flutter-osc) 基于Google Flutter的开源中国客户端，支持Android和iOS。
 - flutter [plugins](https://github.com/flutter/plugins) 官方插件
 - OpenFlutter [Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) 日更的FlutterDemo合集
+- alibaba [flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
  
 # react-native
 - xujinyang [react-native-android-guide](https://github.com/xujinyang/react-native-android-guide) 致力于帮助Android开发者转react-native开发。多点一个技能树，多一份天地。
