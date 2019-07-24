@@ -51,6 +51,7 @@
 # 网络辅助类：
 - ihsanbal [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor)okhttp的log拦截器
 - facebook [stetho](https://github.com/facebook/stetho) 可以通过浏览器，查看app的DB和Sp的内容 ，并且有配合Okhttp的拦截器，可以查看网络请求（抓包）
+- yale8848 [RetrofitCache](https://github.com/yale8848/RetrofitCache) RetrofitCache让retrofit2+okhttp3+rxjava配置缓存如此简单。通过注解配置，可以针对每一个接口灵活配置缓存策略；同时让每一个接口方便支持数据模拟，可以代码减小侵入性，模拟数据可以从内存，Assets，url轻松获取。
 
 # 视频类:
 - Bilibili [ijkplayer](https://github.com/Bilibili/ijkplayer)
@@ -115,6 +116,10 @@
 - youth5201314 [banner](https://github.com/youth5201314/banner) Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！
 - ImmortalZ [StereoView](https://github.com/ImmortalZ/StereoView) Android 3D立体无限旋转容器。
 - pinguo-zhouwei [MZBannerView](https://github.com/pinguo-zhouwei/MZBannerView) 仿魅族BannerView,图片轮播控件,支持多种模式切换：普通ViewPager使用，普通Banner使用，仿魅族Banner使用。
+- chengdazhi [DecentBanner](https://github.com/chengdazhi/DecentBanner) 红板报风格的banner
+
+# TitleBar:
+- wuhenzhizao [android-titlebar](https://github.com/wuhenzhizao/android-titlebar) 通用，功能全面的自定义标题栏，支持沉浸式标题栏，颜色渐变
 
 # 设置view（基本上每个app都会有的settingview）
 - leonHua [LSettingView](https://github.com/leonHua/LSettingView)
@@ -193,6 +198,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - flavioarfaria [KenBurnsView](https://github.com/flavioarfaria/KenBurnsView) 带动画的imageview
 - florent37 [DiagonalLayout](https://github.com/florent37/DiagonalLayout) 可以给imageview切斜边
 - wasabeef [Blurry](https://github.com/wasabeef/Blurry) 毛玻璃效果
+- chengdazhi [StyleImageView](https://github.com/chengdazhi/StyleImageView) 本类库可以对ImageView，View Background，Drawable和Bitmap添加风格与设置亮度、对比度。本类库现提供十种风格
 
 # 图片显示相关：
 - bumptech [glide](https://github.com/bumptech/glide) 官方推荐加载图片库
@@ -247,12 +253,13 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - elye [loaderviewlibrary](https://github.com/elye/loaderviewlibrary) 在显示任何文本或图像之前，提供textview和imageview两种显示微光（动画加载器）的功能。等待数据从网络加载时很有用。
 - Bearded-Hen [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) 引导程序样式小部件的android，具有标志符号图标，自带小图标的textview、button、下拉选择等等。[图标库地址](https://fontawesome.com/cheatsheet)
 
-# 悬浮类：
+# 悬浮类(dialog)：
 - yhaolpz [FloatWindow](https://github.com/yhaolpz/FloatWindow) Andorid 任意界面悬浮窗
 - txusballesteros [bubbles-for-android](https://github.com/txusballesteros/bubbles-for-android) Bubbles for Android是一个Android库，为您的应用程序提供聊天头功能.可以任何界面悬浮
 - afollestad [material-dialogs](https://github.com/afollestad/material-dialogs) 一个美丽，流畅，可定制的对话框API。
 - wangjiegulu [RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton) FloatingActionButton，可以弹出很多子选项
 - pedant [sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog) Android版的SweetAlert，清新文艺，快意灵动的甜心弹框
+- kongzue [DialogV3](https://github.com/kongzue/DialogV3) 集成三种风格+夜间模式对话框，以及等待、提示、分享等特色对话框，支持花式自定义
 
 # PopupWindow
 - razerdp [BasePopup](https://github.com/razerdp/BasePopup) Android下打造通用便捷的PopupWindow
@@ -362,10 +369,12 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - peng8350 [LoadingProgress](https://github.com/peng8350/LoadingProgress) 特别方便的在View上，注入一个进度条，改进度条和view绑定，所以一个页面上如果有很多view都需要进度条显示，用这个库会很方便
 - baoyachi [StepView](https://github.com/baoyachi/StepView) 类似京东的发货进度
 
-# 加载类：
+# 加载类(Loading)：
 - 81813780 [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) 适合Android的漂亮的加载动画 
 - zyao89 [ZLoading](https://github.com/zyao89/ZLoading) 很多图案的加载动画
-- Rogero0o [GifLoadingView](https://github.com/Rogero0o/GifLoadingView) 
+- Rogero0o [GifLoadingView](https://github.com/Rogero0o/GifLoadingView)
+- luckybilly [Gloading](https://github.com/luckybilly/Gloading) 深度解耦Android App中全局加载中、加载失败及空数据视图
+- ansnail [Loading](https://github.com/ansnail/Loading) 解耦程度很好的全局Loading框架
 
 # 折叠式view:
 - Ramotion [folding-cell-android](https://github.com/Ramotion/folding-cell-android) [使用方法](http://www.jcodecraeer.com/a/opensource/2016/0414/4145.html)
@@ -484,6 +493,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # AOP
 - HujiangTechnology [gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx) 一个基于AspectJ并在此基础上扩展出来可应用于Android开发平台的AOP框架，可作用于java源码，class文件及jar包，同时支持kotlin的应用。
+- eleme [lancet](https://github.com/eleme/lancet) Lancet 是一个轻量级Android AOP框架。
 
 # 代码工具类：
 - Blankj [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) 各种工具类，你能想到的工具类，基本都有了这个库
@@ -620,6 +630,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - DrizzleRisk [drizzleDumper](https://github.com/DrizzleRisk/drizzleDumper) 是一款基于内存搜索的Android脱壳工具。
 - WrBug [dumpDex](https://github.com/WrBug/dumpDex) 一款Android脱壳工具，需要xposed支持
 
+# 增量更新：
+- yale8848 [EasyIncrementalUpdate](https://github.com/yale8848/EasyIncrementalUpdate) Android差分补丁库，通过native层合并APK，实现增量更新升级，让你更新的APK更小。
+
 # 组件化开发：
 - luckybilly[CC](https://github.com/luckybilly/CC) 使用简单但功能强大的安卓组件化框架,此组件化与业内的插件化（如：Atlas, RePlugin等）不是同一个概念
 - wequick [Small](https://github.com/wequick/Small) Small插件化方案适用于将一个APK拆分为多个公共库插件、业务模块插件的场景。
@@ -657,3 +670,6 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - swagger-api [swagger-ui](https://github.com/swagger-api/swagger-ui) 
 - thx [RAP](https://github.com/thx/RAP) Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！2代已出，下面这个
 - thx [rap2-delos](https://github.com/thx/rap2-delos) 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
+
+# 测试类：
+- alipay [SoloPi](https://github.com/alipay/SoloPi) Soloπ是一个无线化、非侵入式的Android自动化工具，公测版拥有录制回放、性能测试、一机多控三项主要功能，能为测试开发人员节省宝贵时间。
