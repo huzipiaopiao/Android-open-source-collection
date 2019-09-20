@@ -349,6 +349,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - hongyangAndroid [FlowLayout](https://github.com/hongyangAndroid/FlowLayout) Android流式布局，支持单选、多选等，适合用于产品标签等。
 - bingoogolapple [BGAFlowLayout-Android](https://github.com/bingoogolapple/BGAFlowLayout-Android) Android 流式布局，可配置是否将每一行的空白区域平均分配给子控件
 
+# Toast(吐司)
+- getActivity [ToastUtils](https://github.com/getActivity/ToastUtils)
 
 # 透明指示层 (HUD)
 - TakuSemba [Spotlight](https://github.com/TakuSemba/Spotlight)
@@ -375,6 +377,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - Rogero0o [GifLoadingView](https://github.com/Rogero0o/GifLoadingView)
 - luckybilly [Gloading](https://github.com/luckybilly/Gloading) 深度解耦Android App中全局加载中、加载失败及空数据视图
 - ansnail [Loading](https://github.com/ansnail/Loading) 解耦程度很好的全局Loading框架
+- Ajian-studio [GALeafLoading](https://github.com/Ajian-studio/GALeafLoading) 一个很好看的加载中动画效果
 
 # 折叠式view:
 - Ramotion [folding-cell-android](https://github.com/Ramotion/folding-cell-android) [使用方法](http://www.jcodecraeer.com/a/opensource/2016/0414/4145.html)
@@ -443,6 +446,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # TextView
 - hanks-zyh [HTextView](https://github.com/hanks-zyh/HTextView) 带各种动画特效的textview
+- frakbot [JumpingBeans](https://github.com/frakbot/JumpingBeans) 使textview跳跃起来
 
 # button
 - Bearded-Hen [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) 用于Android的引导样式小部件，带有字形图标
@@ -515,6 +519,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - orhanobut [logger](https://github.com/orhanobut/logger)
 - Blankj [ALog](https://github.com/Blankj/ALog)
 - JakeWharton [hugo](https://github.com/JakeWharton/hugo) 调试版本的注释触发方法调用日志记录。
+- Meituan-Dianping [Logan](https://github.com/Meituan-Dianping/Logan) Logan 承载着各种日志的聚合、存储、分析，作为基础日志库，上传日志。
 
 # 开发辅助工具类:
 - facebook [stetho](https://github.com/facebook/stetho) 可以通过浏览器，查看app的DB和Sp的内容 ，并且有配合Okhttp的拦截器，可以查看网络请求（抓包）
