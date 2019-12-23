@@ -22,6 +22,7 @@
 
 # 国外优秀开源作者
 - [JakeWharton](https://github.com/JakeWharton)
+- [Chris Banes](https://github.com/chrisbanes)
 - [florent37](https://github.com/florent37)
 - [amitshekhariitbhu](https://github.com/amitshekhariitbhu)
 - [Antonio Leiva](https://github.com/antoniolg) 很多Kotlin的介绍
@@ -296,7 +297,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - SumiMakito [AwesomeQRCode](https://github.com/SumiMakito/AwesomeQRCode) 二维码生成器
 
 # HTML:
+- Justson [AgentWeb](https://github.com/Justson/AgentWeb)
 - jhy [jsoup](https://github.com/jhy/jsoup) Java的HTML解析器，最好的DOM，CSS和jQuery
+- Tencent [VasSonic](https://github.com/Tencent/VasSonic)
 
 # 文件查看：
 - 腾讯 [TBS](https://x5.tencent.com/tbs/index.html) 腾讯的浏览服务，可以查看各种文件（包括office的文件）
@@ -494,6 +497,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - Tencent [https://github.com/Tencent/tinker/](tinker) 
 - alibaba [https://github.com/alibaba/AndFix/](AndFix) 
 - Meituan-Dianping [Robust](https://github.com/Meituan-Dianping/Robust/) Robust是新一代热更新系统，无差别兼容Android2.3-8.0版本；无需重启补丁实时生效，快速修复线上问题，补丁修补成功率高达99.9%。
+- feelschaotic  [SDKHotFix](https://github.com/feelschaotic/SDKHotFix) 在用户规模千万级别的app中验证过，稳定无兼容问题，5分钟让你的SDK拥有热修复能力。
 
 # AOP
 - HujiangTechnology [gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx) 一个基于AspectJ并在此基础上扩展出来可应用于Android开发平台的AOP框架，可作用于java源码，class文件及jar包，同时支持kotlin的应用。
@@ -604,6 +608,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - jobbole [awesome-java-cn](https://github.com/jobbole/awesome-java-cn) Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 - satwikkansal [wtfpython](https://github.com/satwikkansal/wtfpython) Python 相关
 
+# Android 知识汇总
+- feelschaotic [AndroidKnowledgeSystem](https://github.com/feelschaotic/AndroidKnowledgeSystem) 你想要的最全 Android 进阶路线知识图谱+干货资料收集
+
 # 开发指南:
 - codepath [android_guides](https://github.com/codepath/android_guides) Android开发者指南，这个作者下有很多android的demo
 - futurice [android-best-practices](https://github.com/futurice/android-best-practices) 为Android开发做的和不该做的事的建议
@@ -616,6 +623,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - [牛客网](https://www.nowcoder.com/)
 - MisterBooo [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) 动画演示各种算法
 - liuyubobobo [Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode) Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言
+- 刷题 [LeetCode](https://leetcode-cn.com/problemset/all/)
 
 # 打包：
 - Tencent [VasDolly](https://github.com/Tencent/VasDolly) VasDolly是一种快速多渠道打包工具，同时支持基于V1签名和V2签名进行多渠道打包。
@@ -663,6 +671,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - didi [chameleon](https://github.com/didi/chameleon) 一套代码运行多端，一端所见即多端所见
  
 # flutter
+- wendux [flutter实战](https://book.flutterchina.club/) Flutter中文网社区作者写的flutter开发书籍
 - yubo725 [flutter-osc](https://github.com/yubo725/flutter-osc) 基于Google Flutter的开源中国客户端，支持Android和iOS。
 - flutter [plugins](https://github.com/flutter/plugins) 官方插件
 - OpenFlutter [Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) 日更的FlutterDemo合集
@@ -675,6 +684,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - swagger-api [swagger-ui](https://github.com/swagger-api/swagger-ui) 
 - thx [RAP](https://github.com/thx/RAP) Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！2代已出，下面这个
 - thx [rap2-delos](https://github.com/thx/rap2-delos) 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
+- APIJSON [APIJSON](https://github.com/APIJSON/APIJSON) 通过自动化API，前端可以定制任何数据、任何结构！大部分HTTP请求后端再也不用写接口了，更不用写文档了！
 
 # 测试类：
 - alipay [SoloPi](https://github.com/alipay/SoloPi) Soloπ是一个无线化、非侵入式的Android自动化工具，公测版拥有录制回放、性能测试、一机多控三项主要功能，能为测试开发人员节省宝贵时间。
