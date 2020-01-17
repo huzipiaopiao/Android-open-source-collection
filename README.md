@@ -217,6 +217,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 图表类：
 - PhilJay [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)一个强大的Android图表视图/图形视图库，支持线条形 - 雷达 - 泡沫和烛台图表，以及缩放，拖动和动画。
+- AAChartModel [AAChartCore](https://github.com/AAChartModel/AAChartCore) 极其精美而又强大的 Android 数据可视化图表框架,支持柱状图、条形图、折线图、曲线图、折线填充
+- openXu [OXChart](https://github.com/openXu/OXChart) 各种自定义图表库，使用简单，支持扩展
 - huangyanbin [SmartChart](https://github.com/huangyanbin/SmartChart)一款android 图表框架，支持图表N配置，支持缩放,旋转手势。
 - lecho [hellocharts-android](https://github.com/lecho/hellocharts-android) [使用方法](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1107/1930.html)适用于Android的图表/图表库兼容API 8+，多种图表类型，支持缩放，滚动和动画 
 - xcltapestry [XCL-Charts](https://github.com/xcltapestry/XCL-Charts) 国内开源的，所以有中文文档
@@ -347,6 +349,8 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - hanks-zyh [SmallBang](https://github.com/hanks-zyh/SmallBang) 心型点赞
 - lnikkila [ExtendedTouchView](https://github.com/lnikkila/ExtendedTouchView) 扩展view的点击触摸区域
 - iammert [ScalingLayout](https://github.com/iammert/ScalingLayout) 通过缩放布局，可以在用户交互上缩放布局。
+- RuffianZhong [RWidgetHelper](https://github.com/RuffianZhong/RWidgetHelper) 通过继承原生控件，设置自定义属性，解决常用 Selector，Gradient，Shape， 阴影，水波纹等功能，原生控件都可实现 **基础功能** ，针对具体控件还有 **个性功能**
+- mcxtzhang [PathAnimView](https://github.com/mcxtzhang/PathAnimView) 用于做Path动画的自定义View(根据你设定的path，可以执行对应的动画)
 
 # 流式布局
 - hongyangAndroid [FlowLayout](https://github.com/hongyangAndroid/FlowLayout) Android流式布局，支持单选、多选等，适合用于产品标签等。
@@ -539,6 +543,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - eleme [UETool](https://github.com/eleme/UETool) UETool 是一个各方人员（设计师、程序员、测试）都可以使用的UI调试工具。它可以作用于任何显示在屏幕上的 view，比如 Activity/Fragment/Dialog/PopupWindow 等等。
 - Sunzxyong [Recovery](https://github.com/Sunzxyong/Recovery) 一个App异常时恢复框架
 - didi [DoraemonKit](https://github.com/didi/DoraemonKit) DoraemonKit 是一个功能集合面板，能够让每一个 App 快速接入一些常用的或者你没有实现的一些辅助开发工具、测试效率工具、视觉辅助工具，而且能够完美在 Doraemon 面板中接入你已经实现的与业务紧密耦合的一些非通有的辅助工具，功能强大，接入方便，便于扩展。
+- zhengcx [MethodTraceMan](https://github.com/zhengcx/MethodTraceMan) 用于快速找到高耗时方法，定位解决Android App卡顿问题。通过gradle plugin+ASM实现可配置范围的方法插桩来统计所有方法的耗时，并提供友好的界面展示，支持耗时筛选、线程筛选、方法名筛选等。
 
 # Android高端玩法：
 - alibaba [ARouter](https://github.com/alibaba/ARouter)一个安卓路由器中间件，帮助应用程序导航到活动和自定义服务。
@@ -583,6 +588,9 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - 1c7 [crash-course-computer-science-chinese](https://github.com/1c7/crash-course-computer-science-chinese) 计算机科学速成课
 - tuvtran [project-based-learning](https://github.com/tuvtran/project-based-learning) 各类语音的学习资料
 - EasyKotlin [EasyKotlin](https://github.com/EasyKotlin) kotlin资料
+- ruanyf [free-books](https://github.com/ruanyf/free-books) 互联网上的免费书籍
+- lib-pku [libpku](https://github.com/lib-pku/libpku) 高校免费书籍
+- wenhan-wu [OpenCourseCatalog](https://github.com/wenhan-wu/OpenCourseCatalog) 公开课视频资料
 
 # 知识体系：
 - sindresorhus [awesome](https://github.com/sindresorhus/awesome) 各种语言的知识体系集合
@@ -688,3 +696,10 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 
 # 测试类：
 - alipay [SoloPi](https://github.com/alipay/SoloPi) Soloπ是一个无线化、非侵入式的Android自动化工具，公测版拥有录制回放、性能测试、一机多控三项主要功能，能为测试开发人员节省宝贵时间。
+
+# 图床工具：
+- Molunerfinn [PicGo](https://github.com/Molunerfinn/PicGo)
+- xiebruce [PicUploader](https://github.com/xiebruce/PicUploader)
+
+# 博客搭建：
+- barryclark [jekyll-now](https://github.com/barryclark/jekyll-now) fork过来更改下就是自己的博客了
