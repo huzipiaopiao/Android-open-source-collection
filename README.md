@@ -591,6 +591,7 @@ Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。
 - ruanyf [free-books](https://github.com/ruanyf/free-books) 互联网上的免费书籍
 - lib-pku [libpku](https://github.com/lib-pku/libpku) 高校免费书籍
 - wenhan-wu [OpenCourseCatalog](https://github.com/wenhan-wu/OpenCourseCatalog) 公开课视频资料
+- leavesCZY [AndroidGuide](https://github.com/leavesCZY/AndroidGuide) Android Developer 的进阶学习笔记
 
 # 知识体系：
 - sindresorhus [awesome](https://github.com/sindresorhus/awesome) 各种语言的知识体系集合
